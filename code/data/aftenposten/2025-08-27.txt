@@ -1,0 +1,239 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-27
+SECTION_NO: Lederartikkel
+HEADLINE_NO: Elever må laere at livet er fullt av ubehag
+HEADLINE_EN: Students must learn that life is full of discomfort
+LEAD_EN: It can be uncomfortable to give presentations, take part in gym class, or make new friends, but schools should help students face such challenges rather than avoid them. The editorial argues that shielding anxious pupils from discomfort leaves them less prepared for adult life.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about schools, student well-being, and how public institutions should handle anxiety and social development, which fits health/welfare/public services best.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-27
+SECTION_NO: Kommentator i Aftenposten
+HEADLINE_NO: Diskusjonen om Nationaltheatrets fremtid er neppe over
+HEADLINE_EN: The discussion about the National Theatre’s future is probably not over
+LEAD_EN: The columnist argues that Culture Minister Lubna Jaffery’s attempt to settle the future of the decaying National Theatre may not hold. A competing proposal to expand and renovate the historic building in central Oslo could reopen the political debate.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is mainly about a major public cultural institution and state provision of services, while secondarily criticizing Labour-led handling and political decision-making around the project.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-27
+SECTION_NO: 
+HEADLINE_NO: Reguleringsrekord i bystyret: Vil vedta 2300 nye boliger i ett møte.
+HEADLINE_EN: Record zoning decision in the city council: Wants to approve 2,300 new homes in a single meeting.
+LEAD_EN: Oslo is set to approve zoning for around 2,300 homes in one city council meeting, more than were approved in all of last year. The article frames faster housing approvals as part of a broader push to boost construction and ease pressure in the housing market.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about housing supply, market pressure, and efforts to speed up construction, which fits the economy/cost-of-living category best, with a secondary public-services planning angle.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-27
+SECTION_NO: 
+HEADLINE_NO: Tre års byggeforbud i Oslo: – Nå går det ikke lenger
+HEADLINE_EN: Three years of a building ban in Oslo: “This cannot go on”
+LEAD_EN: For more than three years, 28,000 properties in Oslo have faced a full building ban while national authorities object to the city’s new small-house zoning plan over flood and landslide risk. Local politicians say the delay is untenable and is worsening Oslo’s housing shortage.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is mainly about housing supply and regulatory delays affecting construction in Oslo, with a secondary climate/environment dimension tied to flood and landslide risk assessments.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-27
+SECTION_NO: Kommentator i Aftenposten
+HEADLINE_NO: Venstre viser vinglestyrke
+HEADLINE_EN: Venstre shows the strength of wavering
+LEAD_EN: Venstre leader Guri Melby says the party could let Jonas Gahr Støre remain prime minister if a right-wing government does not deliver much stronger climate policy. The commentary presents Venstre as a possible kingmaker and focuses on coalition dynamics ahead of the election.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about government formation, coalition bargaining, and election strategy, with climate policy serving as the key secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-27
+SECTION_NO: 
+HEADLINE_NO: – Ubegripelig at ikke sikkerheten hennes ble ivaretatt
+HEADLINE_EN: “Incomprehensible that her safety was not safeguarded”
+LEAD_EN: Child welfare workers are reacting strongly after a 34-year-old employee was left alone with an 18-year-old known for far-right extremist views and was later killed on the job. The article focuses on failures in workplace safety, risk assessment, and employer responsibility in the child welfare system.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: IMM
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about safety, staffing, and employer responsibility in child welfare services, with a secondary dimension involving racism and far-right extremism.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-27
+SECTION_NO: 
+HEADLINE_NO: 15 år og fem høyreekstreme drap: – Faerre, men verre
+HEADLINE_EN: 15 years and five far-right murders: “Fewer, but worse”
+LEAD_EN: After the killing of Tamima Nibras Juhar, the article reviews more than 20 far-right attacks in Norway since 2010 and highlights a shift toward fewer but more severe acts of extremist violence. Researchers say online radicalization and lone-actor terrorism have become more prominent.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: IMM
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about terrorism, extremist violence, and public security in Norway, with a secondary link to anti-immigrant targeting and far-right ideology.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-27
+SECTION_NO: Kommentar
+HEADLINE_NO: «Norge sto opp mot terroren. Men hatet forsvant aldri.»
+HEADLINE_EN: “Norway stood up to terrorism. But the hatred never disappeared.”
+LEAD_EN: Commentator Daniel Røed-Johansen argues that Tamima Nibras Juhar was killed because she was an immigrant and a Muslim, and that the attack has shaken Norway’s sense of trust and safety. He places the killing in a broader context of far-right extremism, racism, and anti-Muslim hatred.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: IMM
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about terrorism, extremist violence, and societal security, with a secondary focus on anti-immigrant and anti-Muslim hatred.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-27
+SECTION_NO: 
+HEADLINE_NO: Politiprofessor: Gamle politiattester gjør at overgripere kan gå under radaren
+HEADLINE_EN: Police professor: Old background checks allow abusers to slip under the radar
+LEAD_EN: A law professor is calling for a full review after Aftenposten revealed that a convicted child rapist was able to remain in a job because employers cannot routinely renew criminal record checks for existing staff. The article argues that the current system gives employers false reassurance and may leave children inadequately protected.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about shortcomings in laws, oversight, and administrative rules on police certificates, with a secondary connection to safeguarding in welfare and public-service settings.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-27
+SECTION_NO: 
+HEADLINE_NO: Fersk meningsmåling: Frp går tilbake, Ap vokser mest.
+HEADLINE_EN: New poll: The Progress Party falls back, Labour grows the most.
+LEAD_EN: A new poll less than two weeks before the election shows Frp losing support while Høyre gains voters back, but Labour posts the strongest growth overall. The article focuses on shifting party support and the implications for government formation.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about polling, party competition, and possible parliamentary majorities, which fits governance/leadership rather than any specific policy issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-27
+SECTION_NO: Politisk redaktør i Aftenposten
+HEADLINE_NO: Slik kan mobilisering avgjøre valget
+HEADLINE_EN: How mobilization can decide the election
+LEAD_EN: The article argues that the election may be decided by voter loyalty and turnout, as former supporters return to Labour and Høyre while less reliable protest voters drift away from Frp. It focuses on how these shifts could determine parliamentary majorities and whether Jonas Gahr Støre stays in power.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is mainly about polling, voter mobilization, and government formation, and it presents Labour’s renewed voter loyalty and chances of staying in power in a favourable light.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-27
+SECTION_NO: 
+HEADLINE_NO: Kan disse ha haiket i feriekofferten din? Da haster det.
+HEADLINE_EN: Could these have hitchhiked in your vacation suitcase? Then it is urgent.
+LEAD_EN: The article warns that bedbugs may be brought home from travel and stresses that suspected infestations should be dealt with quickly before they spread. A pest researcher explains how to spot them and why early action can reduce harm and costs.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about public health, household well-being, and pest control advice, which fits health/welfare/public services best.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-27
+SECTION_NO: 
+HEADLINE_NO: Venstre-representant vil kaste Venstre-byråd
+HEADLINE_EN: Venstre representative wants to oust Venstre city councillor
+LEAD_EN: A Venstre representative in Oslo is calling for the party’s own social affairs councillor, Julianne Ferskaug, to be replaced, arguing that she has not been visible enough in eastern Oslo and multicultural communities. The article centers on internal party conflict and local political leadership.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about internal party conflict, political leadership, and local governance rather than a specific policy domain.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-27
+SECTION_NO: 
+HEADLINE_NO: Russland forsøkte i 37 år. Trump fikk til en fredsavtale på rekordtid.
+HEADLINE_EN: Russia tried for 37 years. Trump secured a peace deal in record time.
+LEAD_EN: The article examines the peace agreement between Armenia and Azerbaijan brokered by Donald Trump and the planned new transport corridor through Armenia. It argues that the deal could weaken Russia’s grip on the Caucasus while also reducing Iran’s regional leverage.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about foreign policy, regional power shifts, and security dynamics involving Russia, Armenia, Azerbaijan, Iran, and the United States.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-27
+SECTION_NO: 
+HEADLINE_NO: Høiby kan straffes med inntil 16 års fengsel
+HEADLINE_EN: Høiby could be sentenced to up to 16 years in prison
+LEAD_EN: The article explains that although prosecutors said the maximum sentence in Marius Borg Høiby’s case is ten years, the court could in theory impose up to 16 years if he is convicted on multiple counts. It focuses on how sentencing rules may apply in his upcoming trial.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a legal/crime report about sentencing in a criminal case, which does not fit the main election issue categories, though it has a secondary governance/legal-system angle.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-27
+SECTION_NO: 
+HEADLINE_NO: Kappet fem kabler med ankeret. Kapteinen hevder det var et uhell.
+HEADLINE_EN: Cut five cables with the anchor. The captain claims it was an accident.
+LEAD_EN: Prosecutors say an oil tanker dragged its anchor across the Gulf of Finland for hours and cut one power cable and four data cables, while the captain claims it was an accident caused by a technical fault. The case centers on possible deliberate sabotage of critical infrastructure.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about damage to critical undersea infrastructure, cross-border security, and a criminal case with national-security implications.

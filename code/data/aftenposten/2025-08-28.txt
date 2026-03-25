@@ -1,0 +1,254 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: Leder
+HEADLINE_NO: Økonomisk kortslutning, politisk korttenkt
+HEADLINE_EN: Economic short circuit, politically short-sighted
+LEAD_EN: The government is increasing support for household energy-saving measures through Enova, while at the same time planning to spend far more subsidizing electricity consumption through the “Norgespris” scheme. The editorial argues that this is economically self-defeating and politically short-sighted.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about electricity prices, subsidies, and incentives for household energy use, framed as criticism of the government’s economic policy, with a secondary climate/energy-efficiency dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: Kommentar
+HEADLINE_NO: Harald Eia provoserer om kvinnehelse og har vandret ut i et minefelt
+HEADLINE_EN: Harald Eia provokes on women’s health and has wandered into a minefield
+LEAD_EN: Commentator Rakel Haugen Strand criticizes Harald Eia for suggesting that women’s strong interest in health can make them sicker. She argues that women often seek medical help more because their symptoms are dismissed and women’s health has long been neglected.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about women’s health, healthcare recognition, diagnosis, and medical stigma rather than party politics or election strategy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: 
+HEADLINE_NO: Forlot møte som skulle handle om våpenhvile, for å feire med bosettere
+HEADLINE_EN: Left a meeting that was supposed to be about a ceasefire to celebrate with settlers
+LEAD_EN: Hope briefly rose for a new Gaza ceasefire after Hamas accepted a proposal for a 60-day pause, but Prime Minister Benjamin Netanyahu instead escalated the war and faced growing criticism inside Israel. The article highlights his choice to leave a cabinet meeting early to attend a celebration with West Bank settlers.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Gaza war and ceasefire politics, with a secondary foreign-policy/security dimension related to Israel’s military strategy and regional diplomacy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: 
+HEADLINE_NO: Hungersnød blant barn i Gaza: Dette skjer når kroppen sulter
+HEADLINE_EN: Famine among children in Gaza: What happens when the body starves
+LEAD_EN: The UN estimates that 132,000 children under five in Gaza will suffer acute malnutrition by June 2026 because of Israel’s aid blockade. The article explains how starvation affects children’s bodies and why they are far more vulnerable than adults.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Gaza humanitarian crisis and Israel’s blockade, with a secondary health angle focused on child malnutrition and medical consequences.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: 
+HEADLINE_NO: Norgesgruppen tjente nesten 2 mrd. før skatt første halvår
+HEADLINE_EN: Norgesgruppen earned nearly NOK 2 billion before tax in the first half of the year
+LEAD_EN: Norgesgruppen reported NOK 60.4 billion in revenue and NOK 1.965 billion in pre-tax profit in the first six months of the year. The article links the results to rising grocery prices and the political debate over the power of supermarket chains during the election campaign.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about rising food prices, household economic pressure, and supermarket profits, with a secondary governance angle through campaign debate and the government’s meetings with grocery chains.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: 
+HEADLINE_NO: Skyhøye dødstall i krigen, men i Moskva er det full fest
+HEADLINE_EN: Sky-high death tolls in the war, but in Moscow the party goes on
+LEAD_EN: Despite massive Russian battlefield losses in the war against Ukraine, daily life in Moscow remains festive and largely detached from the conflict. The article argues that Putin has insulated the big cities by relying on recruits from poorer regions and paying heavily for enlistment.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Russia’s war against Ukraine, military losses, and Putin’s wartime strategy, which squarely fits security/foreign policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: 
+HEADLINE_NO: Eierne advarte ansatte om formuesskatt. Samtidig tok de ut gigantisk utbytte.
+HEADLINE_EN: The owners warned employees about the wealth tax. At the same time, they paid themselves a giant dividend.
+LEAD_EN: The owners of Oluf Lorentzen told employees that the wealth tax was draining the company and could threaten jobs. The article argues that most of the family’s wealth and dividend income comes from its large stake in Norgesgruppen, not from the delicatessen importer itself.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the wealth tax, private ownership, and dividend extraction, with a secondary governance/election angle because the owners explicitly tied the issue to the ongoing campaign.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: 
+HEADLINE_NO: Trump styrer USAs økonomi mer og mer som en diktator
+HEADLINE_EN: Trump is running the U.S. economy more and more like a dictator
+LEAD_EN: The commentary argues that Donald Trump is tightening political control over the U.S. economy by pressuring the central bank, intervening in private companies, and expanding presidential influence over regulators. It presents “America First” as a model of personalized state control rather than market liberalism.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about U.S. power, international economic statecraft, and the broader geopolitical implications of Trump’s rule, with a secondary governance dimension concerning executive control and institutional independence.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: Kommentar
+HEADLINE_NO: Frp har et eget ansvar for å forebygge ekstremisme
+HEADLINE_EN: The Progress Party has its own responsibility to prevent extremism
+LEAD_EN: The commentary argues that while Frp is not responsible for terror, it has a particular ability and duty to help prevent right-wing radicalization among people in or near its political milieu. It says mainstream society is unlikely to reach such individuals, whereas Frp and its youth wing might.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: IMM
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about party responsibility, democratic politics, and extremism prevention within Frp’s political sphere, with a secondary link to anti-immigration rhetoric associated with the far right.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: 
+HEADLINE_NO: Støre smiler av eks-kollega Pollestads kaffe latte-stunt
+HEADLINE_EN: Støre laughs at ex-colleague Pollestad’s café latte stunt
+LEAD_EN: After criticism that Labour and the Centre Party neglected the cities while governing together, Jonas Gahr Støre and Kamzy Gunaratnam now promise a more city-friendly Labour government. The article contrasts Labour’s new urban messaging with the Centre Party’s anti-Oslo rhetoric and past coalition tensions.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about Labour’s campaign positioning, coalition dynamics after the split with the Centre Party, and leadership messaging toward urban voters rather than a specific policy issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: 
+HEADLINE_NO: Støre er klart mest populaer
+HEADLINE_EN: Støre is clearly the most popular
+LEAD_EN: A new poll shows Jonas Gahr Støre is the preferred prime minister among 46 percent of respondents, well ahead of Erna Solberg and Sylvi Listhaug. The article focuses on leader popularity and late-campaign positioning ahead of the parliamentary election.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about polling, leadership popularity, and election competition over the prime ministership, which fits governance/leadership rather than a substantive policy issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: 
+HEADLINE_NO: Syvdoblet valgkampstøtte til Frp
+HEADLINE_EN: Campaign support for the Progress Party has increased sevenfold
+LEAD_EN: The article reports that Frp has received seven times more campaign donations than before the previous parliamentary election, as money in Norwegian politics continues to surge. It highlights concerns that large and unequal political donations may undermine democratic equality and influence election outcomes.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: TAX
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about campaign finance, political influence, and democratic fairness in the election, which fits governance, with a secondary link to the wealth-tax conflict driving some donor mobilization.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: 
+HEADLINE_NO: Dyr strøm har gitt lønnsfest for sjefer i offentlig eide kraftselskaper
+HEADLINE_EN: Expensive electricity has created a pay bonanza for bosses in publicly owned power companies
+LEAD_EN: An investigation finds that top executives at Norway’s largest publicly owned power companies have received far bigger pay rises than ordinary workers in recent years. The article links this to soaring electricity prices and growing criticism of executive pay in companies owned by the public.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about high electricity prices, energy-sector profits, and their economic effects, with a secondary governance angle concerning pay practices in publicly owned companies.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: 
+HEADLINE_NO: Forsvarer: Spansk mann frikjent for Norway Cup-vold
+HEADLINE_EN: Defense lawyer: Spanish man acquitted in Norway Cup violence case
+LEAD_EN: A Spanish football supporter accused of assaulting an assistant referee at the Norway Cup has been acquitted on self-defense grounds. The court found that the referee had acted aggressively and that the situation unfolded too quickly for other options.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a criminal court report about a violent incident at a football tournament in Norway and does not fit the main election-related issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: 
+HEADLINE_NO: Formuesskatt er blitt årets store snakkis blant unge menn. – Jeg frykter at jeg må flytte.
+HEADLINE_EN: Wealth tax has become this year’s big talking point among young men. “I fear I may have to move.”
+LEAD_EN: The article describes how the wealth tax has become a major election issue among young men, even among those who do not pay it, driven partly by social media and podcasts. It highlights business owners who say the tax forces dividend payouts, weakens investment, and may push Norwegian ownership abroad.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about the wealth tax and its alleged effects on business owners, investment, and ownership, while also framing Labour’s finance minister and national politicians as unsympathetic to these concerns.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: 
+HEADLINE_NO: MDG-topp ga opp, nå vil han vaere med igjen
+HEADLINE_EN: Top MDG figure gave up, now he wants to rejoin
+LEAD_EN: Former Green Youth leader Teodor Bruu, who recently said he had given up the climate struggle, now says he wants to return to the campaign. He says the prospect of Sylvi Listhaug representing Norway internationally and the urgency of the climate crisis pulled him back in.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about climate politics and renewed mobilization in MDG around the election, with a secondary governance element tied to campaign dynamics and party activism.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-28
+SECTION_NO: 
+HEADLINE_NO: Derfor kvittet Oljefondet seg med aksjer i amerikansk anleggsgigant
+HEADLINE_EN: Why the Oil Fund got rid of shares in an American construction giant
+LEAD_EN: The article explains why Norway’s sovereign wealth fund sold its Caterpillar shares after concluding that the company’s machinery was linked to serious violations in Gaza. It places the decision in a broader pattern of the fund divesting from controversial Israel-related holdings.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Gaza, Israel-linked war conduct, and Norway’s sovereign wealth fund divestment response, with a secondary foreign-policy and international-law dimension.
