@@ -1,0 +1,209 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-10
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Støre inviterer til skattejakt. Har selv bundet seg fast.
+HEADLINE_EN: Støre invites a tax hunt. Has tied himself down.
+LEAD_EN: After Labour’s election victory, Jonas Gahr Støre again invited parties to join a tax commission to review Norway’s tax system. Unlike earlier this year, opposition parties are now more open to a broad tax settlement.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about tax policy and the need for a broad tax reform, while criticizing Labour for binding itself with campaign promises that may hinder such a deal.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-10
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Kjetil B. Alstadheim: Disse tre kan overta etter Solberg. Én av dem peker seg ut.
+HEADLINE_EN: Kjetil B. Alstadheim: These three could take over after Solberg. One stands out.
+LEAD_EN: After Høyre’s poor election result, attention is turning to who might succeed Erna Solberg as party leader. Ine Eriksen Søreide appears to be the strongest candidate, though Henrik Asheim and Peter C. Frølich are also discussed.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about party leadership, succession, and strategic renewal in Høyre, which makes governance and political leadership the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-10
+SECTION_NO: Nyheter
+HEADLINE_NO: Jakten på etterfølgeren er i gang
+HEADLINE_EN: The search for a successor is underway
+LEAD_EN: After Erna Solberg announced she will not seek re-election, pressure is mounting for her to step down quickly. The article also examines how wealthy donors on the right backed the election campaign but still failed to unseat Jonas Gahr Støre.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: TAX
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns leadership change, election fallout, and the future direction of Høyre, with a secondary emphasis on the wealth-tax debate and donor influence.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-10
+SECTION_NO: Nyheter
+HEADLINE_NO: «Verdikonservativ blokk» kan gi Støre kraftig hodebry
+HEADLINE_EN: “A values-conservative bloc” could give Støre a major headache
+LEAD_EN: Although Labour won the election, it lacks a parliamentary majority and may face defeats in the Storting. The article highlights how the Centre Party could cooperate with parties on the right in selected issues, complicating governance for Støre.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: TAX
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is mainly about parliamentary arithmetic, coalition dynamics, and the difficulties Labour may face governing without a majority, with tax policy as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-10
+SECTION_NO: Nyheter
+HEADLINE_NO: En helt utrolig revansj for Støre
+HEADLINE_EN: A truly incredible comeback for Støre
+LEAD_EN: Jonas Gahr Støre remains prime minister after Labour both increased its support and kept power. The piece argues that Sylvi Listhaug’s polarizing role and Jens Stoltenberg’s return as finance minister were key reasons for Labour’s revival.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article primarily analyzes Labour’s electoral comeback, leadership, and governing position after the election, while secondarily noting economic conditions that helped Støre.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-10
+SECTION_NO: Nyheter
+HEADLINE_NO: – Skatteløftet vårt ligger fast, selvfølgelig
+HEADLINE_EN: “Our tax pledge still stands, of course”
+LEAD_EN: Jonas Gahr Støre says Labour will keep its promise not to raise the overall tax level, even as he seeks talks with other parties on how to govern. He also confirmed that Jens Stoltenberg will continue as finance minister and that Labour will pursue a broader tax settlement.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Labour’s tax pledge and plans for a broader tax agreement, with governance and parliamentary cooperation as a secondary theme.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-10
+SECTION_NO: Nyheter
+HEADLINE_NO: – Veldig motivert for å fortsette
+HEADLINE_EN: “Very motivated to continue”
+LEAD_EN: Jens Stoltenberg says he is very motivated to remain finance minister after Labour’s election win. The article also notes that he wants renewed talks on a tax settlement, though he made a small verbal slip by calling himself prime minister.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: TAX
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is mainly about Stoltenberg’s role in the government and Labour’s post-election leadership continuity, with tax policy as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-10
+SECTION_NO: Nyheter
+HEADLINE_NO: Høyre-topper vil at hun går av
+HEADLINE_EN: Høyre figures want her to step down
+LEAD_EN: After Høyre’s worst election since 2005, senior party figures are signaling that Erna Solberg should step aside as leader. The article focuses on the growing internal pressure, possible successors, and the party’s coming renewal process.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about party leadership, succession, and internal evaluation in Høyre after an election defeat, which fits governance and political leadership.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-10
+SECTION_NO: Nyheter
+HEADLINE_NO: Lang liste med krav fra «tuttifrutti»-gjengen
+HEADLINE_EN: Long list of demands from the “tuttifrutti” gang
+LEAD_EN: Labour can continue in office, but Jonas Gahr Støre needs support from MDG, SV, Rødt and the Centre Party to secure parliamentary majorities. The article outlines the many policy demands these parties are already making in exchange for backing the government.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: GAZ
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about coalition bargaining and the demands smaller left-wing parties are making on Labour to govern, with Gaza-related sovereign wealth fund divestment as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-10
+SECTION_NO: Nyheter
+HEADLINE_NO: Brakvalg for Nordkalottfolket
+HEADLINE_EN: Landslide result for Nordkalottfolket
+LEAD_EN: The Sami parliamentary election may produce a new majority that supports wind power and the electrification of the Melkøya gas facility. Labour holds the balance of power and could help install Nordkalottfolket in leadership.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about energy, wind power, electrification, and related environmental-land use conflicts, with a secondary focus on coalition dynamics in the Sami Parliament.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-10
+SECTION_NO: Nyheter
+HEADLINE_NO: Tøff kamp om plassene på Stortinget
+HEADLINE_EN: Tough battle for seats in the Storting
+LEAD_EN: The article reviews which prominent politicians won or lost seats after the election, as the new parliament takes shape. It highlights shifts in party representation, the age and gender profile of the Storting, and several notable individual outcomes.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about parliamentary composition, election outcomes, and which politicians enter or leave the Storting, making governance and political representation the main issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-10
+SECTION_NO: Nyheter
+HEADLINE_NO: Fikk kun 765 stemmer – er inne på Stortinget
+HEADLINE_EN: Got only 765 votes – is in the Storting
+LEAD_EN: Despite receiving only 765 votes in Finnmark, MDG’s Siren Jensen won a seat in parliament because the party passed the national threshold for leveling seats. The article explains how Norway’s electoral system can produce such outcomes and also notes the broader election debate over the wealth tax.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: TAX
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about electoral representation and how Norway’s seat-allocation system works, with a secondary focus on the wealth-tax debate in the election campaign.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-10
+SECTION_NO: Nyheter
+HEADLINE_NO: Deler fire hjerter etter branntragedien på Hamar
+HEADLINE_EN: Sharing four hearts after the fire tragedy in Hamar
+LEAD_EN: Four young women aged 18–19 died in a house fire in Hamar, prompting widespread mourning in the local community. The article focuses on the tragedy, the ongoing investigation, and the support shown by residents and local authorities.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about a local fire tragedy, mourning, and the emergency response, which does not fit the main election-related issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-10
+SECTION_NO: Nyheter
+HEADLINE_NO: Stopper salget av én champagne etter juks
+HEADLINE_EN: Halts the sale of one champagne after fraud
+LEAD_EN: Vinmonopolet has stopped selling one champagne after the French producer behind it was convicted of selling fake champagne. The bottle sold in Norway has been sent for laboratory analysis to verify whether it is genuine.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about consumer fraud and wine sales controls, which does not fit the main political issue categories.

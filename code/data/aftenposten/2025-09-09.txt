@@ -1,0 +1,269 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Nå haster det med press på Russland
+HEADLINE_EN: Now there is urgency to increase pressure on Russia
+LEAD_EN: Russia launched a record wave of drones and missiles at Ukraine, showing again that Putin has no real interest in peace. The editorial argues that the West must respond with more military aid to Ukraine and much tougher sanctions on Russia.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the war in Ukraine, Western sanctions, military aid, and Europe’s and the U.S.’s security response toward Russia.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Drømmen om det analoge samfunn
+HEADLINE_EN: The dream of the analogue society
+LEAD_EN: A Japanese city wants to introduce a daily limit on smartphone use, even for adults, as part of a broader reaction against digital overuse. The columnist uses the case to reflect on screen addiction, symbolic regulation, and similar debates in Norway and other countries.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly a social commentary on smartphone use and digital dependency, which does not fit the main election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Nyheter
+HEADLINE_NO: Sjokk og sorg
+HEADLINE_EN: Shock and sorrow
+LEAD_EN: Four young women aged 18 and 19 died in a house fire in Hamar, one of Norway’s deadliest fires in recent years. The article reports on the emergency response, the local community’s grief, and the ongoing investigation into the cause.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a news report about a fatal house fire and public mourning, not an election-policy issue, though it secondarily touches on crisis response and public support services.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Nyheter
+HEADLINE_NO: Hun og hennes dommerkolleger kan avgjøre flere av Trumps hjertesaker
+HEADLINE_EN: She and her fellow justices could decide several of Trump’s signature issues
+LEAD_EN: Supreme Court Justice Amy Coney Barrett says judges can be unpredictable as the court heads into major cases tied to Donald Trump’s agenda. The article highlights disputes over presidential power, tariffs, citizenship, and other issues likely to come before the U.S. Supreme Court.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article mainly concerns U.S. power and international trade policy with direct implications for Norway through tariffs, while secondarily touching on institutional power and judicial oversight.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Nyheter
+HEADLINE_NO: Kommunen vil kutte SFO i skoleferiene
+HEADLINE_EN: The municipality wants to cut after-school care during school holidays
+LEAD_EN: Lørenskog municipality is considering cutting SFO provision on school-free days and reducing opening hours to save money. Parents warn that the proposal would make everyday life much harder and hurt children, especially more vulnerable families.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about cuts to childcare and school-related public services, with a secondary link to municipal budget pressures.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Nyheter
+HEADLINE_NO: Eviny-sjefen: Forstår at folk reagerer
+HEADLINE_EN: Eviny chief: I understand why people are reacting
+LEAD_EN: Eviny’s CEO says the power industry must rebuild public trust after the electricity crisis and criticism of executive pay. The article also discusses power taxation, investment in energy production, and debate over electricity prices and the government’s Norgespris policy.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: TAX
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article mainly focuses on electricity prices, the power sector, and affordability-related energy politics, with a secondary emphasis on taxation of power companies.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Nyheter
+HEADLINE_NO: Disse sakene ble «glemt» i valgkampen
+HEADLINE_EN: These issues were “forgotten” in the election campaign
+LEAD_EN: Economists argue that the campaign has focused too narrowly on the wealth tax while neglecting broader debates on inheritance tax, dividend tax, productivity, labour supply, and falling birth rates. The piece critiques the lack of a more comprehensive discussion of Norway’s long-term economic challenges.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about tax policy debates in the election campaign, especially wealth, inheritance, and dividend taxation, with a secondary focus on broader economic performance and productivity.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Nyheter
+HEADLINE_NO: Dette var viktigst blant de som forhåndsstemte
+HEADLINE_EN: This mattered most to those who voted early
+LEAD_EN: A survey of early voters finds that social inequality is the single most important issue for the largest share of voters, ahead of taxes and the economy. Researchers say the election is increasingly being shaped by pocketbook concerns and a renewed left-right economic divide.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about voter priorities and election dynamics based on polling of early voters, with a secondary emphasis on economic concerns.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Nyheter
+HEADLINE_NO: Dette skjer nå
+HEADLINE_EN: This is what happens now
+LEAD_EN: Regardless of who won the election, Jonas Gahr Støre remains prime minister for about another month while Norway follows the formal process of government formation. The article explains likely minority-government scenarios, coalition talks, and the timetable for the new parliament and the 2026 budget.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about government formation, coalition possibilities, parliamentary procedure, and post-election leadership dynamics.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Nyheter
+HEADLINE_NO: Politiets nye grep mot narkotika: Fjerner muligheten til å ta ut kontanter
+HEADLINE_EN: The police’s new move against drugs: removing the ability to withdraw cash
+LEAD_EN: Police and Oslo municipality have removed several ATMs in central Oslo after linking them to drug dealing, robberies, and other crime. The article describes the strategy, local reactions, and the legal dispute over whether the municipality has the authority to shut the machines down.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about drug-related crime and policing in Oslo, with a secondary governance angle concerning municipal authority and legal appeals.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Nyheter
+HEADLINE_NO: Ikke svensk nok? Nå hagler kritikken.
+HEADLINE_EN: Not Swedish enough? Now the criticism is pouring in.
+LEAD_EN: A Sweden Democrats politician is under heavy criticism after describing two politicians debating Sweden’s cultural canon as “a Kurd and a Persian.” The controversy has sparked a broader debate about ethnicity, belonging, and who counts as fully Swedish.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about identity, ethnicity, and integration in Swedish politics, with a secondary focus on tensions within the governing right-wing bloc.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Nyheter
+HEADLINE_NO: Spania innfører våpenboikott mot Israel umiddelbart
+HEADLINE_EN: Spain introduces an immediate arms boycott against Israel
+LEAD_EN: Spain is immediately imposing an arms boycott and other sanctions against Israel, saying the measures are meant to help stop what Prime Minister Pedro Sánchez calls the genocide in Gaza. The article also describes Israel’s strong backlash and Spain’s broader steps, including port, airspace, and settlement-goods restrictions.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Gaza war and state action against Israel, with a secondary foreign-policy and sanctions dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Nyheter
+HEADLINE_NO: De villeste trafikantene i Oslo er folk på elsparkesykkel
+HEADLINE_EN: The wildest road users in Oslo are people on e-scooters
+LEAD_EN: The columnist argues that e-scooter riders and cyclists in Oslo frequently ignore red lights because enforcement is weak and consequences are rare. He suggests that stronger policing, fines, and better cycling infrastructure would reduce risky behaviour.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily an urban traffic and public-order commentary about road behaviour and enforcement, which does not fit the main election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Nyheter
+HEADLINE_NO: Gule blader fra tidlig august: – Overlevelsesstrategi
+HEADLINE_EN: Yellow leaves from early August: a survival strategy
+LEAD_EN: Many trees appeared to turn yellow unusually early, but a forestry researcher says this is mainly a response to a dry, warm summer. Early leaf loss helps deciduous trees conserve water and energy under drought stress.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about environmental conditions and how dry, warm weather affects trees, making climate/environment the best fit.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Nyheter
+HEADLINE_NO: Trenddrikk tømmer japanske tegårder
+HEADLINE_EN: Trend drink is emptying Japanese tea farms
+LEAD_EN: Global demand for matcha has surged as the drink spreads through social media and Western cafés, leaving Japanese producers struggling to keep up. The article describes supply shortages, rising prices, and structural pressures on Japan’s tea industry.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about a consumer and cultural trend affecting Japan’s tea industry, with a secondary economic angle related to supply, prices, and trade.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Nyheter
+HEADLINE_NO: 300 koreanere arrestert på Hyundai-fabrikk i USA
+HEADLINE_EN: 300 Koreans arrested at Hyundai factory in the US
+LEAD_EN: U.S. immigration authorities carried out a massive raid at a Hyundai-LG battery plant in Georgia and arrested 475 people, including 300 South Koreans. The article focuses on immigration enforcement, alleged unauthorized employment, and the political context of tougher U.S. crackdowns.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about immigration enforcement and undocumented labor, with a secondary economic dimension tied to factory construction and labor practices.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Nyheter
+HEADLINE_NO: Ny behandling for ryggsmerter: – Et gjennombrudd innen forskning
+HEADLINE_EN: New treatment for back pain: a breakthrough in research
+LEAD_EN: Studies on chronic back pain found that patients receiving cognitive functional therapy improved far more than those getting usual care, with many close to recovery even after three years. Norwegian experts describe the findings as a major research breakthrough with potential to change treatment practice.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about healthcare treatment and medical research on chronic back pain, making health the clear main issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-09
+SECTION_NO: Nyheter
+HEADLINE_NO: – Det skremmer meg når jeg ser bamser i barnevogner og senger
+HEADLINE_EN: It frightens me when I see teddy bears in prams and beds
+LEAD_EN: A Norwegian mother is warning parents about microplastics in stuffed toys, arguing that children should not keep synthetic plush toys close to their faces. The article also notes that experts see plastic exposure as a real concern, but say research is still lacking on how important teddy bears are as a source.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about possible health risks from microplastic exposure in children, with a secondary environmental angle related to plastic pollution.
