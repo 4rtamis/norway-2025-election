@@ -1,0 +1,179 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-19
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Kollekten for KRF har en emmen bismak
+HEADLINE_EN: The collection for KrF leaves a sour aftertaste
+LEAD_EN: Money is suddenly pouring into the Christian Democratic Party from business donors who hope to help bring about a new government and cuts to the wealth tax. The editorial argues that Norway should reconsider party-donation rules before politics turns into a donation race.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: TAX
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about party financing, democratic fairness, and power after the election, making governance the main issue, with wealth tax as a secondary motivating factor for donors.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-19
+SECTION_NO: Meninger
+HEADLINE_NO: Drikkepenger er nesten blitt tvang
+HEADLINE_EN: Tipping has almost become compulsory
+LEAD_EN: Tipping was supposed to be a voluntary reward, but digital payment systems are making it feel increasingly obligatory, including in Norway. The commentary contrasts U.S. tipping culture with Norwegian practice and criticizes the pressure now placed on customers.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly a social commentary on tipping culture and payment norms rather than a core election issue, though it has a secondary economic dimension related to wages and consumer payments.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Han skal behandles som alle andre
+HEADLINE_EN: He should be treated like everyone else
+LEAD_EN: Oslo prosecutors have charged Marius Borg Høiby with four rapes, abuse in a close relationship, and several violent offenses. The article stresses that his ties to the royal family should not affect how the case is handled.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a criminal justice and royal-family news story, which does not fit the main election-related policy categories and is therefore coded as other.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Regjeringen vedtok mer fysisk aktivitet i skolen. Men lite skjedde.
+HEADLINE_EN: The government adopted more physical activity in school. But little happened.
+LEAD_EN: Four years after Labour’s Hurdal platform promised more physical activity in schools, no extra activity hours have been introduced. The article says children want more movement and play, while critics argue the government has failed to deliver.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about schools, child well-being, and physical activity as a public health and education issue, while secondarily criticizing the government for not fulfilling its promise.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Har Trump misforstått Putin igjen? Det er ikke første gang.
+HEADLINE_EN: Has Trump misunderstood Putin again? It is not the first time.
+LEAD_EN: The article argues that Donald Trump may once again have misread Vladimir Putin’s signals on peace in Ukraine. It says the U.S. appears to have made concessions while Russia has offered little or nothing in return.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about war, diplomacy, Russia, Ukraine, and NATO-related security questions, with only a secondary element of political leadership and negotiating competence.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-19
+SECTION_NO: Nyheter
+HEADLINE_NO: En rekke land tjener på den blodige borgerkrigen i Sudan
+HEADLINE_EN: A number of countries are profiting from the bloody civil war in Sudan
+LEAD_EN: The article explains how both sides in Sudan’s civil war, despite being accused of grave war crimes, continue to receive outside backing. It argues that foreign states are driven by gold, regional influence, Red Sea access, and security interests.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about civil war, foreign backing, regional power politics, and security interests, with a secondary economic dimension centered on gold and resource extraction.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Det mediene ikke skriver om
+HEADLINE_EN: What the media do not write about
+LEAD_EN: The commentary argues that there is often a gap between what truly matters and what audiences choose to consume. Using Sudan as an example, it explains how even severe humanitarian crises receive limited coverage when they are seen as distant and less relevant to Norwegian readers.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly a media commentary about news values, audience attention, and underreported crises rather than a specific election or policy issue category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-19
+SECTION_NO: Nyheter
+HEADLINE_NO: «Nasjonens morgenstjerne» kan arve atommakten. Hvem er hun egentlig?
+HEADLINE_EN: “The nation’s morning star” may inherit nuclear power. Who is she really?
+LEAD_EN: The article examines Kim Jong-un’s daughter and why experts believe North Korean propaganda is signaling that she may be his chosen successor. Because North Korea is a nuclear power, the question of succession matters far beyond the country itself.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about North Korea’s nuclear leadership succession and its international security implications, with a secondary governance dimension related to regime succession.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Oljefondet har snart solgt seg ut av nye 12 israelske selskaper
+HEADLINE_EN: The sovereign wealth fund has nearly divested from 12 new Israeli companies
+LEAD_EN: Finance Minister Jens Stoltenberg says the fund’s new divestments from Israeli companies are not a politicization of the Oil Fund but part of established procedures. The article centers on Norway’s review of investments linked to the war in Gaza and possible violations of international law.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Oil Fund’s Israel-related investments and the Gaza war, with a secondary governance dimension concerning procedures and political oversight by the finance minister.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Kirkevandringen
+HEADLINE_EN: The church walk
+LEAD_EN: The article describes the extraordinary relocation of Kiruna’s historic wooden church in Sweden after mining made the ground under the old town unsafe. The move is presented as a major logistical and cultural event for the whole city.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a human-interest and infrastructure story about relocating a church in Sweden, with a secondary environmental dimension because mining and unstable ground triggered the move.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Norge tettere på Ukrainas våpenindustri. – Et livsviktig samarbeid.
+HEADLINE_EN: Norway moves closer to Ukraine’s arms industry. “A vital partnership.”
+LEAD_EN: Norway is increasing support for Ukraine’s defense industry by funding local production, including a Norwegian-developed protective breathing mask to be made in Ukraine. The article presents this as a way to save lives now while strengthening Ukraine’s long-term military capacity.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about defense cooperation, military support for Ukraine, and Norway’s role in European security, framed positively through the government’s new strategy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Politiet ville fjerne sultestreikende aktivist
+HEADLINE_EN: Police wanted to remove hunger-striking activist
+LEAD_EN: A climate activist who has been hunger-striking outside the Norwegian parliament for nearly three weeks had his tent removed by police. The protest targets Norwegian oil policy and is described as a peaceful climate demonstration.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about climate activism and opposition to Norwegian oil policy, with a secondary governance aspect related to police handling of the protest and criticism of the government.

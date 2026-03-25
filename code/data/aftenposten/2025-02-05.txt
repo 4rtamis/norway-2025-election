@@ -1,0 +1,209 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-05
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Nå er det uvanlige folks tur
+HEADLINE_EN: Now it is unusual people’s turn
+LEAD_EN: The editorial says Labour has improved its chances by forming a pure Ap government and bringing back Jens Stoltenberg, but argues it must now show a more forward-looking and modern social-democratic agenda.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about government change, Labour’s leadership, and electoral strategy, while also touching on economic and policy direction.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-05
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Andreas Slettholm: Mange voldtekter blir hverken anmeldt eller ender med dom. Det er ikke noe godt argument for å straffe for strengt.
+HEADLINE_EN: Andreas Slettholm: Many rapes are neither reported nor end in conviction. That is not a good argument for punishing too harshly.
+LEAD_EN: The commentator argues that although many rape cases never lead to conviction, this is not a reason to weaken legal safeguards or impose overly harsh sentences in cases with unclear evidence.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about legal standards, sentencing, and rule-of-law concerns in rape cases, which fits governance and justice rather than a specific policy domain.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Sprengte konsulentavtale med 130 millioner
+HEADLINE_EN: Exceeded consultant contract by 130 million
+LEAD_EN: Norway’s ministries exceeded a framework agreement for ICT consultants by nearly NOK 130 million, and continued using consultants even after realizing the contract limit had been passed.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is mainly about public administration, procurement failures, and weak state control over spending and consultants, which fits governance and competence.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-05
+SECTION_NO: Nyheter
+HEADLINE_NO: – Jeg hadde ikke planlagt å vaere her. Jeg hadde andre planer for livet mitt.
+HEADLINE_EN: “I had not planned to be here. I had other plans for my life.”
+LEAD_EN: Jens Stoltenberg returns to Norwegian politics as finance minister, saying he had not planned it but felt duty-bound to say yes when Jonas Gahr Støre asked him to serve.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about cabinet formation, political leadership, and Stoltenberg’s return to government, with finance policy as a secondary aspect.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-05
+SECTION_NO: Nyheter
+HEADLINE_NO: En slik finansminister har Norge aldri før hatt
+HEADLINE_EN: Norway has never had a finance minister like this before
+LEAD_EN: The commentary says Labour has been transformed in a matter of days, with Jens Stoltenberg’s return as finance minister giving the party new momentum and potentially reshaping the election campaign.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about government reshuffling, Labour’s political momentum, and Stoltenberg’s leadership role, with economic policy secondary because he returns as finance minister.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-05
+SECTION_NO: Nyheter
+HEADLINE_NO: – Her er det noen nye ansikter, noen kjente ansikter og noen veldig kjente ansikter
+HEADLINE_EN: “Here are some new faces, some familiar faces, and some very familiar faces”
+LEAD_EN: Jonas Gahr Støre presented Labour’s new government team, saying voters will notice they now have a pure Labour government, with Jens Stoltenberg’s return drawing particular attention.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is mainly about cabinet appointments, government composition, and Labour’s political positioning, so it fits governance and leadership.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Aas-hansen vil trolig skrote Mehls forslag om visitasjonssoner
+HEADLINE_EN: Aas-Hansen will likely scrap Mehl’s proposal for stop-and-search zones
+LEAD_EN: Norway’s new justice minister Astri Aas-Hansen signals skepticism toward Emilie Enger Mehl’s proposal for police stop-and-search zones and says she struggles to see it being adopted.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: IMM
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is mainly about justice policy, policing powers, and ministerial leadership in a new Labour government, with crime-control policy as a secondary element.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Les også
+HEADLINE_EN: Read also
+LEAD_EN: The commentary says current polling should be treated cautiously because major political changes in recent days may reshape voter preferences before their effects show up clearly in surveys.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about polling, voter movement, party competition, and possible government change rather than a specific policy issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-05
+SECTION_NO: Børsen I Gvr
+HEADLINE_NO: Rekordår for overnattinger i Norge
+HEADLINE_EN: Record year for overnight stays in Norway
+LEAD_EN: Registered accommodation businesses in Norway recorded nearly 39 million overnight stays in 2024, driven especially by a strong rise in foreign visitors.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about tourism growth, foreign visitors, and economic activity in Norway’s travel industry, which fits the economy category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-05
+SECTION_NO: Nyheter
+HEADLINE_NO: – En svaert vond dag for hele Sverige
+HEADLINE_EN: “A very painful day for all of Sweden”
+LEAD_EN: Sweden’s prime minister says the country is in deep sorrow after a mass shooting in Örebro in which at least ten people were killed, though police do not currently suspect terrorism.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a breaking-crime report about a deadly shooting in Sweden, which falls outside the main election issue categories, with public security as a secondary aspect.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Trump sparket 17 «vaktbikkjer». Nå øker frykten for korrupsjon.
+HEADLINE_EN: Trump fired 17 “watchdogs.” Now fears of corruption are growing.
+LEAD_EN: Concern is growing in the United States after Donald Trump dismissed independent inspectors tasked with uncovering corruption and misuse of public funds.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about institutional checks, corruption oversight, and presidential power in the United States, which fits governance and rule-of-law concerns.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Erklaerte seier mot naboene. Men hva fikk han egentlig igjen?
+HEADLINE_EN: Declared victory over the neighbours. But what did he actually get in return?
+LEAD_EN: The article argues that Trump claimed victory after Canada and Mexico made concessions, but many of the border measures he praised had largely already been announced or used before.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about Trump’s political maneuvering and claimed negotiating success, with trade tariffs and economic pressure as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Hvor mye endte i sjøen? Det er det ingen som vet.
+HEADLINE_EN: How much ended up in the sea? No one knows.
+LEAD_EN: The U.S. Navy did not notify Norwegian authorities after losing cargo during a visit to Norway, and because military vessels are exempt from reporting rules, nobody knows exactly how much ended up in the sea.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about marine pollution and weak environmental accountability after cargo from a U.S. warship entered Norwegian waters, with a secondary security/defence context.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Stanset kreftstudie da flere pasienter ble rammet
+HEADLINE_EN: Cancer study halted after several patients were affected
+LEAD_EN: Oslo University Hospital halted an experimental cancer study after several patients suffered unexpected and serious side effects, and has reported itself to the health authorities.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about patient safety, cancer treatment, and serious side effects in a medical study, with hospital oversight and regulation as a secondary issue.

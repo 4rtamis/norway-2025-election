@@ -1,0 +1,224 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-19
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Huskeliste for fred
+HEADLINE_EN: Checklist for peace
+LEAD_EN: The article argues that the war in Ukraine can end only if Vladimir Putin chooses to stop it, since he bears full responsibility for the invasion and its destruction. It warns that U.S.-Russia talks risk sidelining Ukraine and Europe and insists that any ceasefire must come with firm security guarantees.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Ukraine war, relations with Russia and the United States, NATO, and European security guarantees, making security and foreign policy the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-19
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Frank Rossavik: Fremfor alt vil tyskerne ha et skifte fra Olaf Scholz. Friedrich Merz er det eneste reelle alternativet.
+HEADLINE_EN: Frank Rossavik: Above all, Germans want a change from Olaf Scholz. Friedrich Merz is the only real alternative.
+LEAD_EN: Friedrich Merz has drawn attention in the campaign by pushing restrictive immigration proposals and breaking the political “firewall” against cooperation with AfD. Despite tactical missteps, he remains the only credible alternative to Olaf Scholz and could reshape Germany’s Ukraine policy.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about how a Merz chancellorship could affect Germany’s support for Ukraine and broader foreign-policy direction, with a secondary focus on leadership and coalition dynamics.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Vil bremse innvandring og stille strengere krav
+HEADLINE_EN: Wants to curb immigration and impose stricter requirements
+LEAD_EN: A new report says rising immigration accounts for nearly half of the increase in inequality in Norway since 1993. In response, Høyre wants tighter immigration rules and stricter integration requirements, including on language, income, and family reunification.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: TAX
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about tightening immigration and integration policy, even though it is framed through inequality and redistribution concerns.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-19
+SECTION_NO: Nyheter
+HEADLINE_NO: – Oppfatter ikke de sakkyndige som objektive
+HEADLINE_EN: “Does not regard the expert witnesses as objective”
+LEAD_EN: Prosecutors have asked for a 21-year prison sentence for former municipal doctor Arne Bye for 85 rapes, while the defense seeks acquittal or lighter punishment on several counts. The defense also attacked the medical experts’ credibility and argued that doubt must benefit the defendant.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a criminal court report about sexual abuse charges and trial arguments, which does not fit the main election-related issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Ukraina: Her graves det ut enorme verdier som Trump vil ha
+HEADLINE_EN: Ukraine: Enormous assets are being extracted here that Trump wants
+LEAD_EN: Ukraine is exploring a huge minerals deal with the United States as it seeks continued support in the war with Russia. The article examines Trump’s demands for access to Ukrainian natural resources and whether such an agreement could provide security guarantees or instead exploit Ukraine.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Ukraine war, U.S.-Ukraine relations, and geopolitical security, with a secondary economic dimension tied to minerals and resource extraction.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Zelenskyj hardt ut mot fredsmøtet
+HEADLINE_EN: Zelenskyj lashes out at the peace meeting
+LEAD_EN: The United States and Russia say they will continue working to end the war in Ukraine, but Volodymyr Zelenskyj criticizes talks held without Ukraine and postpones a planned trip to Saudi Arabia. The article highlights fears that Washington and Moscow could shape a settlement over the heads of Ukraine and Europe.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Ukraine war, U.S.-Russia diplomacy, NATO, and security guarantees, making security and foreign policy the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Skrekkscenario for Europa er ikke blitt mindre aktuelt
+HEADLINE_EN: The nightmare scenario for Europe has not become less relevant
+LEAD_EN: A new defence analysis from Norway’s Defence Research Establishment warns that rebuilding the armed forces will require far more money than planned. Even so, it still assumes close cooperation with the United States remains crucial for Norway’s security.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about defence spending, Norway’s military preparedness, and security cooperation with the United States in a more dangerous European security environment.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Lanserte kunstig intelligens han sier er «skremmende smart»
+HEADLINE_EN: Launched artificial intelligence he says is “frighteningly smart”
+LEAD_EN: Elon Musk has launched Grok 3, a new chatbot tied to X, and claims it is the most advanced AI so far. The article presents Musk’s ambitions for the model, its reported capabilities, and its rivalry with OpenAI and other AI firms.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about artificial intelligence and Elon Musk’s technology launch, which does not fit the main political issue categories provided.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Folk i USA støtter bistand, men bommer solid på hvor stor den er
+HEADLINE_EN: People in the U.S. support aid, but badly misjudge how large it is
+LEAD_EN: A new survey shows broad support among Americans for keeping U.S. foreign aid at about 1 percent of the federal budget, even among Republicans. The article also shows that many Americans greatly overestimate how much their country spends on aid.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about foreign aid and the United States’ role abroad, which fits best under foreign policy and international security, though it also touches on public opinion and bureaucracy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Stortinget vedtok Helseplattformen-gjennomgang
+HEADLINE_EN: Parliament adopted a review of the Health Platform
+LEAD_EN: The Norwegian parliament has approved an independent review of the troubled Helseplattformen medical records system, but rejected a proposal to halt further rollout. The article focuses on patient safety concerns, rising costs, and political disagreement over how to handle the project.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about healthcare and public-service failures tied to the Helseplattformen system, with a secondary governance dimension because it centers on parliamentary and government responsibility.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Moren er tiltalt for grov mishandling av sønnen. Han ber ikke om erstatning.
+HEADLINE_EN: The mother is charged with aggravated abuse of her son. He is not seeking compensation.
+LEAD_EN: A mother is on trial for aggravated abuse of her son over nearly 14 years, but she denies criminal guilt and the son does not regard himself as a victim. The defense argues the family was in a very difficult situation and failed by support services, not driven by criminal intent.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a criminal court case about alleged child abuse and family neglect, which does not fit the main election-related issue categories, though it has a secondary welfare and care dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-19
+SECTION_NO: Nyheter
+HEADLINE_NO: 82 personer vil bli oljefondssjef
+HEADLINE_EN: 82 people want to become head of the oil fund
+LEAD_EN: Nicolai Tangen is seeking another five-year term as head of Norway’s sovereign wealth fund, and 82 people have applied for the position. The article highlights several applicants and notes debate over the fund’s role in fossil fuel investments and ethical responsibility.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centers on leadership of Norway’s sovereign wealth fund and how its investments should be used, especially regarding fossil energy and ethical concerns.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Likevel gront lys for skogsbilvei i 0stmarka
+HEADLINE_EN: Green light after all for a forest road in Østmarka
+LEAD_EN: Despite broad political opposition locally, the County Governor has approved a four-kilometre forest road in Østmarka. Critics argue the project will cause major and irreversible harm to nature and outdoor recreation.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about environmental protection and a contested road project affecting nature in Østmarka, with a secondary governance angle because state authorities overruled local politicians.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Fire sakkyndige tror at han er uskyldig
+HEADLINE_EN: Four expert witnesses believe he is innocent
+LEAD_EN: At least four experts believe a house fire was caused by an electrical fault, yet the homeowner was still convicted of arson and insurance fraud. The article centers on a conflict between independent experts and prosecutors over the cause of the fire and whether the case should be reopened.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a criminal justice case about disputed forensic evidence in an arson conviction, which does not fit the main election-related issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-19
+SECTION_NO: Nyheter
+HEADLINE_NO: Trekker flere mennesker enn det bor i 27 Eu-land
+HEADLINE_EN: Draws more people than live in the 27 EU countries
+LEAD_EN: Millions of Hindus are gathering in Prayagraj for the Kumbh Mela festival, creating an enormous economic boom for local businesses and the wider region. The article emphasizes the scale of the event and the huge revenues generated in transport, hotels, food, and trade.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the festival’s massive economic impact on local and regional business activity, even though it is rooted in a religious event.

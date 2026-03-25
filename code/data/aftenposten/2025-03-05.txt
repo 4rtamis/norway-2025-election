@@ -1,0 +1,269 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Musk bør stanses. Men ikke av Oljefondet.
+HEADLINE_EN: Musk should be stopped. But not by the Oil Fund.
+LEAD_EN: Pressure is mounting for Norway’s sovereign wealth fund to sell its Tesla stake because of Elon Musk’s political role, but the article argues that using the fund to punish him would be a mistake. The fund should be managed by ethical and financial rules, not as a political weapon.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the governance and proper political limits of Norway’s sovereign wealth fund, with a secondary foreign-policy dimension because it warns that a politically motivated divestment could create diplomatic problems for Norway.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Oi! En viktig og positiv nyhet fra et sted der ingen ventet den.
+HEADLINE_EN: Wow! Important and positive news from a place no one expected it.
+LEAD_EN: The article discusses the sudden prospect of peace between the Turkish government and the PKK after Abdullah Öcalan called for a ceasefire. It asks whether this is a genuine opening for peace or part of President Erdogan’s strategy to extend his hold on power.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about conflict, peace, and regional foreign-policy/security dynamics involving Turkey, the PKK, and Syria, with a secondary focus on Erdogan’s political power calculations.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Nyheter
+HEADLINE_NO: – Det er en forferdelig og stygg beslutning fra Trump
+HEADLINE_EN: “It is a terrible and ugly decision by Trump”
+LEAD_EN: The article reports that the United States is pausing military aid to Ukraine, and Norwegian experts warn that this could seriously weaken Ukraine’s defence over time. They also say the move could deepen tensions between the U.S. and Europe within NATO.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about security and foreign policy, focusing on U.S. military support for Ukraine, the war with Russia, and implications for NATO and Europe, with a secondary leadership dimension tied to Trump’s strategy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Hva kan Zelenskyj gjøre for å stanse den ødeleggende konflikten med Det hvite hus? Forskere er uenige.
+HEADLINE_EN: What can Zelenskyy do to stop the destructive conflict with the White House? Researchers disagree.
+LEAD_EN: After the diplomatic breakdown between Trump and Zelenskyy, the article examines what Ukraine’s president can do to repair ties with Washington. Experts disagree on whether he must submit to Trump’s demands or instead hold a firm negotiating line.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Ukraine war, U.S. military support, and diplomacy surrounding a possible peace process, with a secondary focus on leadership and negotiating strategy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Kan «massiv opprustning» gjøre Europa uavhengig av USA?
+HEADLINE_EN: Can “massive rearmament” make Europe independent of the USA?
+LEAD_EN: The article examines whether Europe can deter Russia and support Ukraine without relying on the United States. It explains why the EU wants a major military buildup and how this would require far more spending, coordination, and industrial capacity.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about European defence, deterrence against Russia, NATO, and strategic autonomy from the United States, with a secondary economic dimension because it focuses heavily on the financing of rearmament.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Nyheter
+HEADLINE_NO: – Europa må ta et større ansvar for egen sikkerhet
+HEADLINE_EN: “Europe must take greater responsibility for its own security”
+LEAD_EN: After Trump halted U.S. military aid to Ukraine, Norway’s defence minister said Europe must assume more responsibility for its own security and that Norway must adapt its defence plans. Opposition parties also demand faster and larger defence spending increases.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about defence and security policy, focusing on Norway’s military preparedness, NATO, and Europe’s response to a more dangerous security environment, with a secondary governance angle through party disagreements over budgets and timing.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Nyheter
+HEADLINE_NO: – Jeg tror at mange er beredt på å ofre sitt liv
+HEADLINE_EN: “I think many are prepared to sacrifice their lives”
+LEAD_EN: The article follows young Norwegian conscripts training at Rena camp as security shocks from the United States increase uncertainty in Europe. It highlights how conscription is becoming more important as Norway plans to expand its armed forces.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Norwegian defence preparedness, conscription, and Europe’s worsening security situation, with a secondary governance element because it discusses the long-term defence plan adopted by the Norwegian state.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Byrådet vil flytte penger fra øst til vest
+HEADLINE_EN: The city government wants to move money from east to west.
+LEAD_EN: Oslo’s city government has proposed a new funding model for boroughs that would shift money away from poorer eastern districts and toward wealthier western ones. Critics argue the change will worsen social inequality and hit vulnerable areas hardest.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: TAX
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about the distribution of municipal welfare and social-service funding across Oslo’s boroughs, with a secondary redistribution/inequality dimension because it centers on shifting resources from poorer to richer areas.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Klart Kina kan skru av bussene våre
+HEADLINE_EN: Of course China can switch off our buses.
+LEAD_EN: The article argues that Chinese-made electric buses used in Oslo could in principle be remotely disabled in a crisis or war. It says this creates a serious security risk because the buses are part of Oslo’s evacuation planning.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about national security and critical infrastructure vulnerability, focusing on the risk that Chinese technology in Oslo’s transport system could be exploited in a conflict situation.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Glad for at sønnens dramatiske fødsel skjedde på sykehus
+HEADLINE_EN: Glad that his son’s dramatic birth happened in hospital.
+LEAD_EN: Doctor Kaveh Rashidi says his newborn son was delivered lifeless and needed immediate resuscitation, making him deeply grateful that the birth took place in hospital. The article highlights how rapid access to skilled health personnel may have been life-saving.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about healthcare and maternity services, focusing on emergency medical care during childbirth and the importance of hospital-based health personnel.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Våren kommer stadig tidligere
+HEADLINE_EN: Spring is arriving earlier and earlier.
+LEAD_EN: Meteorological Institute data show that spring has already arrived in Oslo and now tends to come much earlier than in the past. The article links this shift to a warming climate and notes practical effects such as greater risk of frost damage and slippery conditions.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about climate and environmental change, using weather data to show that warming temperatures are making spring arrive earlier in Oslo.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Trump gyver løs på Bidens klimatiltak
+HEADLINE_EN: Trump is going after Biden’s climate measures.
+LEAD_EN: The article describes how Trump’s administration is dismantling key parts of Biden’s climate agenda, including electric-vehicle support, environmental regulation, and climate funding. It also details cuts to climate agencies, research, and renewable-energy programs.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about climate policy, focusing on the rollback of emissions measures, renewable energy support, and environmental protections under Trump, with a secondary governance dimension because it emphasizes administrative dismantling and institutional conflict.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Toll mot Canada, Mexico og Kina er trådt i kraft
+HEADLINE_EN: Tariffs against Canada, Mexico and China have taken effect.
+LEAD_EN: The article reports that the United States has imposed new tariffs on goods from Canada, Mexico, and China, prompting retaliatory measures and fears of a wider trade war. It also notes uncertainty about how higher U.S. tariff barriers toward the EU could affect Norway.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about international trade, tariffs, and their economic consequences such as inflation and prices, with a secondary foreign-policy dimension because it centers on escalating state-to-state conflict and retaliation.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Slik sikrer du sparepengene når Trump skaper uro på børsene
+HEADLINE_EN: How to protect your savings when Trump creates turmoil in the stock markets.
+LEAD_EN: The article advises Norwegian savers not to panic as Trump-driven market turmoil shakes global stocks. Experts recommend staying diversified, sticking to a long-term strategy, and considering whether U.S. equities are overpriced.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about personal finance, stock-market volatility, and investment strategy in response to economic uncertainty, which fits the economy and cost-of-living category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Frp vil ha mer tilsyn med religiøse fritidsaktiviteter for barn og unge
+HEADLINE_EN: The Progress Party wants more oversight of religious leisure activities for children and young people.
+LEAD_EN: The article reports that the Progress Party wants tighter oversight of religious activities for children as part of a broader push against honour-based violence and radicalisation. Labour’s Tonje Brenna agrees the problem is serious, but says several of Frp’s proposed measures are not the right approach.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about integration-related social control, honour violence, and radicalisation in minority religious environments, with a secondary governance dimension because it focuses on state oversight and party disagreement over regulation.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Regjeringen åpner for nullutslippssoner
+HEADLINE_EN: The government opens the door to zero-emission zones.
+LEAD_EN: The government wants to let municipalities ban petrol and diesel vehicles in certain urban areas to cut emissions, air pollution, and noise. Supporters call it an important climate tool, while critics dismiss it as symbolic politics that burdens drivers.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about climate and transport policy, focusing on zero-emission zones as a tool to reduce urban emissions, with a secondary governance dimension because it highlights political conflict over municipal powers and the government’s policy direction.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Årets dyreste: Julie Blystad (37) kjøpte bolig til 68 millioner
+HEADLINE_EN: The year’s most expensive: Julie Blystad (37) bought a home for 68 million.
+LEAD_EN: The article reports that clothing entrepreneur Julie Blystad and her husband have bought Norway’s most expensive home sale of the year so far, a property in Oslo for NOK 68 million. It also gives background on Blystad’s family wealth and business career.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a lifestyle/business property story about a high-value home purchase and does not fit the main political issue categories, though it has a secondary economic angle through wealth and ownership.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-03-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Søkkvått vaer i vente på Vestlandet
+HEADLINE_EN: Soaking wet weather expected in Western Norway.
+LEAD_EN: Meteorologists warn of very heavy rain, flooding, and landslides across large parts of Western Norway in the coming days. Authorities say the situation is very serious and that the extreme rainfall could cause extensive damage to infrastructure and settlements.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about extreme weather, flooding, and landslide risks linked to environmental and climate-related conditions, with a secondary public-safety dimension because it concerns threats to people, homes, and infrastructure.

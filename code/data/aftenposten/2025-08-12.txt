@@ -1,0 +1,224 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-12
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Rødt vil det motsatte av det som er fornuftig
+HEADLINE_EN: Red wants the opposite of what is sensible
+LEAD_EN: Red launched its election campaign with an expensive welfare plan built on higher taxes for heirs, wealthy individuals, and profitable companies. The editorial argues that this is misguided and praises Labour’s promise not to raise taxes further.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article’s main focus is the tax burden, redistribution, and opposition to higher taxes, while secondarily touching on Labour’s coalition positioning and election strategy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-12
+SECTION_NO: Meninger
+HEADLINE_NO: Frank Rossavik: Ingen biskop markerer seg i dag mot likekjønnet ekteskap, selvbestemt abort eller støtter Israels krig på Gaza
+HEADLINE_EN: Frank Rossavik: No bishop today takes a stand against same-sex marriage, self-determined abortion, or supports Israel’s war in Gaza
+LEAD_EN: The autumn bishop election in northern Norway gives the Church Council a chance to appoint a more theologically representative bishop. The commentary argues that Norway’s bishops have become too uniformly liberal and uncontroversial.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about church leadership, theology, and representation within the Church of Norway rather than any of the defined election policy issues, with a secondary leadership dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Trumps mann kan ha rotet det til i Moskva og oppfattet Putin som fredsvillig
+HEADLINE_EN: Trump’s man may have messed things up in Moscow and taken Putin to be willing for peace
+LEAD_EN: Ahead of a Trump-Putin meeting in Alaska, the article examines fears that Trump could accept a Ukraine deal on Russia’s terms. It argues that U.S. envoy Steve Witkoff may have badly misread Putin’s position and overstated the chances for peace.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Ukraine war, U.S.-Russia diplomacy, and the risk of a peace deal on Putin’s terms, which fits security, defence, and foreign policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Hun vil ha avtale. Han sier nei.
+HEADLINE_EN: She wants an agreement. He says no.
+LEAD_EN: A new poll suggests Labour may need Red’s support to secure a parliamentary majority after the election. The article discusses what Jonas Gahr Støre may have to concede to Marie Sneve Martinussen and other left-wing parties in budget and policy negotiations.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about coalition arithmetic, parliamentary bargaining, and whether Labour can govern with support from Red, which makes governance and leadership the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Dårligste måling for Høyre på 16 år
+HEADLINE_EN: Worst poll for the Conservatives in 16 years
+LEAD_EN: A new poll gives the Conservatives 15.2 percent, their weakest result with Respons Analyse since 2009, while Labour rises to 28 percent. The article focuses on what the numbers mean for Erna Solberg and the chances of a centre-right government.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is mainly about party polling, electoral momentum, and governing credibility, with Labour portrayed as strengthening its image as a party of government.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-12
+SECTION_NO: Nyheter
+HEADLINE_NO: – Det vil komme flere beslutninger og tiltak etter hvert
+HEADLINE_EN: “There will be more decisions and measures in due course”
+LEAD_EN: After scrutiny of the sovereign wealth fund’s investments in Israel, Norges Bank is terminating all agreements with Israeli external managers and has sold out of several companies. Finance Minister Jens Stoltenberg calls it an important first step and says more measures may follow.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the sovereign wealth fund’s Israel-related investments and Norway’s response to the Gaza war, with a secondary governance angle about oversight, trust, and ministerial responsibility.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Ignorert i månedsvis: – Jeg er rasende!
+HEADLINE_EN: Ignored for months: “I am furious!”
+LEAD_EN: For months, Norwegians have written letters and protested against the sovereign wealth fund’s investments in Israel, but felt ignored until media coverage finally triggered political attention. The article centers on angry citizens who say the government and major media reacted far too late.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about public anger over Norway’s sovereign wealth fund investments linked to Israel and Gaza, while also criticizing the Labour-led government for ignoring repeated warnings and citizen appeals.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Prisene steg mer enn ventet – tror likevel på rentekutt i september
+HEADLINE_EN: Prices rose more than expected – still expect an interest rate cut in September
+LEAD_EN: New statistics show consumer prices in Norway rose 3.3 percent over the past year, driven in part by energy and food prices. Even so, economists still expect Norges Bank to cut interest rates in September.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article primarily concerns inflation, food and fuel prices, and expectations for an interest-rate cut, while also presenting a Labour minister as actively responding to rising grocery prices.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Donald Trump bruker ung skuespiller i sin pengeinnsamling
+HEADLINE_EN: Donald Trump uses a young actress in his fundraising
+LEAD_EN: Donald Trump is using controversy around actress Sydney Sweeney in appeals for political donations. The article focuses on his unusually large campaign war chest and how it could shape the 2026 midterms and Republican power struggles ahead of 2028.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about U.S. political fundraising and media strategy rather than the defined Norwegian election issue areas, with a secondary leadership and party-power angle.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-12
+SECTION_NO: Nyheter
+HEADLINE_NO: T-banen gjenåpnet. Flere problemer på åpningsdagen.
+HEADLINE_EN: The metro reopened. More problems on reopening day.
+LEAD_EN: After five weeks of closures, Oslo’s metro resumed service west of Stortinget, but technical problems caused confusion at Nationaltheatret station. A locked gate and a false fire alarm created disruptions on the first day back.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a local public transport service story about technical problems on Oslo’s metro system and does not fit the main election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Israel mener journalist var terrorist. Er disse bildene beviset?
+HEADLINE_EN: Israel says the journalist was a terrorist. Are these images the proof?
+LEAD_EN: After Israel killed Al Jazeera journalist Anas al-Sharif in Gaza, it claimed he was a Hamas operative involved in rocket attacks. The article examines the evidence Israel presented and highlights criticism that the proof is weak and contradictory.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Israel’s conduct in Gaza and the evidentiary claims used to justify killing a journalist, which fits the Gaza/Palestine category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Hun vil stoppe all bygging i strandsonen i Oslo-området
+HEADLINE_EN: She wants to stop all construction in the shoreline zone in the Oslo area
+LEAD_EN: MDG wants a complete halt to shoreline development around the Oslofjord and proposes turning the entire fjord into a national park. The article presents the plan as a response to severe ecological decline in the fjord.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about environmental protection, conservation policy, and ecological decline in the Oslofjord, which fits the climate and environment category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Stjernedesigner beklager etter urbefolkning-kritikk
+HEADLINE_EN: Star designer apologizes after criticism from Indigenous people
+LEAD_EN: Designer Willy Chavarria and Adidas faced backlash after launching a sandal inspired by Indigenous traditions from Oaxaca without consulting the local community. Both later apologized and acknowledged the criticism.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about cultural appropriation, Indigenous rights, and fashion-industry controversy, which does not fit the main Norwegian election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Brev fra reg jeringen kan utsette bygging av Ringeriksbanen i tiår
+HEADLINE_EN: Letter from the government could delay construction of the Ringerike Line for decades
+LEAD_EN: A government letter and new railway review may postpone the long-promised Ringerike Line despite Parliament’s demand that the project be prioritized. The article highlights criticism that Labour is not following up on its earlier promises to move the project forward quickly.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is mainly about delayed public infrastructure and government delivery on transport services, with a secondary focus on political competence and whether Labour is honoring parliamentary decisions and past promises.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Trump setter nasjonalgarden inn i Washington D.C
+HEADLINE_EN: Trump deploys the National Guard in Washington, D.C.
+LEAD_EN: Donald Trump says he is sending the National Guard into Washington, D.C. to restore law and order, even though crime statistics show violence has recently declined. The article contrasts Trump’s rhetoric with official data and criticism from local authorities.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about U.S. public order and federal intervention in Washington, D.C., which does not fit the main Norwegian election issue categories.

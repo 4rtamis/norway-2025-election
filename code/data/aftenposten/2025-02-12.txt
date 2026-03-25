@@ -1,0 +1,209 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-12
+SECTION_NO: Leder & Kommentar Onsdag
+HEADLINE_NO: Trumps utsagn om Gaza er en gavepakke til Hamas
+HEADLINE_EN: Trump’s statements about Gaza are a gift package to Hamas
+LEAD_EN: The editorial argues that Trump’s remarks about relocating Palestinians from Gaza, combined with Israeli actions, are undermining the ceasefire and strengthening Hamas.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Gaza, the ceasefire, and how Trump’s proposals affect Palestinians and Hamas, with wider regional security as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-12
+SECTION_NO: Leder & Kommentar Onsdag
+HEADLINE_NO: Snakk norsk: Nordmenn er for glad i å vise at de kan engelsk
+HEADLINE_EN: Speak Norwegian: Norwegians are too eager to show they can speak English
+LEAD_EN: The columnist argues that Norwegians often switch too quickly to English, which can exclude foreigners who are trying to learn and use Norwegian.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a cultural commentary about language use, identity, and inclusion in Norway, which does not fit the main political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Høyre var klart størst. Nå er Erna Solberg distansert av både Ap og Frp.
+HEADLINE_EN: The Conservatives were clearly the biggest. Now Erna Solberg has been overtaken by both Labour and the Progress Party.
+LEAD_EN: Høyre has fallen sharply in the polls, while Labour and the Progress Party have surged, leaving Erna Solberg under pressure to explain both the party’s decline and its power-price policy.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about polling, party competition, and leadership dynamics ahead of the election, while electricity-price policy is a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Verden skriker etter verdifulle mineraler. Men her sier de nei til gruver.
+HEADLINE_EN: The world is crying out for valuable minerals. But here they are saying no to mines.
+LEAD_EN: Demand for critical minerals is rising sharply, but in Finnmark local opinion is divided as mining exploration collides with reindeer herding, nature protection, and Indigenous land use.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the conflict between mineral extraction and protection of nature and reindeer-grazing land, with economic and industrial interests as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Slik bremser domstolene Donald Trump
+HEADLINE_EN: How the courts are slowing Donald Trump
+LEAD_EN: With Democrats out of power in Washington, the courts have become the main check on Trump, temporarily blocking parts of his agenda on funding, citizenship, federal staffing, and USAID.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about constitutional checks, judicial review, and limits on presidential power, which fits governance and rule-of-law concerns.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Sier opp halve staben etter Trump-kutt
+HEADLINE_EN: Lays off half the staff after Trump cuts
+LEAD_EN: Norwegian People’s Aid is dismissing 1,700 employees and halting mine-clearing in 12 countries after Trump froze U.S. aid funds, with broader consequences also feared for Norway and Europe.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the consequences of U.S. aid cuts for demining and humanitarian security work, with broader aid and trade effects as secondary themes.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Nå er det nesten bråstopp for Putins offensiv
+HEADLINE_EN: Now Putin’s offensive has almost ground to a halt
+LEAD_EN: After six months of heavy Russian pressure, the offensive in eastern Ukraine has slowed sharply, with huge losses, poor conditions, and possible regrouping shaping the battlefield.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Russia’s war in Ukraine, battlefield developments, and military strategy, which clearly falls under security and foreign policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-12
+SECTION_NO: Nyheter
+HEADLINE_NO: – En hån mot moderne medisin og legevitenskap
+HEADLINE_EN: “An insult to modern medicine and medical science”
+LEAD_EN: As the rape trial against former doctor Arne Bye nears its end, prosecutors argue that he grossly abused patients’ trust and used medically indefensible methods for sexual purposes.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centers on abuse of patients in a medical setting and the misuse of medical practice, making health the closest fit, with legal accountability as a secondary element.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Aktors prosedyre: En kynisk og grenseløs bygdedoktor
+HEADLINE_EN: Prosecutor’s closing argument: A cynical and boundaryless country doctor
+LEAD_EN: The commentator says prosecutors portrayed former Frosta doctor Arne Bye as a calculating and predatory physician who abused his position and patients’ trust over many years.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about abuse committed in a medical setting and the breach of patient trust, making health the closest fit, with legal accountability as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-12
+SECTION_NO: Nyheter
+HEADLINE_NO: – Begynnelsen på slutten for Nylandsbroen
+HEADLINE_EN: “The beginning of the end for Nylandsbroen”
+LEAD_EN: Oslo municipality and the Norwegian Public Roads Administration have reached a new agreement to study alternatives for Nylandsbroen, which city leaders hope could eventually lead to demolition.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about local transport infrastructure and urban development in Oslo, which does not fit the main election issue categories, with governance as a secondary aspect.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-12
+SECTION_NO: Nyheter
+HEADLINE_NO: – Plug, baby, plug!
+HEADLINE_EN: “Plug, baby, plug!”
+LEAD_EN: The commentary says Europe is now pouring huge sums into artificial intelligence, and argues that Norway also needs a stronger effort if it wants to benefit from AI-driven productivity and growth.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about investment, innovation, industrial strategy, and economic competitiveness in AI, which fits the economy category best.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-12
+SECTION_NO: Nyheter
+HEADLINE_NO: Alkohol innebaerer større risiko midt i livet
+HEADLINE_EN: Alcohol entails greater risk in midlife
+LEAD_EN: Doctors warn that alcohol use in midlife carries growing health risks, with particular concern about rising consumption among middle-aged women and its links to liver, heart, and cancer problems.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about alcohol’s health effects, medical risks, and public-health concerns, which clearly fits the health category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-12
+SECTION_NO: Oørsen I Gvr
+HEADLINE_NO: Nordmann fengslet i Vietnam
+HEADLINE_EN: Norwegian jailed in Vietnam
+LEAD_EN: A Norwegian-Vietnamese man in his 40s is being investigated in Vietnam for allegedly defrauding people with false promises of seasonal work in Norway.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centers on alleged fraud involving promises of seasonal work migration to Norway, so immigration/labor migration is the closest main category, with crime as a secondary element.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-12
+SECTION_NO: Nøheter
+HEADLINE_NO: – Skeptisk til det virkelighetsbildet industrien har skapt
+HEADLINE_EN: “Skeptical of the picture of reality the industry has created”
+LEAD_EN: Nutrition experts argue that the growing wave of everyday foods marketed with extra protein is largely unnecessary, since most people already get enough protein from a normal diet.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about nutrition, public health, and whether protein-enriched foods are medically necessary, with food marketing and consumer demand as a secondary economic angle.

@@ -1,0 +1,254 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Hvor er studentboligkrisen?
+HEADLINE_EN: Where is the student housing crisis?
+LEAD_EN: Aftenposten argues that Norway’s student housing shortage is a recurring problem, but not a new one, and says the government should help by restoring tuition fees for non-EU/EEA foreign students. The editorial links pressure in the rental market to political choices rather than a sudden collapse in student housing supply.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about student housing and higher-education-related public provision, while also touching on rental-market pressure and affordability as a secondary economic issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Meninger
+HEADLINE_NO: Tyskerne venter krig. Men hva er det?
+HEADLINE_EN: The Germans are expecting war. But what is it?
+LEAD_EN: The commentary says fear of a major war is rising in Germany as the country rearms and debates where the line goes between hybrid attacks and actual war. It argues that Germany is taking the threat from Russia seriously, but that its militarization also raises historical and political concerns.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about security, rearmament, NATO, Russia, and the risk of war in Europe, with a secondary governance dimension about German political leadership and democratic control.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Nyheter
+HEADLINE_NO: «Disse aksjene må selges»
+HEADLINE_EN: “These shares must be sold”
+LEAD_EN: Aftenposten reports that Norway’s sovereign wealth fund invested in and increased its stake in an Israeli company servicing warplanes after the Gaza war began, despite Norway’s position that Israel’s conduct in Gaza violates international law. The case has triggered criticism of Jens Stoltenberg and questions about whether the fund’s ethical oversight failed.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about the sovereign wealth fund’s controversial Israel-linked investments during the Gaza war, with a secondary governance angle focused on Stoltenberg’s and the government’s handling of the case.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Venstre snur, vil ha Oljefondet ut av Israel
+HEADLINE_EN: Venstre reverses course, wants the sovereign wealth fund out of Israel
+LEAD_EN: The article reports that Venstre has changed its position and now wants Norway’s sovereign wealth fund to withdraw entirely from Israel after revelations about investments linked to Israeli military activity in Gaza. The case has also prompted demands from other parties for an extraordinary parliamentary meeting and stronger government action.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about Gaza-related controversy over the sovereign wealth fund’s investments in Israel, with a secondary governance angle concerning the government’s response and parliamentary handling.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Oljefond-selskap leverer dronekameraer til Israel
+HEADLINE_EN: Sovereign wealth fund company supplies drone cameras to Israel
+LEAD_EN: The article reports that Norway’s sovereign wealth fund has invested in an Israeli military technology company whose drone camera sales surged during the Gaza war. It raises questions about whether Norway has profited from a company linked to Israeli military operations despite the government’s view that the war breaches international law.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about the sovereign wealth fund’s Israel-linked investments during the Gaza war, with a secondary governance dimension concerning oversight, ethics rules, and Stoltenberg’s promised review.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Disse aksjene må selges
+HEADLINE_EN: These shares must be sold
+LEAD_EN: Kjetil B. Alstadheim argues that Norway’s sovereign wealth fund should sell shares in an Israeli company that services warplanes used in Gaza. He says the government and ethics system had ample warning and that continuing to hold the stock is no longer ethically defensible.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about the Gaza war and whether Norway’s sovereign wealth fund should divest from companies linked to Israeli military operations, with a secondary governance angle criticizing how Labour ministers handled the issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Demokratene kjemper for å gjøre USA mindre demokratisk
+HEADLINE_EN: Democrats are fighting to make the United States less democratic
+LEAD_EN: The article argues that both Republicans and Democrats are using gerrymandering to secure more seats in Congress, weakening voters’ real influence over elections. It warns that the 2026 U.S. midterms could become one of the least democratic in modern American history.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about electoral rules, representation, and party power struggles in the United States, making governance and democratic competition the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Dette lille landets økonomi ble revet i filler av Trumps trussel om 50 prosent toll
+HEADLINE_EN: This small country’s economy was torn apart by Trump’s threat of a 50 percent tariff
+LEAD_EN: The article describes how Trump’s tariff threat devastated Lesotho’s export-dependent textile sector even after the planned rate was reduced. Factories closed, orders disappeared, and thousands of jobs were put at risk before the lower tariff took effect.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about tariffs, trade shocks, factory closures, and job losses, making the economy the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Holder maten seg varmere med blank eller matt side inn?
+HEADLINE_EN: Does food stay warmer with the shiny or the dull side facing inward?
+LEAD_EN: A physicist explains that food should in principle stay warm slightly longer with the shiny side of aluminum foil facing inward because it reflects more heat back. He adds that multiple layers help mainly by trapping air, while foil alone is not a very good insulator.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a general science and consumer explainer about heat retention in aluminum foil, which does not fit the main political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Selger støttestrømpe til ansiktet. Har ingen effekt, mener lege.
+HEADLINE_EN: Sells a compression stocking for the face. Has no effect, says doctor.
+LEAD_EN: The article reports that Kim Kardashian’s new overnight face wrap has sold out despite criticism from doctors who say there is no scientific basis for its claimed effects. A Norwegian physician also argues that the product reinforces harmful beauty pressures on women.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a lifestyle and consumer story about a beauty product, with only a secondary health angle related to medical criticism of its effectiveness.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Frp vil fjerne forbud om bygging i strandsonen
+HEADLINE_EN: The Progress Party wants to remove the ban on building in the shoreline zone
+LEAD_EN: The article reports that FpU leader Simen Velle wants Norway’s shoreline building rules loosened after his family was ordered to remove part of a pier used to access a cabin. He argues that municipalities should have full authority, while the state administrator defends strict restrictions to protect the shoreline.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about shoreline protection and land-use regulation in environmentally sensitive coastal areas, with a secondary governance dimension about local versus state decision-making.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Gårdsarbeider sier han matet griser med drepte kvinner
+HEADLINE_EN: Farm worker says he fed pigs with murdered women
+LEAD_EN: The article reports on a South African murder case in which a farm worker claims two Black women were killed and fed to pigs, reigniting debate about racism, inequality, and violence in post-apartheid South Africa. It also links the case to false claims by Donald Trump that white South Africans are the main victims of racial persecution.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about a murder case and racial injustice in South Africa, which does not fit the main Norway-focused policy categories, though it has a secondary political dimension about state inequality and public debate.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Nyheter
+HEADLINE_NO: – Kaster spagetti på veggen for å se hva som sitter
+HEADLINE_EN: “Throwing spaghetti at the wall to see what sticks”
+LEAD_EN: The article examines Norwegian politicians’ campaign stunts on TikTok and at public events, arguing that parties use them to reach voters and test what resonates during the election campaign. It highlights Erna Solberg’s social media strategy and Jens Stoltenberg’s public-image appeal as examples.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about campaign strategy, political image, and party communication during an election, which fits governance and leadership rather than a substantive policy issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Blått lys for grønt hydrogen
+HEADLINE_EN: Blue light for green hydrogen
+LEAD_EN: The article says many ambitious green hydrogen projects are being delayed or scrapped because costs remain too high and demand too weak. It warns that this could slow the green transition, including in Norway, where Nel has halted production at Herøya.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the green transition and decarbonization through hydrogen, with a secondary economic dimension focused on high costs, weak demand, and unprofitable projects.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Store deler av Iran stenger for å spare strøm
+HEADLINE_EN: Large parts of Iran shut down to save electricity
+LEAD_EN: Iranian authorities have ordered banks and government offices to close for a day as extreme heat and drought put severe strain on the power grid. The article says recurring summer shutdowns and planned blackouts reflect both climate stress and long-term infrastructure problems.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about extreme heat, drought, and their impact on electricity supply, with a secondary economic and infrastructure dimension related to power shortages and grid failures.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Bolig
+HEADLINE_NO: Oppfylte drømmen om svømmebasseng
+HEADLINE_EN: Fulfilled the dream of a swimming pool
+LEAD_EN: The article profiles a renovated 1960s house that was transformed with architect-designed solutions, including an atrium and outdoor swimming pool that fulfilled the owner’s childhood dream. It focuses on the home’s design, layout, and family use over time.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a home and lifestyle feature about architecture and renovation, which does not fit the main political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Oslos single tester nytt datingarrangement
+HEADLINE_EN: Oslo singles test a new dating event
+LEAD_EN: The article follows a dating event in Oslo where friends pitch their single friends on stage instead of relying on dating apps. It focuses on one participant’s experience and the social atmosphere of the event rather than on politics or policy.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a lifestyle and society feature about dating culture in Oslo, which does not fit the main political issue categories.

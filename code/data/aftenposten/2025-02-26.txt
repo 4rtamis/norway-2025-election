@@ -1,0 +1,224 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-26
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: FNS grunnvoller slår sprekker
+HEADLINE_EN: The foundations of the UN are cracking
+LEAD_EN: The article argues that the United States crossed a historic line by siding with Russia in UN votes on Ukraine instead of defending national sovereignty. It presents this as a serious blow to the legal and political foundations of the postwar international order.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about international security, the Ukraine war, and the weakening of the UN-centered rules-based order.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-26
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Konservative kristne vil gjøre USAS president allmektig
+HEADLINE_EN: Conservative Christians want to make the U.S. president all-powerful
+LEAD_EN: The article argues that conservative Christians and Project 2025 allies have spent years preparing Donald Trump’s return in order to concentrate power in the presidency. It portrays this as an effort to dismantle independent state institutions and weaken democratic checks and balances.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about executive power, democratic institutions, and political leadership in the United States, which fits governance and leadership best.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Kjemper mot rusboliger på Tøyen
+HEADLINE_EN: Fighting against addiction housing in Tøyen
+LEAD_EN: Local politicians and residents in Tøyen are strongly opposing plans for a five-storey building with housing for people with severe substance abuse and mental health problems. Critics argue the neighborhood already carries a disproportionate burden of such services and that the project could worsen local living conditions.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about social and health services housing for people with addiction and psychiatric needs, with a secondary governance dimension because it centers on local political conflict over placement and planning.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Mor tiltalt for grov mishandling: Sover sammen med sønnen
+HEADLINE_EN: Mother charged with aggravated abuse: Sleeps with her son
+LEAD_EN: In court, the mother denied that her care caused her son’s condition and said the family chose alternative treatment instead of ordinary health and dental services. The article details allegations of severe neglect, including lack of medical follow-up, poor hygiene, and highly unusual living arrangements.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a criminal court report about alleged child abuse and neglect, with a secondary health and welfare dimension because it centers on missing medical and dental care.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Regjeringspolitikere trukket for lite i skatt
+HEADLINE_EN: Government politicians were taxed too little
+LEAD_EN: Some commuting government politicians had parking costs for trips home reimbursed without the amounts being reported as taxable income. The article says this was an administrative reporting error that may affect 36 politicians and more than 533,000 kroner.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about politicians not being properly taxed on reimbursed benefits, with a secondary governance dimension because the mistake involves administrative handling by the Prime Minister’s Office and ministries.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Tenåringen som ble funnet hardt skadet i Parkveien, er død
+HEADLINE_EN: The teenager who was found severely injured in Parkveien has died
+LEAD_EN: A teenage student died after being found badly injured on the ground in central Oslo. Police say they are investigating broadly, but do not suspect a criminal act and currently think it may have been a fall or accident.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a local news report about a death investigation and does not fit the main election-related issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Ny avsløring om sesongarbeidere. Han kaller bransjen inn på teppet.
+HEADLINE_EN: New revelation about seasonal workers. He is calling the industry to account.
+LEAD_EN: Aftenposten reports that more than half of the residence permits granted to seasonal workers in Norway went to companies that had violated labor law. In response, the government says the rules must be tightened and is summoning the industry for talks on new measures.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about labor migration and the regulation of seasonal foreign workers in Norway, with a secondary governance aspect because it focuses on government oversight failures and proposed legal changes.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Trump følger oppskriften han tok avstand fra
+HEADLINE_EN: Trump is following the blueprint he once distanced himself from
+LEAD_EN: The article examines how Donald Trump has rapidly upended U.S. relations with the rest of the world, especially through a dramatic shift on Ukraine at the UN. It argues that this weakens the liberal international order and creates serious risks for small countries such as Norway.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about international security, the Ukraine war, and the consequences of a major U.S. foreign-policy shift for Europe and Norway, with a secondary governance dimension tied to Trump’s leadership.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Sjokkerer verden, men planene ble lagt for flere år siden
+HEADLINE_EN: Shocking the world, but the plans were laid years ago
+LEAD_EN: The article argues that much of Donald Trump’s current foreign policy, including a reduced U.S. role in Europe and a harder line on support for Ukraine, was outlined in Project 2025 long before he returned to office. It stresses the implications for Europe’s self-defence and for Norway’s security dependence on the United States.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about U.S. foreign and security policy toward Europe, NATO, and Ukraine, with a secondary governance angle because it links these changes to Trump’s leadership agenda and Project 2025.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Teambuilding på vei til krigen
+HEADLINE_EN: Team-building on the way to war
+LEAD_EN: The war in Ukraine has tightened cooperation among the eight Nordic and Baltic countries, including Norway, as they coordinate more closely on support for Kyiv. The article argues that this cooperation also helps Norway feel less isolated from key European security discussions.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about security and foreign-policy coordination around Ukraine, with a secondary governance angle because it highlights Norway’s and Støre’s role in regional diplomatic cooperation.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Ny rapport: Gjenoppbyggingen vil koste 524 milliarder dollar
+HEADLINE_EN: New report: Reconstruction will cost 524 billion dollars
+LEAD_EN: A new international report estimates that rebuilding Ukraine over the next decade will cost 524 billion dollars after massive destruction from Russia’s invasion. Housing, transport, energy, trade, and agriculture are among the sectors hit hardest.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the consequences of Russia’s war against Ukraine and the security conflict that caused the destruction, with a secondary economic focus on reconstruction costs.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Høiby har byttet forsvarer
+HEADLINE_EN: Høiby has changed defense lawyer
+LEAD_EN: Marius Borg Høiby has changed defense lawyer as police continue investigating multiple serious allegations against him. The article reports the switch in legal counsel and summarizes the charges and the next procedural steps in the case.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a criminal justice report about an ongoing police investigation and change of defense counsel, which does not fit the main election-related issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Halvor Hegtun: Alle skal ha ytringsfrihet. Og alle politikere skal gå trygt. Men hadde Frp-lederen grunn til å vaere redd?
+HEADLINE_EN: Halvor Hegtun: Everyone should have freedom of expression. And all politicians should be able to move about safely. But did the Frp leader have reason to be afraid?
+LEAD_EN: Three women are on trial for allegedly harassing Sylvi Listhaug by shouting slogans and closely following her through central Oslo. The case centers on the boundary between freedom of expression and the right of elected politicians to move safely without intimidation.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the treatment of a party leader and broader questions of political intimidation, public safety, and democratic functioning, which fits governance best.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Ble Listhaug forfulgt eller bare fotfulgt?
+HEADLINE_EN: Was Listhaug being pursued or merely followed on foot?
+LEAD_EN: The article reflects on the court case over whether Sylvi Listhaug was unlawfully harassed by Palestine protesters who followed and shouted at her in Oslo. It weighs freedom of expression against politicians’ right to move safely in public without intimidation.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about political intimidation, freedom of expression, and the ability of elected representatives to operate safely in public, which fits governance best.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-26
+SECTION_NO: Nyheter
+HEADLINE_NO: En kopp svart kaffe koster 50 kroner ute og 4 kroner hjemme på kjøkkenet
+HEADLINE_EN: A cup of black coffee costs 50 kroner out and 4 kroner at home in the kitchen
+LEAD_EN: The article looks at why a simple cup of black coffee in Oslo now costs up to 50 kroner, even though it can be made at home for about 4 kroner. It explains the gap mainly through rent, wages, maintenance, and other operating costs rather than the coffee beans themselves.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about consumer prices and cost-of-living pressures, using coffee prices to illustrate broader increases in business and household costs.
