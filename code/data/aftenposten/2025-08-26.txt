@@ -1,0 +1,209 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-26
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Hvordan endte hun opp alene og drept?
+HEADLINE_EN: How did she end up alone and killed?
+LEAD_EN: After the murder at Kampen in Oslo, urgent questions are being raised about why a care worker was alone on a night shift and whether the police shared enough information about the perpetrator’s radicalization.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about safety failures in frontline welfare and social care services, with a secondary link to extremist radicalization and security concerns.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-26
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Arbeidende kapital. Et ordspill i mesterklasse.
+HEADLINE_EN: Working capital. A masterclass in wordplay.
+LEAD_EN: The commentator examines how the phrase “working capital” has become a powerful rhetorical tool in the election campaign to argue for cutting wealth tax on shares and business assets.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily discusses the wealth tax debate and redistribution, while secondarily touching on election strategy and possible cross-party tax negotiations.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Familien sørger over Tamima Nibras Juhar (34). 18-åring er siktet for drap og terror.
+HEADLINE_EN: The family mourns Tamima Nibras Juhar (34). An 18-year-old is charged with murder and terrorism.
+LEAD_EN: The family of Tamima Nibras Juhar says they are in deep grief after she was killed at a supported housing facility in Oslo, where an 18-year-old man has been charged with murder and terrorism.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about a terror-classified killing linked to right-wing extremism, with a secondary connection to safety in welfare and care services.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Kjent for PST, siktet for terror
+HEADLINE_EN: Known to the PST, charged with terrorism
+LEAD_EN: An 18-year-old already known to Norway’s security service has now also been charged with terrorism after the killing of Tamima Nibras Juhar in Oslo, where police say the act was politically motivated and intended to spread fear.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about terrorism, radicalization, and the role of the security services, with a secondary focus on safety failures in a child welfare-related housing service.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-26
+SECTION_NO: Nyheter
+HEADLINE_NO: – Vi er langt unna en fredsavtale
+HEADLINE_EN: We are far from a peace agreement
+LEAD_EN: As Russian attacks on Ukraine intensify, Jonas Gahr Støre visited Kyiv and pledged that Norway will provide NOK 85 billion in support in 2026 as well, while warning that a peace deal remains far away.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about Norway’s foreign policy, security support, and the war in Ukraine, while secondarily touching on domestic political positioning around the government’s support package.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Ingenting ved dette er normalt
+HEADLINE_EN: Nothing about this is normal
+LEAD_EN: In Kyiv, the article uses the destruction of a residential building and Støre’s visit to underline how Russia’s war against Ukraine has transformed European security and will shape Norwegian politics for years to come.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about war, European security, and Norway’s role in supporting Ukraine, with a secondary emphasis on how these developments affect Norwegian political leadership and priorities.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Byrådet innfører anonym retting
+HEADLINE_EN: The city government introduces anonymous grading
+LEAD_EN: Oslo’s city government will introduce anonymous grading on selected school tests after a pilot project, arguing it can reduce bias and make assessment fairer, while teachers’ representatives warn it will create more work.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about schools and public services, focusing on grading practices in Oslo schools, with a secondary governance angle about a political reform introduced by the city government.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Fire journalister blant 15 drepte i sykehusangrep
+HEADLINE_EN: Four journalists among 15 killed in hospital attack
+LEAD_EN: Four journalists, including photojournalist Mariam Dagga, were among 15 people killed in two Israeli attacks on Nasser Hospital in Gaza, where they had been documenting the hunger crisis and rescue efforts.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Gaza war and attacks connected to Israel/Palestine, with a secondary foreign-policy dimension through Norway’s response to the killing of journalists.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Dette må du vite om formuesskatten
+HEADLINE_EN: What you need to know about the wealth tax
+LEAD_EN: The article explains why Norway’s wealth tax has become one of the fiercest issues in the election campaign, even though only a minority pay it and it accounts for a relatively small share of total state revenue.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily an explainer on the wealth tax, its effects, and the political controversy around redistribution and business taxation, with a secondary link to broader economic competitiveness.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Merkel angrer ikke på at hun ønsket flyktninger velkommen
+HEADLINE_EN: Merkel does not regret welcoming refugees
+LEAD_EN: Ten years after saying “We can do this,” Angela Merkel says she does not regret opening Germany’s borders to Syrian refugees, even though she acknowledges that the move helped strengthen the far right.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about refugee policy and immigration, with a secondary focus on political leadership and the electoral consequences for Merkel and the German right.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Aktor ber om 120 dagers ubetinget fengsel for tiltalt spanjol
+HEADLINE_EN: Prosecutor seeks 120 days of unconditional prison for accused Spaniard
+LEAD_EN: A prosecutor is seeking a 120-day prison sentence for a Spanish man accused of assaulting an assistant referee at Norway Cup, after a violent incident in which the referee suffered head injuries.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a crime and court report about a violent incident at a football tournament, which does not fit the main election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Ekspert: Matkjedene har ingenting å frykte
+HEADLINE_EN: Expert: The grocery chains have nothing to fear
+LEAD_EN: After sharp food price increases, Industry Minister Cecilie Myrseth met with grocery sector actors, but critics say the government is showing little real willingness or ability to bring prices down.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about rising food prices and cost-of-living pressures, while secondarily criticizing the government’s handling of competition and market regulation.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Oslos trikker har fått feil type sand – alle må på verksted
+HEADLINE_EN: Oslo’s trams have been given the wrong type of sand – all must go to the workshop
+LEAD_EN: Oslo’s trams are running extra cautiously after being filled with overly coarse sand in the traction system, and reduced service will be introduced while every tram is sent in to have it replaced.
+ISSUE_CODE: HEA
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about a disruption in public transport service, which falls under public services rather than a broader political or economic policy debate.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-26
+SECTION_NO: Nyheter
+HEADLINE_NO: Ketamin er blitt godkjent som offentlig behandling for alvorlig depresjon
+HEADLINE_EN: Ketamine has been approved as a public treatment for severe depression
+LEAD_EN: Norway will now offer ketamine treatment in the public health system for severe, treatment-resistant depression, giving a new option to patients who have not improved with existing therapies.
+ISSUE_CODE: HEA
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about healthcare policy and access to a new publicly funded treatment for severe depression.

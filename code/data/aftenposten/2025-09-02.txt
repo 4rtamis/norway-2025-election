@@ -1,0 +1,239 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-02
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Plukk ikke fra hverandre fregattene
+HEADLINE_EN: Do not take the frigates apart
+LEAD_EN: The government’s plan to buy British frigates for NOK 135 billion is presented as the right choice for Norway’s navy. The editorial argues that close defence cooperation with the UK and identical vessels will strengthen maintenance and operational collaboration.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GAZ
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article primarily concerns defence procurement and Norway’s naval security strategy, while secondarily touching on Gaza through debate over Israeli components in the ships.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-02
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: 1 milliard for å begynne i ny jobb? Bli Ki-geni!
+HEADLINE_EN: 1 billion to start a new job? Become an AI genius!
+LEAD_EN: The U.S. is pouring enormous sums into artificial intelligence, with top experts being offered billion-kroner pay packages. The article asks whether this investment frenzy is justified or whether it resembles a dangerous bubble.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the AI boom in the United States and its broader technological implications rather than a core Norwegian election issue, with a secondary economic angle due to discussion of investment bubbles and market effects.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-02
+SECTION_NO: Nyheter
+HEADLINE_NO: Urokråken som tror han kan bremse Trump
+HEADLINE_EN: The maverick who thinks he can slow Trump down
+LEAD_EN: Bernie Sanders, 83, is touring the United States to push back against Donald Trump and recruit candidates for future elections. The article focuses on Democratic Party strategy, voter enthusiasm, and possible contenders for 2026 and 2028.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about party strategy, electoral mobilisation, leadership, and future candidacies in U.S. politics, with only a secondary reference to healthcare policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-02
+SECTION_NO: Nyheter
+HEADLINE_NO: Skal sikre nettet mot neste krise
+HEADLINE_EN: Will secure the network against the next crisis
+LEAD_EN: Norway’s digital infrastructure is vulnerable to extreme weather, sabotage, and outages, as shown when storm Hans cut internet and phone access in Hallingdal in 2023. The government is now promising faster investment in digital preparedness and backup systems.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about national digital resilience and preparedness against crises, sabotage, and signal interference, making security the dominant issue, with a secondary governance angle through the government’s new plan and funding.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-02
+SECTION_NO: Nyheter
+HEADLINE_NO: Bevisene mot Høiby: Dette skal statsadvokaten legge frem i retten
+HEADLINE_EN: The evidence against Høiby: What the public prosecutor will present in court
+LEAD_EN: Prosecutors plan to use smartwatch data, health-app information, and a sleep expert to try to convict Marius Borg Høiby on several charges, including four alleged rapes. The case will hinge in part on whether the complainants were asleep during the assaults.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a criminal court report about evidence in the Høiby case, which does not fit the main election-related policy categories, though it has a minor governance/legal-system dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-02
+SECTION_NO: Nyheter
+HEADLINE_NO: Gir Norge nok hjelp til Ukraina? Nå er mye av pengene brukt.
+HEADLINE_EN: Is Norway giving enough help to Ukraine? Now much of the money has been spent.
+LEAD_EN: During a visit to Kyiv, Jonas Gahr Støre faced pressure from Volodymyr Zelenskyj to use Norway’s remaining Ukraine funds this year on drones. The article examines how Norway’s support has been allocated, whether it is sufficient, and concerns about corruption in Ukraine.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Norway’s military and financial support for Ukraine in the context of war, defence, and international relations, with a secondary governance angle related to allocation decisions and corruption oversight.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-02
+SECTION_NO: Nyheter
+HEADLINE_NO: Tenker nytt om eldreomsorg – nå vil danskene kopiere modellen
+HEADLINE_EN: Rethinking elderly care – now the Danes want to copy the model
+LEAD_EN: Lillehammer has developed a home-based elderly care model with mobile emergency care and close follow-up, aiming to reduce hospital admissions and make care more efficient. The government is highlighting it as a possible model for other municipalities.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about healthcare and elderly care reform, focusing on new service delivery models to handle aging and reduce hospital pressure, with a secondary governance angle through national scaling and funding structures.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-02
+SECTION_NO: Nyheter
+HEADLINE_NO: Politiet starter etterforskning etter Levanger-ras
+HEADLINE_EN: Police open investigation after the Levanger landslide
+LEAD_EN: Police are investigating the Levanger landslide as a possible fatal workplace accident after a Danish man is believed to have died. Investigators will examine whether work in the area and underlying ground conditions helped trigger the slide.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a news report about a fatal landslide investigation and possible workplace accident, with only a secondary environmental angle related to unstable ground and quick clay.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-02
+SECTION_NO: Nyheter
+HEADLINE_NO: Hva i alle dager var dette?
+HEADLINE_EN: What on earth was this?
+LEAD_EN: The article criticizes Prime Minister Jonas Gahr Støre for commenting prematurely on an ongoing murder investigation and other police cases. It argues that a prime minister should not speculate about guilt or motives before the legal process is complete.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about leadership, role understanding, and the prime minister’s handling of ongoing criminal cases, making governance and political competence the central issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-02
+SECTION_NO: Nyheter
+HEADLINE_NO: Reagerer på Støres kommentar om drapet på Kampen
+HEADLINE_EN: Reacts to Støre’s comment about the killing at Kampen
+LEAD_EN: Jonas Gahr Støre was criticized after linking the killing at Kampen to a “privatized arrangement” with poor staffing and security during a party leaders’ debate. Venstre argues that the prime minister was politicizing a very serious ongoing case.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about Støre’s judgment, leadership, and political handling of a sensitive ongoing case during the campaign, making governance and competence the central issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-02
+SECTION_NO: Nyheter
+HEADLINE_NO: Politiinspektør Knut Rød er verkebyllen som aldri blir borte i rettsoppgjøret etter krigen.
+HEADLINE_EN: Police inspector Knut Rød is the sore that never disappears from the postwar legal reckoning
+LEAD_EN: The article discusses two new books about police inspector Knut Rød, who helped organize the arrest and deportation of Norwegian Jews in 1942 but was acquitted after the war. It argues that his case remains a lasting national trauma and moral stain in Norway.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GAZ
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a historical commentary on Norway’s postwar justice process and the deportation of Jews, which does not fit the main election issue categories, with only a secondary contemporary reference to Gaza and antisemitism.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-02
+SECTION_NO: Nyheter
+HEADLINE_NO: Over 800 døde i jordskjelv i Afghanistan
+HEADLINE_EN: More than 800 dead in earthquake in Afghanistan
+LEAD_EN: A powerful earthquake struck the Afghanistan-Pakistan border region late Sunday, killing at least 800 people and injuring more than 2,500, according to Afghan authorities. Rescue work is being hampered by difficult terrain, landslides, and flooding.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a foreign disaster report about an earthquake in Afghanistan and does not fit the main Norwegian election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-02
+SECTION_NO: Nyheter
+HEADLINE_NO: Har du 120.000 kroner til overs? Da kan du bo en natt her.
+HEADLINE_EN: Do you have 120,000 kroner to spare? Then you can stay here for one night.
+LEAD_EN: Oslo and Norway are attracting more affluent tourists, and Grand Hotel has launched what is likely the country’s most expensive suite at NOK 120,000 per night. The article describes growing demand for ultra-luxury travel and high-end hotel offerings in the capital.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about tourism demand, luxury spending, and the market for high-end hospitality in Norway, making the economy the closest fit, with some broader lifestyle and travel content.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-02
+SECTION_NO: Nyheter
+HEADLINE_NO: Nybilsalget i august er dårlig nytt for Teslas konkurrenter
+HEADLINE_EN: New car sales in August are bad news for Tesla’s competitors
+LEAD_EN: New car registrations in Norway rose sharply in August, with electric vehicles making up 94.5 percent of sales so far this year. While Tesla sales have weakened elsewhere in Europe, the company remains strong in the Norwegian market.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about electric vehicle adoption and the transition away from fossil-fuel cars in Norway, with a secondary economic dimension related to sales trends, market shares, and financing.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-02
+SECTION_NO: Nyheter
+HEADLINE_NO: Slik har amerikanske studenter gjort søsterskap til pengeindustri
+HEADLINE_EN: How American students turned sororities into a money-making industry
+LEAD_EN: The article examines how sorority recruitment in the United States has become a lucrative social-media-driven business, with students, influencers, and consultants profiting from “rush season.” It also highlights criticism of the culture for promoting exclusion, racism, and hyper-consumerism.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a cultural and social feature about U.S. student life, influencer economics, and sorority culture, which does not fit the main Norwegian election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-02
+SECTION_NO: Nyheter
+HEADLINE_NO: Derfor kan en kiwi vaere det perfekte mellommåltidet
+HEADLINE_EN: Why a kiwi can be the perfect snack
+LEAD_EN: Kiwis are rich in fiber, vitamin C, and other nutrients, and nutrition experts say they can support digestion and overall health. The article also examines claims that kiwi may help with sleep, while noting the evidence is still limited.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about nutrition and health effects, focusing on digestion, sleep, and the health benefits of kiwi fruit.
