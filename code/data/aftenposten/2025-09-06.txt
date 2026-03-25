@@ -1,0 +1,329 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Norge trenger gode venner, flere i arbeid og en mer nøysom stat
+HEADLINE_EN: Norway needs good friends, more people in work, and a more frugal state
+LEAD_EN: On the eve of the parliamentary election, Aftenposten argues that a changing world requires politicians who prioritize security, European cooperation, labour supply, fiscal restraint, and climate action.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily an election editorial about governing direction, coalition choices, and political leadership, while also giving strong weight to Norway’s security and European alignment.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: – Har avgitt troskapsed til Taliban
+HEADLINE_EN: “Has sworn an oath of allegiance to the Taliban”
+LEAD_EN: In the Oslo trial over the 2022 Pride terror attack, Arfan Qadeer Bhatti said he had sworn allegiance to the Taliban and that the oath still stands. Prosecutors argue he was the mastermind behind the attack, which he denies.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about terrorism, extremism, and violent threat-related criminality in Norway, with a secondary foreign-policy/security dimension through Taliban, IS, and Afghanistan.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Flertall for kutt i formuesskatten
+HEADLINE_EN: Majority supports cuts to the wealth tax
+LEAD_EN: An Aftenposten poll finds that more than half of respondents want the wealth tax reduced or abolished. The issue has become a major election topic after the Støre government increased the tax in 2022.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the wealth tax and public opinion on changing it, with a secondary governance angle because it discusses Labour’s search for a cross-bloc tax compromise.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Han vokser seg sterk ved å spise grønt
+HEADLINE_EN: He is growing stronger by eating green
+LEAD_EN: Although climate has faded from the election campaign, MDG is gaining momentum and may emerge as an election winner. The article argues that the party is benefiting by attracting voters from other left-leaning and green parties.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about election dynamics, voter movements, party strategy, and bloc balance, with climate as the substantive secondary issue tied to MDG’s appeal.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Grepet blir kalt skamløst. Men Ap lover fortsatt rentekutt om de vinner valget.
+HEADLINE_EN: The move is being called shameless. But Labour still promises rate cuts if it wins the election.
+LEAD_EN: In the final stretch of the campaign, Labour defends its message that its economic policy will help bring interest rates down, even as opponents call the pledge misleading. The article centers on the clash between Ap and the right over rates, taxes, and fiscal responsibility.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about interest rates, household borrowing costs, and competing economic strategies, with a secondary governance angle because it is framed as an election-campaign dispute over credibility and competence.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Har søkt seg til prestisjetunge internasjonale forretningsskoler
+HEADLINE_EN: Has applied to prestigious international business schools
+LEAD_EN: While campaigning hard for re-election, Centre Party politician Emilie Enger Mehl has also been making plans for possible full-time study abroad. The article focuses on uncertainty around her political future and role in the party after the election.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about political career prospects, party leadership, and parliamentary positioning rather than any specific policy issue, so it fits governance and leadership.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Denne skolen var en ikonisk Høyrebastion. Nå er Frp suverent størst.
+HEADLINE_EN: This school was an iconic Conservative stronghold. Now the Progress Party is by far the largest.
+LEAD_EN: The article examines Oslo school election results, where Frp has overtaken Høyre at a flagship conservative school while SV has surpassed Ap in eastern Oslo and at elite central schools. It is a snapshot of shifting youth support and party competition ahead of the election.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about electoral competition, polling dynamics, and party strength among student voters, and it casts Labour as losing ground to SV in key Oslo school environments.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Rødt er lei «pekeleken» – vil legge ned Etikkrådet
+HEADLINE_EN: Rødt is tired of the “blame game” – wants to abolish the Ethics Council
+LEAD_EN: After revelations about the sovereign wealth fund’s investments in companies linked to Israel’s war in Gaza, Rødt proposes a major overhaul of the fund’s ethical oversight. The party wants a new body under parliament and demands divestment from Israeli companies.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Gaza-related demands to reform the sovereign wealth fund’s ethical rules and divest from Israeli-linked companies, with a secondary governance dimension about who should control oversight.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Ivrig jakt på ytringer gir britene trøbbel
+HEADLINE_EN: Eager policing of speech is causing trouble for the British
+LEAD_EN: A commentary argues that British police are going too far in pursuing controversial speech online, using the case of Irish comedian Graham Linehan and other examples involving trans issues and pro-Palestinian activism. It says this creates legal and political problems in the UK.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a commentary on free speech, policing, and legal boundaries in the UK, which does not fit the main election issue categories provided.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Da studentene ville ut, fikk de en faktura på 357.570 kroner
+HEADLINE_EN: When the students wanted out, they received an invoice for 357,570 kroner
+LEAD_EN: Four students tried to end their rental contract after nine months, but the landlord says they are bound for much longer and has demanded more than 357,000 kroner. The case highlights disputes over fixed-term leases and consumer concerns in the rental market.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about housing and consumer welfare in the rental market, which fits public services/welfare better than party-political issue categories, with a secondary cost-of-living angle due to the large financial burden.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Kommunen vil kaste ham ut av Frognerkilen
+HEADLINE_EN: The municipality wants to evict him from Frognerkilen
+LEAD_EN: Oslo authorities want to remove dozens of boats they say are illegally moored in Frognerkilen, including some that people live in. The dispute could become an important test case for coastal municipalities across Norway.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about housing and welfare concerns for people living on boats, with a secondary environmental angle related to sunken boats, pollution, and safety risks.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Vil ha Frogner på Furuset
+HEADLINE_EN: Wants Frogner on Furuset
+LEAD_EN: A debate over redevelopment at Furuset has sparked calls for more classical, human-scale architecture, with support from MDG. The article contrasts demands for aesthetic quality with pressure to maximize housing construction.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about urban development and housing quality in Oslo, which fits welfare/public services better than the other categories, with a secondary environmental angle through greener and more human-scaled city planning.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: 390.000 norske kvinner har ikke tatt HPV-test
+HEADLINE_EN: 390,000 Norwegian women have not taken an HPV test
+LEAD_EN: Norwegian health authorities are concerned that 390,000 women have still not taken the HPV test used in the cervical screening program, even after reminders. The test can detect cancer risk and disease earlier than older smear-based screening.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about public health screening, cancer prevention, and participation in Norway’s cervical screening program, which clearly fits the health category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Hvorfor skyter det amerikanske militaeret på en båt i Karibia?
+HEADLINE_EN: Why is the U.S. military firing on a boat in the Caribbean?
+LEAD_EN: After Donald Trump said U.S. forces struck a boat carrying alleged Venezuelan “narco-terrorists,” the article examines whether the gang Tren de Aragua is really a serious threat to the United States. Experts cited in the piece argue that the danger is being overstated.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about U.S. military action, international security, and foreign-policy framing around Venezuela, even though it also touches on crime and migration.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Den israelske haeren hevder å kontrollere 40 prosent av Gaza by
+HEADLINE_EN: The Israeli army claims to control 40 percent of Gaza City
+LEAD_EN: Israel says its ground forces now control about 40 percent of Gaza City and are advancing toward full control of the city. The article also notes mass displacement, rising death tolls, and Norway’s condemnation of the plan.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Gaza war and Norway’s response to Israel’s military offensive and forced displacement of Palestinians, with a secondary broader security and foreign-policy dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Folketeatret: – Spektakulaer forestilling
+HEADLINE_EN: Folketeatret: “A spectacular performance”
+LEAD_EN: The article reports that Donald Trump is restoring the name “War Department” alongside “Department of Defense,” framing it as part of a broader shift toward a more openly militarized posture in the United States.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about U.S. defence policy, military posture, and international security symbolism, which fits the security/foreign policy category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Flere kan få rett til erstatning når de skader seg på jobb
+HEADLINE_EN: More people may gain the right to compensation when they are injured at work
+LEAD_EN: The government wants to change compensation rules so workers injured in ordinary but risky job situations can more easily qualify for occupational injury compensation. The proposal is especially relevant for health care, construction, and emergency-service occupations.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about worker welfare and compensation rights in everyday job injuries, with a secondary governance aspect because it centers on a government reform proposal led by Labour.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Hvor ofte må man bytte ut hygieniske artikler?
+HEADLINE_EN: How often should you replace hygiene items?
+LEAD_EN: A hygiene expert explains how often everyday items such as toothbrushes, kitchen cloths, razors, and mascara should be cleaned or replaced. The article warns that poor routines can allow bacteria, fungi, and other microbes to spread.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about hygiene, infection prevention, and health risks in everyday life, which clearly places it in the health category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Se opp for søndagens blodmåne
+HEADLINE_EN: Watch out for Sunday’s blood moon
+LEAD_EN: A total lunar eclipse will be visible across most of Norway on Sunday evening, giving people a chance to see a dramatic red “blood moon.” Experts say the event may be especially memorable because the Moon will be low on the horizon.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a science and astronomy piece about a lunar eclipse visible in Norway, which does not fit the main political issue categories and is therefore coded as other.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Bolig
+HEADLINE_NO: Huset fra 1937 er ikke til å kjenne igjen
+HEADLINE_EN: The house from 1937 is unrecognizable
+LEAD_EN: A couple in Lillehammer fully renovated and expanded a 1937 house, turning it into a colorful and highly personalized home. The piece focuses on interior design choices, craftsmanship, and inspiration drawn from nature.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a lifestyle and home-interior feature about renovation and design, not a political or policy issue covered by the main coding categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Netflix-trailer om Märtha Louise og Durek Verrett klar
+HEADLINE_EN: Netflix trailer for Märtha Louise and Durek Verrett released
+LEAD_EN: Netflix has released the trailer for a documentary about Märtha Louise and Durek Verrett, prompting criticism that it violates the couple’s 2022 agreement with the royal household. Commentators say the production uses royal branding in a clearly commercial context.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the royal family, media, and a commercial documentary project, which does not fit the main political issue categories and is therefore coded as other.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Studie: Mobil gjør at vi blunker sjeldnere
+HEADLINE_EN: Study: Mobile phones make us blink less often
+LEAD_EN: A new study finds that even one hour a day on a smartphone can strain the eyes, especially when scrolling through social media. Researchers say reduced blinking and changing screen stimuli may contribute to digital eye strain.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about eye health, screen use, and the health effects of smartphone behavior, so it fits the health category.

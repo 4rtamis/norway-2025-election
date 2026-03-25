@@ -1,0 +1,224 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-08
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Inga Strümke: Ikke overraskende har mange falt for fristelsen til å be kunstig intelligens om hjelp til å velge politisk parti.
+HEADLINE_EN: Inga Strümke: It is not surprising that many have been tempted to ask artificial intelligence for help choosing a political party.
+LEAD_EN: Many voters have turned to AI chatbots for help choosing a party before the election. The author argues that this is tempting, but misleading, because language models are not designed to uncover real-world political truths.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about election-related voter guidance and how people use AI to choose parties, which fits governance and political decision-making rather than a substantive policy issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-08
+SECTION_NO: Nyheter
+HEADLINE_NO: Mann siktet for drap etter voldshendelse i Oslo
+HEADLINE_EN: Man charged with murder after violent incident in Oslo
+LEAD_EN: Police launched a murder investigation after finding a man in his 30s dead in an apartment on Torshov in Oslo. Several people have been arrested, and police are searching for additional named suspects.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: IMM
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a local crime report about a homicide investigation in Oslo, which does not center on election-related policy and therefore fits Other.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-08
+SECTION_NO: Nyheter
+HEADLINE_NO: Trump truer Chicago med apokalyptisk makt
+HEADLINE_EN: Trump threatens Chicago with apocalyptic force
+LEAD_EN: Donald Trump repeated promises to send the National Guard to Chicago and shared a meme depicting a wartime-style assault on the city. Illinois Governor JB Pritzker condemned the post as authoritarian and dangerous.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centers on security-related use of state force and Trump’s threats involving the National Guard, with a secondary governance dimension about executive power.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-08
+SECTION_NO: Nyheter
+HEADLINE_NO: Benjamin (18) stemte for første gang – på ingen
+HEADLINE_EN: Benjamin (18) voted for the first time – for no one
+LEAD_EN: First-time voter Benjamin Reitan cast a blank ballot in Kristiansund, saying no party had earned his support. The article examines the small but growing number of Norwegian voters who choose to vote blank.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about voter behavior, party disaffection, and electoral participation rather than a substantive policy issue, so it fits governance and politics.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-08
+SECTION_NO: Nyheter
+HEADLINE_NO: Fortsatt folkets favoritt
+HEADLINE_EN: Still the people’s favorite
+LEAD_EN: One day before election day, a new poll shows Jonas Gahr Støre remains the most popular choice for prime minister. He leads clearly over both Erna Solberg and Sylvi Listhaug.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is a poll-driven horse-race story about prime minister preferences and political leadership, which fits governance, and it frames Labour’s leader positively by emphasizing Støre’s strong lead.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-08
+SECTION_NO: Nyheter
+HEADLINE_NO: Er det viktig om Listhaug eller Solberg blir statsminister?
+HEADLINE_EN: Does it matter whether Listhaug or Solberg becomes prime minister?
+LEAD_EN: A majority of centre-right voters say it matters who becomes prime minister. The article focuses on the dispute between Erna Solberg and Sylvi Listhaug over leadership on the right ahead of the election.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about leadership, coalition dynamics, and voter preferences over who should lead a centre-right government, which fits governance rather than a policy issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-08
+SECTION_NO: Nyheter
+HEADLINE_NO: Vi vet hva du mest sannsynlig stemmer
+HEADLINE_EN: We know what you are most likely to vote for
+LEAD_EN: On election day, Aftenposten maps the typical voter profile for each Norwegian party based on gender, age, income, education, and geography. The article explains which issues and social characteristics are most associated with support for each party.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is an election analysis of party support, voter demographics, and campaign positioning rather than a specific policy issue, so it fits governance and electoral politics.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-08
+SECTION_NO: Nyheter
+HEADLINE_NO: Norge skal bruke over 1600 milliarder. Knapt diskutert i valgkampen.
+HEADLINE_EN: Norway will spend more than 1,600 billion. It has barely been discussed in the election campaign.
+LEAD_EN: Norway plans to spend NOK 1,624 billion on defence over the next 12 years, yet security policy has barely featured in the election campaign. Researchers say broad party agreement and media priorities help explain the lack of debate.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about defence, security policy, and Norway’s military spending in response to the international situation, with a secondary governance angle about campaign priorities and party competition.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-08
+SECTION_NO: Nyheter
+HEADLINE_NO: Hvor kommer barnas fordommer fra?
+HEADLINE_EN: Where do children’s prejudices come from?
+LEAD_EN: A TV 2 series about children from Oslo’s east and west shows how deeply social and cultural divisions shape prejudice. The commentary argues that these divisions are rooted in segregation, family attitudes, and the housing market.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about social divisions, integration, and prejudice in ethnically and socially segregated parts of Oslo, which best fits immigration/integration.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-08
+SECTION_NO: Nyheter
+HEADLINE_NO: Ukrainske barn blir Putins soldater
+HEADLINE_EN: Ukrainian children are becoming Putin’s soldiers
+LEAD_EN: The article describes how children from Russian-occupied parts of Ukraine are being deported, indoctrinated, and trained for military service by Russian authorities. It also notes Norwegian concern, including Jonas Gahr Støre’s comments after meeting rescued Ukrainian children in Kyiv.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about war, occupation, militarization, and the Russia-Ukraine conflict, which clearly places it in security/foreign policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-08
+SECTION_NO: Nyheter
+HEADLINE_NO: Australsk satire gjør narr av Norge
+HEADLINE_EN: Australian satire mocks Norway
+LEAD_EN: A popular Australian satire video portrays Norway as self-righteous and hostile to the climate because of its oil and gas wealth. The article discusses whether the criticism hits a nerve in Norway’s self-image and climate debate.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about criticism of Norway’s oil, gas, and climate hypocrisy, which places it in climate/environment and oil policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-08
+SECTION_NO: Nyheter
+HEADLINE_NO: Professor: Diplomatbarn har svakere rettslig beskyttelse
+HEADLINE_EN: Professor: Diplomats’ children have weaker legal protection
+LEAD_EN: The article examines how diplomatic immunity can leave diplomats’ children less protected when abuse or danger occurs inside the home. Researchers argue that these children may have weaker legal safeguards than other children because authorities cannot intervene in the usual way.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about child protection and limits on welfare-state intervention in vulnerable families, with a secondary international/diplomatic dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-08
+SECTION_NO: Nyheter
+HEADLINE_NO: Norske turistmagneter: Seks mil med stier legges ned
+HEADLINE_EN: Norwegian tourist magnets: Sixty kilometers of trails are being closed down
+LEAD_EN: The Norwegian Trekking Association is removing trail markings and limiting access in Dovrefjell and Rondane to protect threatened wild reindeer. Critics argue the measures come too late and that tourism itself has helped create the problem.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about environmental protection and conservation measures to protect wild reindeer habitats from tourism pressure, which fits climate/environment.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-08
+SECTION_NO: Nyheter
+HEADLINE_NO: De ser helt ulikt på tid: – Noen ting kan man aldri forandre
+HEADLINE_EN: They see time completely differently: “Some things you can never change”
+LEAD_EN: The article follows a couple with opposite attitudes to punctuality and explores how “time optimists” and “time realists” experience time differently. A psychologist explains how these traits can create stress and conflict, but also be adjusted somewhat.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: This is a lifestyle and psychology feature about punctuality and personality rather than an article about electoral politics or one of the defined policy domains.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-08
+SECTION_NO: Nyheter
+HEADLINE_NO: Kunstig uintelligent
+HEADLINE_EN: Artificially unintelligent
+LEAD_EN: The commentary argues that employees who use AI at work may be judged as less competent, especially women and older workers. It highlights research suggesting that social stigma is slowing workplace adoption of AI tools.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: This is primarily a workplace and technology commentary about AI adoption and stigma, which does not fit the main election issue categories, though it has a secondary economic/workplace dimension.

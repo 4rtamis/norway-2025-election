@@ -1,0 +1,134 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-07
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Ap på vei inn i et «tåkete og gråsonet landskap»
+HEADLINE_EN: Labour is heading into a “foggy and grey-zone landscape”
+LEAD_EN: The article argues that Labour is moving into a politically murky period in which it may have to rely on a broad and difficult set of support parties to stay in power. Jens Stoltenberg’s contrast between economics and politics is used to frame the challenges ahead.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The piece is mainly about Labour’s governing prospects, coalition constraints, and political leadership challenges rather than a specific policy issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-07
+SECTION_NO: Nyheter
+HEADLINE_NO: Elsai Mousavi (16) kan bli Norges yngste lege
+HEADLINE_EN: Elsai Mousavi (16) could become Norway’s youngest doctor
+LEAD_EN: Elsai Mousavi, 16, has started medical school in Oslo after finishing upper secondary school early, following in the footsteps of her older sister. The article describes her academic path, family background, and efforts to balance studies with friends and leisure.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about entry into medical education and the future health profession, with a secondary human-interest angle rather than party politics.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-07
+SECTION_NO: Nyheter
+HEADLINE_NO: Kampensiktet sendte truende melding til barnevernsansatt
+HEADLINE_EN: Kampen murder suspect sent threatening message to child welfare employee
+LEAD_EN: The 18-year-old charged in the Kampen killing had previously sent a threatening message to a child welfare employee, according to NRK and confirmed by police. The article also reports new details in the murder investigation and the terror-related charge.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centers on violent crime and threats linked to a child welfare setting, fitting best under crime, with a secondary public-services dimension because the victim and threatened person worked in care institutions.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-07
+SECTION_NO: Nyheter
+HEADLINE_NO: Brakmåling for Ap, men fortsatt avhengig av alle de rødgrønne
+HEADLINE_EN: Huge poll for Labour, but still dependent on all the red-green parties
+LEAD_EN: A final pre-election poll shows Labour surging to 29.5 percent and leading the other parties by a wide margin. Even so, Jonas Gahr Støre would still need support from all four other red-green parties to secure a majority for a new Labour government.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about polling, electoral momentum, and government formation, and it frames Labour’s position as strongly improved ahead of the election.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-07
+SECTION_NO: Nyheter
+HEADLINE_NO: 1,9 millioner velgere har forhåndsstemt
+HEADLINE_EN: 1.9 million voters have cast advance ballots
+LEAD_EN: Nearly 1.9 million Norwegians had voted before election day, equal to 47.1 percent of eligible voters. The article reports record-high advance voting and large geographical differences, with Oslo among the districts with the highest early turnout.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about election administration and voter turnout ahead of the parliamentary election, which fits governance and the electoral process rather than a substantive policy issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-07
+SECTION_NO: Nyheter
+HEADLINE_NO: Pr-topp mener SV stigmatiserer milliardaerer
+HEADLINE_EN: PR executive says SV is stigmatizing billionaires
+LEAD_EN: PR adviser Margrethe Geelmuyden accuses SV of using dehumanizing rhetoric against billionaires after comments that Norway does not need billionaires. SV’s Alexander Papas replies that the issue is redistribution of wealth and power through tougher taxation.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the wealth-tax and redistribution debate, framed through a dispute over rhetoric toward billionaires, with only a secondary party-political conflict dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-07
+SECTION_NO: Sport
+HEADLINE_NO: Kina gir full gass for grønn omstilling
+HEADLINE_EN: China is going full throttle on the green transition
+LEAD_EN: The article argues that China is becoming the world’s leading force in the real green transition, while the United States under Donald Trump is clinging to fossil energy. It highlights China’s massive investments in renewables, electric transport, and energy infrastructure.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about climate and energy transition policy, especially China’s expansion of renewables and clean technology, with a secondary geopolitical competition angle.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-07
+SECTION_NO: Nyheter
+HEADLINE_NO: Underjordiske klasserom tryggest for ukrainske barna
+HEADLINE_EN: Underground classrooms are safest for Ukrainian children
+LEAD_EN: As the school year begins in Ukraine, some schools are teaching in basements to protect children from Russian attacks while allowing them to meet in person. The article follows one school in the Sumy region that has moved classes underground for safety.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about schooling and children’s access to education as a public service under wartime conditions, with a secondary security context because the underground classrooms are a response to Russian attacks.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-07
+SECTION_NO: Nyheter
+HEADLINE_NO: USA stopper støtte til forsvaret av de baltiske landene
+HEADLINE_EN: The U.S. is stopping support for the defence of the Baltic states
+LEAD_EN: The article reports that the Trump administration may end U.S. funding for defence and security programs in the Baltic states next year. It also outlines Norway’s current military contributions in the region and the broader European push to assume more responsibility.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about defence, NATO’s eastern flank, and U.S.-European security burden-sharing, with only a secondary governance element through the Norwegian minister’s response.

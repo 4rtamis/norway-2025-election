@@ -1,0 +1,269 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Verdens største skipstunnel bør forbli en drøm
+HEADLINE_EN: The world's largest ship tunnel should remain a dream
+LEAD_EN: Residents and politicians face renewed uncertainty over the Stad ship tunnel after new bids showed the project will cost far more than approved. The editorial argues that the tunnel is economically unsound and should be abandoned.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily centers on public spending, cost overruns, and whether the state should prioritize funding this infrastructure project, making economic governance the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Kaos er det mest stabile
+HEADLINE_EN: Chaos is the most stable
+LEAD_EN: The commentator argues that Norway’s many small parties are a democratic strength, because they force negotiation and make more voters feel represented. In contrast, he warns that majoritarian systems in countries like the UK, France, and the US can fuel instability and populism.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about democratic representation, party system design, and coalition politics rather than a specific policy area, so governance is the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Landesorg i Portugal etter kabeltrikkulykken
+HEADLINE_EN: National mourning in Portugal after the cable tram दुर्घटना
+LEAD_EN: Portuguese authorities are investigating why a cable tram in central Lisbon derailed and crashed down a steep hill, killing at least 16 people. The government has declared national mourning as rescue workers and investigators respond to the disaster.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a foreign news report about a transport accident in Portugal and does not center on any of the listed Norwegian election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Stjernekamp om stortingsplasser
+HEADLINE_EN: Star battle over parliamentary seats
+LEAD_EN: New polling suggests that several high-profile politicians, especially in Høyre and the Centre Party, risk losing their seats in parliament. The article highlights how this could affect party renewal, leadership succession, and post-election strategy.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about polling, parliamentary seat allocation, party leadership, and post-election positioning, which makes governance and political competition the primary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Gratisferger kommer ikke uten følger. Hard kamp om plassene.
+HEADLINE_EN: Free ferries do not come without consequences. A hard fight for places.
+LEAD_EN: Residents save large sums from free ferry travel, but the policy has also led to sharply higher traffic and long queues, sometimes leaving locals stranded. The article examines both the personal financial benefits and the wider costs for transport capacity and public budgets.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about the economic effects of a government subsidy scheme—household savings, increased demand, and strained transport funding—with a secondary focus on policy implementation and governance.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Nordmann pågrepet etter dobbeltdrap i Sverige
+HEADLINE_EN: Norwegian man arrested after double murder in Sweden
+LEAD_EN: A Norwegian man was arrested in Oslo in connection with a double killing in Gothenburg after police followed him from the Swedish border. Norwegian police say the arrest was dramatic and that he threatened officers with a firearm.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about a violent cross-border criminal case and police action, which fits the crime dimension of the immigration/integration/crime category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Nyheter
+HEADLINE_NO: 270 småkommuner kan miste millionbeløp
+HEADLINE_EN: 270 small municipalities could lose millions
+LEAD_EN: Høyre wants to abolish the subsidy for small local schools and redistribute the money by population, which would shift large sums from smaller municipalities to bigger cities. The debate centers on whether school funding should protect rural schools or be redirected to municipalities with broader welfare pressures.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about school funding and the provision of local public services, with a secondary governance dimension concerning how state transfers are distributed.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Oslo: Store partiprofiler i valgthriller
+HEADLINE_EN: Oslo: Major party profiles in an election thriller
+LEAD_EN: A new Oslo poll shows a tight battle for the final parliamentary seats, with Bjørnar Moxnes barely holding on while prominent candidates from SV, Høyre, MDG, and KrF challenge him. The poll also shows Labour has regained its position as Oslo’s largest party.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about polling, seat allocation, party competition, and electoral strategy in Oslo, which makes governance and horse-race politics the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Nyheter
+HEADLINE_NO: ChatGPT + MDG = sant
+HEADLINE_EN: ChatGPT + MDG = a perfect match
+LEAD_EN: Aftenposten’s test finds that ChatGPT’s answers in Norwegian voting guides align most closely with MDG and generally lean toward the left. The article raises concerns about how AI tools may shape voters’ choices and democratic debate.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about democratic influence, election guidance, and the role of AI platforms in shaping political choices, which makes governance the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Bhatti avviser terrorsnakk med Matapour
+HEADLINE_EN: Bhatti rejects claims of terror talk with Matapour
+LEAD_EN: In court, Arfan Bhatti denied discussing terrorism with Zaniar Matapour and said he only learned of the 25 June 2022 Oslo attack the next morning. He admitted trying to pass on a voice message to whom he believed was ISIS, but said this was a mistake and denied guilt.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about a terrorism-related criminal case and court testimony, which fits most closely under the crime dimension of the immigration/integration/crime category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Voldsvideoer flyter fritt. Det får tragiske konsekvenser.
+HEADLINE_EN: Violent videos flow freely. That has tragic consequences.
+LEAD_EN: The commentary argues that young people are being drawn into online cultures obsessed with violence, and that some later emerge as terrorists. It links recent attacks in the US and Oslo to broader patterns of online radicalization and extremist subcultures.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: IMM
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily focuses on radicalization, terrorism, and the security threat posed by violent online extremist milieus, with crime as a secondary dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Nyheter
+HEADLINE_NO: – Jeg var 14 år første gang jeg møtte Jeffrey Epstein
+HEADLINE_EN: “I was 14 the first time I met Jeffrey Epstein”
+LEAD_EN: Victims of Jeffrey Epstein appeared publicly outside the U.S. Congress to reject claims that the case is a hoax and to demand greater transparency. They say they may help compile a list of prominent people Epstein allegedly procured girls for.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a foreign news story about sexual abuse allegations, victims’ testimony, and U.S. political efforts to release documents, which does not fit the listed Norwegian election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Russlands ambassade om Høyre-uttalelser: – Vi blir stadig mer lei
+HEADLINE_EN: Russian embassy on Høyre’s statements: “We are getting increasingly tired of this”
+LEAD_EN: After a cyberattack on Høyre’s website, Erna Solberg suggested the timing was meant to create unrest during the election campaign. Russia’s embassy in Oslo rejects the accusation and says others could be behind the attack.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about cyber interference, Russia, and security threats to Norwegian political processes, with a secondary governance angle related to the election campaign.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Oljefondssjefen skal til USA – trues med innreisenekt
+HEADLINE_EN: The head of the sovereign wealth fund is going to the U.S. – threatened with denial of entry
+LEAD_EN: Nicolai Tangen is still planning a trip to New York, even as the Norwegian sovereign wealth fund faces political pressure from the U.S. after excluding Caterpillar over alleged human-rights risks linked to Israel’s conduct in conflict areas.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns the sovereign wealth fund’s exclusion of a company over alleged links to Israeli rights violations, placing it in the Gaza/sovereign fund category, with a secondary foreign-policy dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Er «manflu» ekte? Flere ting tyder på det.
+HEADLINE_EN: Is “man flu” real? Several things suggest it is.
+LEAD_EN: As cold season begins, the article asks whether men really experience respiratory infections differently from women. It cites experts and research suggesting biological sex differences in immune responses may make men more vulnerable to some infections.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about health and biological differences in immune responses, placing it clearly in the health category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Sykefravaeret går nedover
+HEADLINE_EN: Sick leave is declining
+LEAD_EN: New figures from NAV and Statistics Norway show that sickness absence fell slightly in the second quarter, with declines in both self-certified and doctor-certified leave. The drop was especially notable for mental health-related absences, though the overall level remains high.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about public health and workplace welfare through sickness absence trends and policy responses, with a secondary economic dimension related to labor force participation.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Hjertespesialisten advarer: – Begynner allerede i tenårene
+HEADLINE_EN: Heart specialist warns: It already begins in the teenage years
+LEAD_EN: Cardiologist Thor Edvardsen says the processes that lead to heart disease often begin surprisingly early in life, sometimes already in adolescence. He highlights lifestyle prevention and warns that shortness of breath and high blood pressure are especially important warning signs.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about heart disease prevention, risk factors, and medical warning signs, which clearly places it in the health category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-05
+SECTION_NO: Nyheter
+HEADLINE_NO: Alt på én flate: – En trussel mot folkehelsen
+HEADLINE_EN: Everything on one level: “A threat to public health”
+LEAD_EN: The article argues that homes without stairs may reduce everyday physical activity and thereby harm public health. Using one man’s multistory house as an example, it explores whether daily movement built into housing can improve fitness and healthy ageing.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about health, physical activity, and ageing, focusing on how housing design may affect everyday exercise and public health.
