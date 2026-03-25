@@ -1,0 +1,239 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-04
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Bryter avtaler og vingler om EU
+HEADLINE_EN: Breaks agreements and wavers on the EU
+LEAD_EN: The editorial criticizes the Centre Party for leaving government over EU directives and argues that Trygve Slagsvold Vedum is undermining trust by abandoning earlier commitments.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about government responsibility, coalition breakdown, and party leadership over the EEA/EU dispute, while energy and economic policy are secondary.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-04
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Lite eksport og mye innvandring skaper tysk mismot
+HEADLINE_EN: Weak exports and high immigration are creating German gloom
+LEAD_EN: The commentary argues that Germany’s election is shaped by both economic stagnation and immigration, and that these two problems are feeding each other politically.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: IMM
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily focuses on Germany’s economic weakness, industry troubles, and labour market problems, while immigration is a major secondary issue in the election debate.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-04
+SECTION_NO: Nyheter
+HEADLINE_NO: Musk strupe bistands-gigant
+HEADLINE_EN: Musk moves to strangle aid giant
+LEAD_EN: Elon Musk says USAID should be shut down, raising fears of major consequences for global aid work and for Norwegian organizations that depend on U.S. funding.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about U.S. foreign aid and the possible shutdown of USAID, which does not fit the main election issue categories, though government power and institutional change are secondary.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-04
+SECTION_NO: Nyheter
+HEADLINE_NO: Bruker milliarder på Ikt-løsning. Ansatte mener dagens system fungerer.
+HEADLINE_EN: Billions are being spent on an ICT solution. Employees say the current system works.
+LEAD_EN: A costly new ICT platform for Norway’s ministries is delayed and getting more expensive, while employees question why an existing system cannot be expanded instead.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is mainly about public administration, state competence, and expensive government decision-making, with Labour-led government institutions framed critically over delays and costs.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-04
+SECTION_NO: Nyheter
+HEADLINE_NO: Ap holder døren på gløtt for vannkraft fra vernede vassdrag
+HEADLINE_EN: Labour leaves the door slightly open to hydropower from protected waterways
+LEAD_EN: Labour’s climate minister says he is open to discussing whether protected waterways could contribute more hydropower, triggering sharp criticism from the Greens.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about the conflict between nature protection and expanding hydropower, with electricity supply and prices as a secondary economic issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-04
+SECTION_NO: Nyheter
+HEADLINE_NO: Assad-regimets fall
+HEADLINE_EN: The fall of the Assad regime
+LEAD_EN: In Idlib, where the rebels have ruled for years, the article explores what daily life, women’s rights, and Islamic law there may reveal about the future direction of a new Syria.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about post-Assad Syria, rebel rule, and the political-security future of the Syrian state, which fits security/foreign policy most closely.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-04
+SECTION_NO: Nyheter
+HEADLINE_NO: Åpner Kiwi-butikk nummer syv i samme område i Oslo
+HEADLINE_EN: Opens Kiwi store number seven in the same area of Oslo
+LEAD_EN: Residents react to yet another Kiwi opening in the Carl Berner area, while an economist says the chain can afford to let nearby stores compete with each other to block rivals and keep sales within the group.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about retail competition, market strategy, and supermarket concentration, which fits the economy category best.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-04
+SECTION_NO: Nyheter
+HEADLINE_NO: Eide fortsetter som utenriksminister
+HEADLINE_EN: Eide will continue as foreign minister
+LEAD_EN: As Jonas Gahr Støre finalizes a new Labour-only government after the Centre Party’s exit, Espen Barth Eide is set to remain foreign minister.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about cabinet formation and government continuity, with foreign policy as a secondary dimension because Eide is retained amid an unstable international situation.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-04
+SECTION_NO: Nyheter
+HEADLINE_NO: DNB: Kraftig økning av økonomisk kriminalitet
+HEADLINE_EN: DNB: Sharp increase in financial crime
+LEAD_EN: DNB reports a strong rise in fraud attempts, money laundering, and terror financing, warning that organized criminal networks are increasingly targeting Norway’s financial system.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about financial crime, fraud, and money laundering in Norway, which falls outside the main election issue categories, though it has a clear economic dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-04
+SECTION_NO: Nyheter
+HEADLINE_NO: – Dette blir veldig kaotisk
+HEADLINE_EN: “This is going to be very chaotic”
+LEAD_EN: Trump’s trade war has begun, and analysts warn that tariffs on major U.S. trading partners could quickly create economic turmoil that may also affect Norway.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about tariffs, trade war, prices, financial markets, and possible effects on the Norwegian economy, which fits the economy category best.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-04
+SECTION_NO: Nyheter
+HEADLINE_NO: Amerikanerne er ikke de eneste som vil sette seg selv først
+HEADLINE_EN: Americans are not the only ones who want to put themselves first
+LEAD_EN: The commentary argues that Trump’s tariff threats are testing how far U.S. power can go, while warning that aggressive trade tactics may push allies and partners away.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about tariffs, trade conflict, and economic pressure between the United States and its partners, with superpower strategy as a secondary security dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-04
+SECTION_NO: Nyheter
+HEADLINE_NO: Mer enn 1000 kr i måneden å spare på å handle her
+HEADLINE_EN: More than NOK 1,000 a month can be saved by shopping here
+LEAD_EN: The article finds that families can save substantial amounts on fruit and vegetables by shopping at immigrant-run produce stores rather than major supermarket chains.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about food prices, household budgets, and how to reduce grocery costs, with healthy eating as a secondary aspect.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-04
+SECTION_NO: Nyheter
+HEADLINE_NO: Prisbyks hos Obos i Oslo i januar
+HEADLINE_EN: Price jump at OBOS in Oslo in January
+LEAD_EN: Prices for used OBOS homes in Oslo rose sharply in January, surprising the housing cooperative’s chief economist and suggesting a very strong housing market at the start of 2025.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about housing prices, interest rates, purchasing conditions, and the broader household economy, which fits the economy/cost-of-living category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-04
+SECTION_NO: Nyheter
+HEADLINE_NO: Kommunen skal rydde opp i P-plass-skilting
+HEADLINE_EN: The municipality will clean up the parking-space signage
+LEAD_EN: Oslo’s city government says it will fix confusing parking signage after disabled drivers were fined on spaces they believed were valid HC parking spots.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about municipal governance, administrative competence, and public trust in local rules, with accessibility for disabled drivers as a secondary aspect.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-04
+SECTION_NO: Nyheter
+HEADLINE_NO: Spenning bak vennskapet
+HEADLINE_EN: Tension behind the friendship
+LEAD_EN: The commentary argues that Trump wants a Saudi-Israeli normalization deal, but Netanyahu may resist the concessions needed to sustain a ceasefire and address the Palestinian issue.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Gaza, the ceasefire, and the Palestinian question within Trump’s regional diplomacy, with wider Middle East security as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-04
+SECTION_NO: Nyheter
+HEADLINE_NO: Tror kvinnen døde flere dager før mannen
+HEADLINE_EN: Police believe the woman died several days before the man
+LEAD_EN: Police say a 19-year-old woman found dead in Bergen had no visible injuries, and investigators now believe she died several days before the 20-year-old man found with her.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a crime and police investigation report about two deaths in Bergen, which does not fit the main election issue categories.

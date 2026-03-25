@@ -1,0 +1,164 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-20
+SECTION_NO: Ideer & Samfunn
+HEADLINE_NO: Ferdig skamma
+HEADLINE_EN: Done with shame
+LEAD_EN: The columnist argues that Trump’s appeal is tied to shamelessness and to voters’ rejection of moralizing elites, especially in the wake of the U.S. election.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly an analysis of Trump, voter behavior, and election dynamics rather than a specific policy area, so it fits governance and political competition.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-20
+SECTION_NO: Nyheter | Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: Farage: – Hvis jeg bodde på Grønland, vet jeg hva jeg ville valgt
+HEADLINE_EN: Farage: “If I lived in Greenland, I know what I would choose”
+LEAD_EN: Nigel Farage says Greenland could benefit from closer ties with the United States and urges Norway to engage openly with Trump’s incoming administration.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses mainly on Greenland, U.S. relations, and Norway’s positioning toward the Trump administration, making security/foreign policy the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-20
+SECTION_NO: Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: Ni ting han har lovet å gjøre på dag én
+HEADLINE_EN: Nine things he has promised to do on day one
+LEAD_EN: The article reviews Donald Trump’s main first-day promises as president, including mass deportations, border measures, pardons, and reversing parts of Biden-era policy.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: IMM
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Trump’s governing agenda, executive actions, and presidential power, with immigration as a major secondary policy area.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-20
+SECTION_NO: Nyheter | Donald Trumps 2. Periode
+HEADLINE_NO: Vil Trump forsvare Taiwan?
+HEADLINE_EN: Will Trump defend Taiwan?
+LEAD_EN: The article examines uncertainty over whether Donald Trump would defend Taiwan if China attacked, as Chinese military pressure and espionage against the island intensify.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Taiwan, China, U.S. commitments, and the risk of conflict, which clearly places it in security/foreign policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-20
+SECTION_NO: Nyheter | Sosiale Medier
+HEADLINE_NO: Håper Trump vil redde Tiktok
+HEADLINE_EN: Hopes Trump will save TikTok
+LEAD_EN: TikTok has been shut down in the United States, and users are now hoping Donald Trump will help restore access, while the fallout could also affect creators and audiences in Norway.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about U.S.-China tensions, national-security concerns over TikTok, and the political handling of the app ban, with broader governance implications.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-20
+SECTION_NO: Nyheter | Personlig Økonomi
+HEADLINE_NO: Jo, folk flest fikk bedre råd i fjor
+HEADLINE_EN: Yes, most people were better off financially last year
+LEAD_EN: The commentator argues that despite higher housing costs, most Norwegians gained purchasing power in 2024 because income growth outpaced overall price growth.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about purchasing power, inflation, wages, interest costs, and household finances, which fits the economy/cost-of-living category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-20
+SECTION_NO: Nyheter | Krigen I Ukraina
+HEADLINE_NO: I to år jaktet hun på «Anna», som har tystet på 1400 russere
+HEADLINE_EN: For two years, she hunted “Anna,” who informed on 1,400 Russians
+LEAD_EN: A researcher spent two years uncovering the identity of a prolific war informant whose denunciations helped punish Russians accused of criticizing the war in Ukraine.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about repression linked to Russia’s war in Ukraine and the security-state climate surrounding anti-war dissent, with governance as a secondary aspect.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-20
+SECTION_NO: Nyheter | Krisen I Midtøsten
+HEADLINE_NO: Tre kvinnelige gisler endelig fri fra Hamas-fangenskap etter 15 måneder
+HEADLINE_EN: Three female hostages finally freed from Hamas captivity after 15 months
+LEAD_EN: On the first day of the ceasefire, Hamas released three Israeli women held hostage in Gaza, while Israel prepared to free 90 Palestinian prisoners in return.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Gaza war, hostage releases, prisoner exchanges, and the ceasefire process, which fits the Gaza/Palestine category most directly.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-20
+SECTION_NO: Nyheter | Krisen I Midtøsten
+HEADLINE_NO: Harald Stanghelle: Frykt for at pustepausen fra krigens inferno blir kort
+HEADLINE_EN: Harald Stanghelle: Fear that the respite from the inferno of war will be short
+LEAD_EN: The commentator welcomes the Gaza ceasefire but argues that it is fragile, with strong reasons to fear that both Israel and Hamas could return to war after the initial pause.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Gaza ceasefire, Hamas, Israel, and the risk of renewed war, which fits the Gaza/Palestine category most directly.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-20
+SECTION_NO: Nyheter | Statsstøtte
+HEADLINE_NO: Frank Rossavik: Veganerne kjemper for statsstøtte som livssynssamfunn. Kan de holdes utenfor den lukrative pengepotten?
+HEADLINE_EN: Frank Rossavik: Vegans are fighting for state support as a worldview community. Can they be kept out of the lucrative funding pot?
+LEAD_EN: The commentary examines whether the Norwegian Vegan Society can qualify as a worldview community and thereby gain access to public funding, ceremonial rights, and legal recognition.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about state recognition, legal criteria, and public funding for organizations, which makes governance the best fit.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-20
+SECTION_NO: Nyheter | Southport
+HEADLINE_NO: Nåmøter drapstiltalte i retten
+HEADLINE_EN: Now the murder suspect appears in court
+LEAD_EN: The trial is beginning for the British teenager accused of killing three girls in Southport, in a case that also fueled riots after false claims spread that the attacker was a Syrian asylum seeker.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centers on a murder trial but also strongly emphasizes how false claims about an asylum seeker fueled anti-immigration unrest, making immigration/integration/crime the closest fit.

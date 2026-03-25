@@ -1,0 +1,194 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-27
+SECTION_NO: Ideer & Samfunn
+HEADLINE_NO: Landet som ble for rikt – og veier ut av problemene
+HEADLINE_EN: The country that became too rich – and ways out of the problems
+LEAD_EN: Kristin Clemet argues that Norway’s oil wealth has weakened incentives for work and productivity, and that broad reforms are needed to strengthen the economy and the welfare state.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: TAX
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about Norway’s economic model, public spending, productivity, and reform proposals, with taxation as a clear secondary theme.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-27
+SECTION_NO: Nyheter | Energistrid I Støre-regjeringen
+HEADLINE_NO: Støre kan ikke snu nå
+HEADLINE_EN: Støre cannot back down now
+LEAD_EN: The commentary argues that Jonas Gahr Støre has committed himself too strongly to supporting EU energy directives, leaving it to the Centre Party to decide whether to stay in government.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about government stability, coalition conflict, and Støre’s leadership in a dispute over EU directives, with energy policy as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-27
+SECTION_NO: Nyheter | Energistrid I Støre-regjeringen
+HEADLINE_NO: LO mener at Vedum kunne løst krangelen
+HEADLINE_EN: LO believes Vedum could have resolved the dispute
+LEAD_EN: As fears of a government crisis grow, LO backs Støre’s line on the EU energy package and argues that Finance Minister Trygve Slagsvold Vedum could have helped solve the conflict.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about coalition conflict, government stability, and Labour’s handling of the dispute over EU energy directives, with energy policy as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-27
+SECTION_NO: Nyheter | Politikk
+HEADLINE_NO: Første valgkamp utenmoren
+HEADLINE_EN: First election campaign without her mother
+LEAD_EN: SV leader Kirsti Bergstø enters her first parliamentary election campaign after losing her mother, reflecting on grief, family support, and balancing politics with single motherhood.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a political profile of a party leader in an election year, focusing on leadership and campaign context rather than a specific policy issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-27
+SECTION_NO: Nyheter | Landbrukets Skyggeside
+HEADLINE_NO: Dette kunne inspektørene ikke stoppe
+HEADLINE_EN: This is what the inspectors could not stop
+LEAD_EN: A secret report warns that authorities are unable to stop poor and unsafe housing conditions for seasonal workers when employers claim the workers arranged the accommodation privately.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on the exploitation and weak protection of foreign seasonal workers in Norway, combining labor abuse with migration-related vulnerability, while regulatory failure is a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-27
+SECTION_NO: Nyheter | Landbrukets Skyggeside
+HEADLINE_NO: Joacim Lund: Sør i Europa er slaverilignende arbeidsforhold i landbruket vanlig. Norge kan stå for tur.
+HEADLINE_EN: Joacim Lund: In southern Europe, slavery-like working conditions in agriculture are common. Norway could be next.
+LEAD_EN: The commentator warns that abuse of foreign seasonal farm workers in Norway resembles patterns seen elsewhere in Europe and argues that Norway risks similar labour exploitation if it is not stopped early.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on the exploitation of foreign seasonal workers and the risk of migrant labour abuse in Norwegian agriculture, with regulatory failure as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-27
+SECTION_NO: Nyheter | Kjæledyr
+HEADLINE_NO: – Ser ut til at enda færre får seg hund eller katt
+HEADLINE_EN: It looks like even fewer people are getting a dog or cat
+LEAD_EN: Fewer dogs and cats were microchipped in Norway in 2024, suggesting that pet ownership is declining as people weigh the time and costs involved.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly a lifestyle and pet-ownership trend story, which falls outside the main political issue categories, though household costs are a minor secondary element.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-27
+SECTION_NO: Nyheter | Brystimplantat
+HEADLINE_NO: Mange ønsker et resultat som ikke ser operert ut
+HEADLINE_EN: Many want a result that does not look operated on
+LEAD_EN: A plastic surgeon says women seeking breast implants usually have considered it for years and increasingly want smaller, more natural-looking results.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about cosmetic breast surgery, implants, risks, and medical information, so health is the closest fit.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-27
+SECTION_NO: Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: Hvilken tidsperiode er det Donald Trump vil tilbake til?
+HEADLINE_EN: Which historical period does Donald Trump want to return to?
+LEAD_EN: The article explores which era of U.S. history Trump seems to idealize, pointing to his references to 19th-century expansionism, tariffs, and presidents such as McKinley and Andrew Jackson.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly an analysis of Trump’s political symbolism, governing vision, and historical references rather than a specific policy issue, with foreign-policy implications as secondary.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-27
+SECTION_NO: Nyheter | Tyrkia
+HEADLINE_NO: Terrordømt kan bli nøkkel til fred
+HEADLINE_EN: Convicted terrorist could become the key to peace
+LEAD_EN: Turkey has reopened contact with jailed PKK leader Abdullah Öcalan, raising hopes that he could help restart a peace process with the Kurds after decades of conflict.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Kurdish conflict, peace talks, and Turkey’s regional security strategy, with domestic political calculations as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-27
+SECTION_NO: Nyheter | Tyrkia
+HEADLINE_NO: – Jeg tror vi får det
+HEADLINE_EN: “I think we’ll get it”
+LEAD_EN: Donald Trump says he believes the United States will “get Greenland” and frames control of the island as necessary for the security of the free world.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Greenland’s strategic importance and Trump’s foreign-policy rhetoric about U.S. control, which fits security/foreign policy most closely.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-27
+SECTION_NO: Nyheter | Sporveien
+HEADLINE_NO: T-banen stenger i sentrum på kveldstid
+HEADLINE_EN: The metro is closing in the city centre in the evenings
+LEAD_EN: Evening metro traffic through central Oslo will be disrupted until 13 March because Sporveien is installing a new signalling and safety system.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a local transport and infrastructure notice about metro closures, which does not fit the main political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-27
+SECTION_NO: Nyheter | Israel Og Hamas I Krig
+HEADLINE_NO: Unrwa-forbudet trer i kraft – følgene kan bli dramatiske
+HEADLINE_EN: The UNRWA ban takes effect – the consequences could be dramatic
+LEAD_EN: Israel’s ban on UNRWA is about to take effect, raising fears that millions of Palestinians could lose access to schooling, health care, and humanitarian aid.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about Gaza/Palestine and the consequences of Israel’s ban on UNRWA, while also highlighting Labour leaders Støre and Eide criticizing the move.

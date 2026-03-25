@@ -1,0 +1,209 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-13
+SECTION_NO: Ideer & Samfunn
+HEADLINE_NO: Skjebneår for Palestina?
+HEADLINE_EN: A decisive year for Palestine?
+LEAD_EN: The columnist argues that 2025 could become a turning point in which international support for Palestinian statehood is stronger than ever, yet still fails to prevent further territorial loss and political defeat.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Palestine, Gaza, Israeli policy, and international mobilization around the Palestinian cause, which fits the Gaza/Palestine category most directly.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-13
+SECTION_NO: Nyheter | Nyheter Arbeidsliv
+HEADLINE_NO: Nav stanset dagpengene fordi han var meddommer
+HEADLINE_EN: Nav stopped his unemployment benefits because he served as a lay judge
+LEAD_EN: A man lost his unemployment benefits after serving for more than five weeks as a lay judge, exposing how Nav’s old rules treated that duty as work and cut off payments.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is mainly about unemployment benefits and welfare-system rules, while also noting that Labour minister Tonje Brenna moved to change the regulation.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-13
+SECTION_NO: Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: Prisen for å kaste ut ulovlige immigranter kan bli astronomisk
+HEADLINE_EN: The price of deporting undocumented immigrants could be astronomical
+LEAD_EN: The article examines Donald Trump’s plan for mass deportations and argues that removing millions of undocumented immigrants from the United States would be extremely expensive and economically disruptive.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The primary focus is immigration enforcement and deportation policy in the United States, with major economic costs and labour-market effects as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-13
+SECTION_NO: Nyheter | Syria
+HEADLINE_NO: Grufulle detaljerom Assads torturregime blir nå avslørt
+HEADLINE_EN: Grisly details of Assad’s torture regime are now being revealed
+LEAD_EN: Former prisoners in Syria are now speaking openly about torture, mass detention, and killings under Assad, as investigators begin documenting evidence after the regime’s fall.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Syrian conflict, state repression, and its international accountability context, which fits security/foreign affairs most closely.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-13
+SECTION_NO: Nyheter | Koronaviruset
+HEADLINE_NO: Fem år siden koronautbruddet: Kineserne ante ugler i mosen.
+HEADLINE_EN: Five years since the coronavirus outbreak: The Chinese sensed something was wrong
+LEAD_EN: Five years after the first official Covid-19 death, the article argues that China knew early that the outbreak could become serious but still has not shared all the data needed to clarify how the pandemic began.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the origins of Covid-19, pandemic transparency, and public health consequences, making health the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-13
+SECTION_NO: Nyheter | Siktelsen Mot Høiby
+HEADLINE_NO: Rundt 60 personer avhørt i saken mot Høiby
+HEADLINE_EN: Around 60 people questioned in the case against Høiby
+LEAD_EN: Police have interviewed about 60 people and collected extensive digital evidence as the investigation into the criminal case against Marius Borg Høiby nears completion.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a crime and legal-process report about a criminal investigation, which falls outside the main election issue categories and is therefore coded as other.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-13
+SECTION_NO: Nyheter | Boligpolitikk
+HEADLINE_NO: Det er ingen tvil om at Oslo trenger flere boliger. Men det er ikke sikkert skogen er svaret.
+HEADLINE_EN: There is no doubt that Oslo needs more housing. But the forest is not necessarily the answer.
+LEAD_EN: The commentary argues that although Oslo needs more homes, building massive housing developments in Sørkedalen is unlikely to be a practical or attractive solution to the city’s housing crisis.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about housing supply, prices, and the economics of urban development in Oslo, with land-use and environmental concerns as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-13
+SECTION_NO: Nyheter | Oslo
+HEADLINE_NO: Mener badstuene kan gi helseplager
+HEADLINE_EN: Says the saunas may cause health problems
+LEAD_EN: A new report finds that smoke from Oslo’s wood-fired floating saunas worsens local air quality and may create health risks, prompting the city government to review the issue.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on air pollution and possible health effects from sauna smoke, making health the primary issue with environmental pollution as a secondary dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-13
+SECTION_NO: Nyheter | Spise Ute
+HEADLINE_NO: Skru av blitzen, og si unnskyld
+HEADLINE_EN: Turn off the flash, and apologize
+LEAD_EN: The commentator argues that restaurant guests should show consideration and that using bright lights for food photos can ruin the dining experience for others.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a cultural/lifestyle commentary about restaurant etiquette and influencer behavior, which does not fit the main political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-13
+SECTION_NO: Nyheter | Energi
+HEADLINE_NO: Bunnår for ny kraftproduksjon
+HEADLINE_EN: Rock-bottom year for new power production
+LEAD_EN: New power production in Norway fell to an extremely low level in 2024, prompting warnings from business and climate groups that the country risks higher prices and weaker progress on green industry and climate goals.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article primarily concerns electricity supply and power shortages as an economic problem for prices and industry, with climate and renewable expansion as a clear secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-13
+SECTION_NO: Nyheter | Energi
+HEADLINE_NO: Disse kan stoppe oppgradering av kraftverk
+HEADLINE_EN: These could stop the upgrading of power plants
+LEAD_EN: A major hydropower upgrade project in Røldal-Suldal faces opposition from county governors who say the impact on wild reindeer is too great, while Høyre argues the extra power should be prioritized.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the trade-off between renewable energy expansion and environmental protection, especially impacts on nature and wild reindeer, with electricity supply as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-13
+SECTION_NO: Nyheter | Helse
+HEADLINE_NO: Legen tok en gentest. – Jeg tok det enormt hardt.
+HEADLINE_EN: The doctor took a genetic test. “I took it extremely hard.”
+LEAD_EN: A doctor describes going into crisis after a DNA test revealed a high genetic risk for Alzheimer’s, highlighting how difficult such information can be to process personally.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about genetic testing, Alzheimer’s risk, and the psychological and medical implications of health information, so it fits the health category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-13
+SECTION_NO: Nyheter | Rengjøring
+HEADLINE_NO: Gode råd for effektiv rengjøring
+HEADLINE_EN: Good advice for effective cleaning
+LEAD_EN: A cleaning expert shares practical tips on commonly overlooked household items and explains how often things like sofas and bath mats should be cleaned.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly a household cleaning and lifestyle guide, which does not fit the main political issue categories, though hygiene is a minor secondary element.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-13
+SECTION_NO: Karriere | Nyheter | Forskning
+HEADLINE_NO: Hørt om «TL; DR»? Universitetslærere slår alarm.
+HEADLINE_EN: Heard of “TL;DR”? University teachers are sounding the alarm.
+LEAD_EN: University teachers report that students are increasingly avoiding long reading assignments and relying on summaries and videos instead, raising concerns about attention, effort, and academic reading habits.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about higher education and students’ reading ability, which fits best under public services/education, with a broader cultural-research angle as secondary.

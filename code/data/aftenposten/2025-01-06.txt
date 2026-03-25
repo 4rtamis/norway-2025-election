@@ -1,0 +1,149 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-06
+SECTION_NO: Ideer & Samfunn
+HEADLINE_NO: 2025 er altså ikke Assads år, men det kan bli Syrias
+HEADLINE_EN: 2025 is not Assad’s year, but it could be Syria’s
+LEAD_EN: The columnist reflects on the fall of Assad’s regime and argues that 2025 could become a turning point for Syria if reconstruction and political stabilization succeed.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Syria’s war, regime collapse, sanctions, and the international conditions for reconstruction, which fits security/foreign policy most closely.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-06
+SECTION_NO: Nyheter | Nyheter Arbeidsliv
+HEADLINE_NO: Tonje Brenna vil øke aldersgrensen i hele arbeidslivet til 72 år
+HEADLINE_EN: Tonje Brenna wants to raise the age limit across working life to 72
+LEAD_EN: Labour Minister Tonje Brenna wants the upper age limit in all parts of the labour market raised to 72, so employers cannot dismiss workers solely because of age before then.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is mainly about pensions, working longer, and labour-market rules tied to welfare and public services, with Labour framed as advancing a broadly supported reform.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-06
+SECTION_NO: Nyheter | Stortingsvalget 2025
+HEADLINE_NO: Kaller utviklingen tilhøyre og Ap for oppsiktsvekkende
+HEADLINE_EN: Calls the development for the Conservatives and Labour remarkable
+LEAD_EN: A new polling average shows historically weak combined support for Labour and the Conservatives, highlighting growing party fragmentation ahead of Norway’s September election.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is mainly about party support, polling trends, and electoral fragmentation rather than a specific policy issue, so it fits governance and political competition.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-06
+SECTION_NO: Nyheter | Immigrasjon
+HEADLINE_NO: Frp vil sende alle asylsøkere til Rwanda
+HEADLINE_EN: The Progress Party wants to send all asylum seekers to Rwanda
+LEAD_EN: The Progress Party wants Norway to pursue a Rwanda-style asylum deal so that asylum seekers granted protection would be sent there instead of being allowed to stay in Norway.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article primarily concerns asylum policy, immigration control, and integration, while also presenting the Labour government as not pursuing the tougher approach Frp advocates.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-06
+SECTION_NO: Nyheter | Immigrasjon
+HEADLINE_NO: Kraftig vind og halvmeter snø på Østlandet
+HEADLINE_EN: Strong winds and half a meter of snow in Eastern Norway
+LEAD_EN: Authorities warn of major snowfall and strong winds in the Oslo area, with likely traffic disruption, train cancellations, and difficult travel conditions.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a weather and transport disruption report, which does not fit the main election issue categories and is therefore coded as other.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-06
+SECTION_NO: Nyheter | Helse
+HEADLINE_NO: Slik kan sovestillingen din gi bedre helse og søvnkvalitet
+HEADLINE_EN: How your sleeping position can improve your health and sleep quality
+LEAD_EN: Different sleeping positions can either relieve or worsen health problems, and experts say the best position depends on the person’s condition.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a health and lifestyle piece about sleep, pain, and medical conditions, so it fits the health category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-06
+SECTION_NO: Nyheter | Danmark
+HEADLINE_NO: Kong Frederiks nye våpenskjold sender et signal til Trump
+HEADLINE_EN: King Frederik’s new coat of arms sends a signal to Trump
+LEAD_EN: Denmark’s new king has unveiled a revised coat of arms that gives greater prominence to Greenland and the Faroe Islands, which experts see as a signal about the unity of the Danish realm.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about Greenland, Trump, and the international-security significance of Danish sovereignty, making security/foreign policy the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-06
+SECTION_NO: Nyheter | Togstans
+HEADLINE_NO: Bane Nors reserveløsning er vanlige mobiltelefoner
+HEADLINE_EN: Bane Nor’s backup solution is ordinary mobile phones
+LEAD_EN: After a nationwide train shutdown caused by failure in the rail radio system, Aftenposten reports that Bane Nor’s fallback plan relies on regular mobile phones rather than a separate backup network.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about railway infrastructure and emergency communication failures, which does not fit the main campaign issue categories and is therefore coded as other.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-06
+SECTION_NO: Nyheter | Togstans
+HEADLINE_NO: Jernbanetilsynet skal granske togstansen 1. juledag
+HEADLINE_EN: The Railway Authority will investigate the train shutdown on Christmas Day
+LEAD_EN: Norway’s Railway Authority is launching a broad investigation into the nationwide train stoppage on Christmas Day, focusing on what failed, how it was handled, and how vulnerability can be reduced.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about transport-system failure and regulatory oversight of the rail shutdown, which falls outside the main election issue categories and is therefore coded as other.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-06
+SECTION_NO: Nyheter | Psykisk Helse
+HEADLINE_NO: I 15 år prøvde filosofiprofessoren å finne svaret på meningen med livet
+HEADLINE_EN: For 15 years, the philosophy professor tried to find the answer to the meaning of life
+LEAD_EN: A philosophy professor argues that meaning in life comes from improving things, and says purpose grows out of commitment, projects, and human relationships rather than pleasure.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centers on mental well-being, purpose, and psychological health, so health is the closest fit even though it is also a broader lifestyle/philosophy feature.
