@@ -1,0 +1,224 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-01
+SECTION_NO: På en mandag
+HEADLINE_NO: Oljefond, valgkamp og politisk risiko
+HEADLINE_EN: The sovereign wealth fund, the election campaign, and political risk
+LEAD_EN: The author argues that the sovereign wealth fund has clumsily exposed itself and its political superiors to controversy by allowing its Israel-related investments to become a sensitive issue during the election campaign. This has pulled the fund into sharp national and international political debate.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the sovereign wealth fund’s Israel-related investments and the political backlash surrounding Gaza/Israel, while also touching on election-campaign governance and political management.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-01
+SECTION_NO: 
+HEADLINE_NO: Politiet mener Bhatti var mesterhjernen bak Oslo-skytingen
+HEADLINE_EN: Police believe Bhatti was the mastermind behind the Oslo shooting
+LEAD_EN: Prosecutors say Arfan Bhatti helped procure weapons for Zaniar Matapour and was the main figure behind the 2022 Oslo terror attack. His trial begins in Oslo District Court, and he faces up to 30 years in preventive detention.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centers on terrorism, violent extremism, and criminal prosecution in Norway, which fits the crime-related dimension of IMM, with a secondary security dimension because it concerns a terror case.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-01
+SECTION_NO: 
+HEADLINE_NO: Forsvar: Norge kjøper fregatter fra Storbritannia for 136 milliarder kroner. – Dette hander om trygghet for landet, sier Jonas Gahr Støre (Ap).
+HEADLINE_EN: Defence: Norway is buying frigates from the United Kingdom for NOK 136 billion. “This is about security for the country,” says Jonas Gahr Støre (Labour).
+LEAD_EN: Norway has chosen British Type 26 frigates in a deal worth about NOK 136 billion, which Støre says is fundamentally about national security. The purchase is framed as a strategic defence partnership with the UK, though critics raise concerns about cost, delays, and Israeli components.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about defence procurement, NATO-aligned security cooperation, and Norway’s strategic military partnership with the UK, with a secondary leadership/governance element because the decision is tied to government choice and political positioning.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-01
+SECTION_NO: 
+HEADLINE_NO: Britiske båter høres bra ut
+HEADLINE_EN: British ships sound like a good choice
+LEAD_EN: The commentator argues that Norway’s decision to buy British frigates appears sensible because identical vessels with close allies should make operations, maintenance, and strategic cooperation easier. The piece also notes geopolitical risks, including possible U.S. irritation.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is mainly an evaluation of Norway’s frigate purchase and defence cooperation with close NATO allies, making security and defence the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-01
+SECTION_NO: 
+HEADLINE_NO: Er stor-investor i selskaper som hugger regnskog
+HEADLINE_EN: Is a major investor in companies that are cutting down rainforest
+LEAD_EN: A Brazilian mining company plans to clear large areas of Amazon rainforest to expand a bauxite mine, while Norway’s sovereign wealth fund remains heavily invested in two of its owners. The article highlights criticism that the fund ignored an ethics recommendation to divest despite serious environmental risks.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about rainforest destruction, environmental harm, and the tension between Norway’s climate commitments and the sovereign wealth fund’s investments, with a secondary governance aspect because it critiques official oversight and decision-making.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-01
+SECTION_NO: 
+HEADLINE_NO: Trump kan straffe Norge for Oljefondets fy-liste
+HEADLINE_EN: Trump could punish Norway over the sovereign wealth fund’s blacklist
+LEAD_EN: The article warns that Norway could face major costs if Donald Trump reacts to the sovereign wealth fund’s exclusion of U.S. companies, especially Caterpillar over its links to Israeli actions in Gaza and the West Bank. Politicians and experts fear possible retaliation through tariffs, taxes, or other financial measures.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about fallout from the sovereign wealth fund’s exclusions tied to Israel/Gaza, with a secondary foreign-policy and security dimension because it focuses on possible U.S. retaliation against Norway.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-01
+SECTION_NO: 
+HEADLINE_NO: Venezuelas husmødre og pensjonister gjør seg klar til krig mot USA
+HEADLINE_EN: Venezuela’s housewives and pensioners are preparing for war against the United States
+LEAD_EN: As tensions rise with the United States, Venezuelans are volunteering for militia service after Nicolás Maduro called on the public to defend the country. The article examines fears of a possible U.S. attack and how the external threat could strengthen Maduro politically.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about international conflict, military escalation, and U.S.–Venezuela relations, which squarely fits security and foreign policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-01
+SECTION_NO: 
+HEADLINE_NO: Asylhoteller skaper sinne og protester
+HEADLINE_EN: Asylum hotels are creating anger and protests
+LEAD_EN: Protests over asylum hotels in Britain intensified after a case involving an asylum seeker fueled an already heated immigration debate. The article explains how migrant crossings, hotel accommodation, and Nigel Farage’s campaigning have made immigration the country’s most salient issue.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about asylum seekers, migration, and public backlash against immigration policy in the UK, with a secondary governance element because it also covers party competition and state responses.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-01
+SECTION_NO: 
+HEADLINE_NO: De får nyhetene sine fra Tiktok, men sluker ikke det de blir servert
+HEADLINE_EN: They get their news from TikTok, but they do not swallow everything they are served
+LEAD_EN: A commentator meets first-time voters who use TikTok and other social media for political information but also fact-check, read news articles, and compare voting guides before deciding. The piece portrays them as more critical and thoughtful than stereotypes suggest.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about voter behavior, party choice, campaign information, and perceptions of party leaders rather than a specific policy issue, so it fits governance and electoral politics.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-01
+SECTION_NO: 
+HEADLINE_NO: Mangler tog. Kaos for pendlere.
+HEADLINE_EN: Not enough trains. Chaos for commuters.
+LEAD_EN: Commuters on busy rail lines around Oslo are regularly facing severely overcrowded trains because departures planned with double trainsets are often run at half capacity. The article links the problems to maintenance backlogs, delayed new trains, and limited workshop capacity.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about failures in a core public service—commuter rail transport—and their consequences for passengers, with a secondary governance element because responsibility is split across public bodies and operators.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-01
+SECTION_NO: 
+HEADLINE_NO: Rasende på fulle trikker? Det er til ditt eget beste!
+HEADLINE_EN: Angry about packed trams? It is for your own good!
+LEAD_EN: In a satirical commentary, the writer mocks Oslo’s chaotic and overcrowded public transport system, especially after the closure of Majorstuen station. The piece jokes that commuters are being “stress-tested” by confusing replacement services and dangerously full trams.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about overcrowded and poorly functioning public transport as a public service problem, with a secondary governance element because it satirizes municipal planning and service management.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-01
+SECTION_NO: 
+HEADLINE_NO: Mannen som ble tatt av skredet, jobbet på oppdrag for Bane Nor
+HEADLINE_EN: The man taken by the landslide was working on assignment for Bane Nor
+LEAD_EN: A Danish contractor working for Bane Nor is presumed dead after a quick-clay landslide in Levanger swept away roads and the Nordland railway line. Authorities and investigators are now examining the cause while major transport disruptions are expected to last for months.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about a fatal infrastructure accident and disruption to core public transport services, with a secondary governance element because public agencies and Bane Nor are responsible for the response and investigation.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-01
+SECTION_NO: 
+HEADLINE_NO: Kraftig fall i brunostsalget
+HEADLINE_EN: Sharp decline in brown cheese sales
+LEAD_EN: Norwegians have cut their brown cheese consumption significantly over the past 15 years, although exports of the traditional product have risen strongly. Industry and nutrition experts point to changing eating habits and new alternatives in the spread market.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about changing food consumption and exports of a traditional Norwegian product, which does not fit the main political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-01
+SECTION_NO: 
+HEADLINE_NO: De har vaert bestevenner i et halvt århundre. Én dag sto det om livet.
+HEADLINE_EN: They have been best friends for half a century. One day, it was a matter of life and death.
+LEAD_EN: The article follows two elderly women in Oslo whose 50-year friendship became life-saving when one suffered a stroke and the other had the key to let help in. It reflects on how deep friendship can be as important as romantic love.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a human-interest feature about friendship and aging rather than a political issue, with a secondary health angle because a stroke emergency is central to the story.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-01
+SECTION_NO: 
+HEADLINE_NO: Ble hedret av tusenvis av mennesker i et hav av gule blomster
+HEADLINE_EN: Honored by thousands of people in a sea of yellow flowers
+LEAD_EN: Several thousand people gathered in Oslo for a memorial march for Tamima Nibras Juhar after a killing described as politically motivated and linked to far-right views. Speakers, including Prime Minister Jonas Gahr Støre, framed the event as a collective rejection of hatred and racism.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article centers on a racist, far-right motivated killing and the public response to hate and extremism, which fits best under the crime/integration dimension of IMM.

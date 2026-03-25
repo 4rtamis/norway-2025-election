@@ -1,0 +1,119 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-31
+SECTION_NO: 
+HEADLINE_NO: Én uke før valget handler valgkampen om kaos på borgerlig side
+HEADLINE_EN: One week before the election, the campaign is about chaos on the centre-right
+LEAD_EN: The commentary argues that the centre-right election campaign has become dominated by internal chaos and poor coordination just one week before the vote. This infighting may demobilize their voters and hand Labour an advantage in the final stretch.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about election dynamics, leadership, coalition credibility, and the prime minister question on the centre-right, which fits governance and campaign competence.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-31
+SECTION_NO: 
+HEADLINE_NO: Redningsaksjon etter skred avsluttet
+HEADLINE_EN: Rescue operation after landslide called off
+LEAD_EN: A man is presumed dead after a landslide struck the E6 in Levanger on Saturday morning. The area remains unstable, major roads and rail are closed, and concerns are being raised about prior knowledge of the ground conditions.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a factual report on a fatal landslide and infrastructure disruption, not on one of the main campaign policy categories listed.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-31
+SECTION_NO: 
+HEADLINE_NO: Banebrytende norsk forskning om hjerteinfarkt
+HEADLINE_EN: Groundbreaking Norwegian research on heart attacks
+LEAD_EN: Norwegian researchers say a major new study could change heart attack treatment worldwide by showing that beta blockers still benefit many patients after infarction. The findings are based on data from Norwegian and Danish survivors and may shape new international guidelines.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about medical research, heart attack treatment, and healthcare practice, which fits the health and public services category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-31
+SECTION_NO: 
+HEADLINE_NO: Ble kontaktet av Tiktok om falske Frp-kontoer
+HEADLINE_EN: Was contacted by TikTok about fake FrP accounts
+LEAD_EN: TikTok contacted the Progress Party about fake accounts using the party’s name and branding, but the party did not respond until Aftenposten raised the issue. Many of the accounts are still active just days before the parliamentary election.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about party management, campaign integrity, and democratic accountability around fake political accounts, which fits governance and political competence.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-31
+SECTION_NO: 
+HEADLINE_NO: Venstre-lederen om Erna Solbergs statsministeravklaring: – Det eneste realistiske
+HEADLINE_EN: The Liberal Party leader on Erna Solberg’s clarification on the prime minister question: “The only realistic option”
+LEAD_EN: Venstre leader Guri Melby backs Erna Solberg’s claim that she is the only realistic non-socialist prime minister candidate if the centre-right wins a majority. The dispute highlights election strategy, voter mobilization, and tensions between Venstre, Høyre, and Frp.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about prime ministerial leadership, coalition dynamics, and electoral strategy on the centre-right, which fits governance rather than a substantive policy area.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-31
+SECTION_NO: 
+HEADLINE_NO: Smitteverntopper trekker seg i protest mot Robert F. Kennedy jr.
+HEADLINE_EN: Top infectious disease officials resign in protest against Robert F. Kennedy Jr.
+LEAD_EN: Senior officials at the U.S. CDC have resigned after clashes with Health Secretary Robert F. Kennedy Jr. over vaccine policy and what they describe as unscientific directives. The dispute has raised warnings about public health and national health security in the United States.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about vaccine policy, public health administration, and healthcare leadership, which fits the health category rather than Norwegian election politics.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-31
+SECTION_NO: 
+HEADLINE_NO: Lang Plussnatts ferd mot dag
+HEADLINE_EN: The long PlussNatt journey toward day
+LEAD_EN: The writer tests Vy’s overnight PlussNatt service on the Bergen Line and finds the seat comfortable, but the experience is undermined by noisy fellow passengers and too little privacy. In the end, he concludes the product is good, though better suited to travelers who come prepared.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a consumer-style feature about train travel and passenger experience, which does not fit the main political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-31
+SECTION_NO: 
+HEADLINE_NO: Norske produsenter kaster seg på alkoholfri drikketrend: – Folk har begynt å kreve mer.
+HEADLINE_EN: Norwegian producers jump on the non-alcoholic drinks trend: “People have started demanding more.”
+LEAD_EN: Norwegian producers of non-alcoholic drinks are expanding rapidly as consumer demand grows, with some now supplying Vinmonopolet and Michelin restaurants. The trend is driven by interest in health, moderation, and more sophisticated alcohol-free options.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly a business and lifestyle feature about the growth of the non-alcoholic drinks market, with a secondary health angle related to moderation and wellness.

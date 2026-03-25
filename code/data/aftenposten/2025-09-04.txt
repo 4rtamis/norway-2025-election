@@ -1,0 +1,239 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-04
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Hvilken fred, Xi Jinping?
+HEADLINE_EN: What peace, Xi Jinping?
+LEAD_EN: Xi Jinping says the world must choose between peace and war, but the article argues this rings hollow as he celebrates with Vladimir Putin and Kim Jong-un while China continues backing Russia politically and economically.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about international security, authoritarian alignment, and China’s support for Russia’s war against Ukraine, with a secondary leadership and regime-competence angle.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-04
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Rå og uforfalsket propaganda er tilbake for fullt
+HEADLINE_EN: Crude and unfiltered propaganda is back in full force
+LEAD_EN: The article warns that anonymous social media campaigns are using hate, deception, and algorithm-driven outrage to influence Norway’s 2025 election. It argues this marks a disturbing new phase in Norwegian political communication.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about the integrity of the election campaign, anonymous influence operations, and how these affect democratic debate and political leadership in Norway.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-04
+SECTION_NO: 
+HEADLINE_NO: 800 kjempet om jobb hos McDonald's
+HEADLINE_EN: 800 competed for a job at McDonald’s
+LEAD_EN: A young woman in Oslo spent nine months looking for part-time work before landing a job at McDonald’s, where 800 applicants competed for 74 positions. The article uses her case to highlight young people’s pessimism about the labor market and rising barriers to entry.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about economic insecurity and access to work for young people, focusing on a difficult labor market and worries about future job prospects.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-04
+SECTION_NO: 
+HEADLINE_NO: Hvilken fred, Xi Jinping?
+HEADLINE_EN: What peace, Xi Jinping?
+LEAD_EN: Xi Jinping says the world faces a choice between peace and war, but the article argues this is hollow rhetoric when China honors Putin and Kim while supporting Russia’s war politically and economically.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about foreign policy, authoritarian power alignment, and China’s stance toward Russia’s war in Ukraine, with a secondary focus on leadership and political positioning.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-04
+SECTION_NO: 
+HEADLINE_NO: Støre fester grepet i ny måling før valget
+HEADLINE_EN: Støre tightens his grip in new poll before the election
+LEAD_EN: A new poll for Aftenposten and VG shows Jonas Gahr Støre strengthening his lead as preferred prime minister over both Erna Solberg and Sylvi Listhaug just days before the election. The article frames him as better able to unite and lead than his right-wing rivals.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about leadership, prime minister preferences, and election dynamics rather than any specific policy issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-04
+SECTION_NO: Kommentar
+HEADLINE_NO: Listhaug er blitt et enda større problem
+HEADLINE_EN: Listhaug has become an even bigger problem
+LEAD_EN: A new poll suggests Sylvi Listhaug has become less attractive as a prime minister candidate, losing support even among voters in parties Frp would need to cooperate with. The commentary argues she is now a greater burden for the non-socialist bloc.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about leadership, coalition viability, and prime minister preferences in the election campaign, not a substantive policy issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-04
+SECTION_NO: 
+HEADLINE_NO: Hunden Jessie ble et symbol som gir ukrainere håp
+HEADLINE_EN: The dog Jessie became a symbol that gives Ukrainians hope
+LEAD_EN: After a Russian strike killed her owner in Kyiv, the dog Jessie kept howling outside the ruined apartment block for two days and became a symbol of hope for many Ukrainians. The article places her story within intensifying Russian attacks enabled by support from North Korea and China.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Russia’s war against Ukraine, foreign support for Russian attacks, and the broader security consequences of the escalating air war.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-04
+SECTION_NO: 
+HEADLINE_NO: PST kartlegger: – Ofte svaert få biter i puslespillet
+HEADLINE_EN: PST maps threats: “Often very few pieces in the puzzle”
+LEAD_EN: The article explains how Norway’s security police assess radicalized individuals and place them in a threat pyramid, often based on very limited information. It highlights the challenge of distinguishing extreme views from a real willingness to use violence.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about terrorism prevention, radicalization, and domestic security monitoring by PST, with a secondary governance angle related to state threat assessment.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-04
+SECTION_NO: 
+HEADLINE_NO: Bhatti i tårer da han snakket om sin avdøde sønn
+HEADLINE_EN: Bhatti in tears when he spoke about his deceased son
+LEAD_EN: In court, Arfan Bhatti gave emotional testimony about his life and broke down when asked about his son, who was killed in Syria. The article is centered on his defense testimony in the terror trial linked to the 25 June 2022 attack in Oslo.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns a terrorism case, radicalization, and courtroom proceedings related to the Oslo attack, with a secondary governance angle because it deals with the justice system and prosecution.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-04
+SECTION_NO: Nyheter
+HEADLINE_NO: IS sprengte det hellige bygget i luften. Nå er det gjenreist.
+HEADLINE_EN: ISIS blew the holy building to pieces. Now it has been rebuilt.
+LEAD_EN: Al-Nuri Mosque in Mosul, where ISIS proclaimed its caliphate in 2014, has reopened after being destroyed by the group during the battle for the city. The article uses the rebuilding to reflect on ISIS’s rise, fall, and the wider legacy of war in Iraq and Syria.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about terrorism, conflict, and the rise and defeat of ISIS, with a secondary focus on cultural reconstruction after war.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-04
+SECTION_NO: 
+HEADLINE_NO: ALS-pasient klaget på vedtak – bydelen svarte med redusert tilbud
+HEADLINE_EN: ALS patient appealed a decision – the borough responded with a reduced offer
+LEAD_EN: An ALS patient in Oslo won support from the County Governor, who said her care offer was below a defensible minimum level, but the borough then proposed fewer home-care hours and digital monitoring instead. The article highlights her struggle for round-the-clock assistance at home.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about healthcare and welfare services, focusing on access to adequate home care for a seriously ill patient, with a secondary governance angle about unequal municipal provision and administrative decisions.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-04
+SECTION_NO: 
+HEADLINE_NO: Slik endrer Donald Trump utseendet til USAs hovedstad
+HEADLINE_EN: This is how Donald Trump is changing the appearance of the U.S. capital
+LEAD_EN: The article describes how Donald Trump is reshaping Washington’s look, from giant banners and beautification projects to major aesthetic changes at the White House. It presents these visual interventions as part of his broader political imprint on the capital.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about Trump’s leadership style and symbolic use of state power in reshaping the capital, rather than a substantive policy area.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-04
+SECTION_NO: 
+HEADLINE_NO: Ekspertenes råd om hvem som bør velge norgespris
+HEADLINE_EN: Experts’ advice on who should choose the Norway price
+LEAD_EN: Experts say households in Southern Norway should opt for the fixed-price electricity scheme, while people in Mid- and Northern Norway should probably avoid it because market prices there are expected to stay lower. The article focuses on how geography shapes whether the new power-price policy will pay off.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about electricity prices, household costs, and the economic effects of the government’s new fixed-price power scheme.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-04
+SECTION_NO: 
+HEADLINE_NO: Klimaendringene kan gå hardt ut over boligforsikringen
+HEADLINE_EN: Climate change could hit home insurance hard
+LEAD_EN: The article explains that more floods and landslides in Norway may drive up home-insurance costs as climate-related damage becomes more frequent. It also raises concerns about whether today’s evenly shared insurance model can hold if high-risk building continues.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the domestic consequences of climate change, especially increased flood and landslide risk, with a secondary economic angle through rising insurance costs.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-04
+SECTION_NO: 
+HEADLINE_NO: Venter få rentekutt og kraftig vekst i boligpriser
+HEADLINE_EN: Expect few rate cuts and strong growth in house prices
+LEAD_EN: Nordea Markets says the Norwegian economy is strengthening and expects only limited interest-rate cuts after this year. Even so, it warns that lower rates and rising incomes could push house prices up sharply through 2027.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about interest rates, economic growth, purchasing power, and the housing market in Norway.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-04
+SECTION_NO: 
+HEADLINE_NO: Får full lønn i syv år – som førtidspensjonist
+HEADLINE_EN: Gets full salary for seven years – as an early retiree
+LEAD_EN: The article reveals that Nordkraft CEO Eirik Frantzen is entitled to full pay from age 60 to 67, potentially worth around 30 million kroner, despite weak company results and no dividend payouts to municipal owners. It raises sharp questions about oversight, bonus arrangements, and board governance.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: TAX
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about governance and oversight failures around executive pay in a municipally owned power company, with a secondary inequality and compensation angle.

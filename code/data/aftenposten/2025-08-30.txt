@@ -1,0 +1,359 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: Aftenposten.no
+HEADLINE_NO: Den norske kirke bør få mer enn andre
+HEADLINE_EN: The Church of Norway should receive more than others
+LEAD_EN: The Church of Norway is losing members while some other faith and belief communities are growing, creating funding problems under the current support system. An expert committee has proposed changes so the church’s special public responsibilities can be funded separately.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about government rules and institutional design for public funding of religious communities, rather than a specific policy area in the coding scheme.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Sjokk i Danmark. Norge later som ingenting.
+HEADLINE_EN: Shock in Denmark. Norway pretends nothing is happening.
+LEAD_EN: Denmark has been jolted by actions linked to Donald Trump, including moves against a Danish energy project and alleged influence operations in Greenland. The article argues that Norway is failing to confront what this means for its own security and foreign policy.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is mainly about Norway’s security environment, the Trump-led United States, Europe, and the need for a clearer Norwegian foreign and defence strategy, while also criticizing the governing political leadership for not addressing it.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Mener Norge ville vaert flere tusen milliarder fattigere hvis Frp hadde fått viljen sin
+HEADLINE_EN: Says Norway would have been several thousand billion poorer if the Progress Party had gotten its way
+LEAD_EN: Jens Stoltenberg argues that key political decisions made Norway’s sovereign wealth fund large, and that the Progress Party opposed several of them. He says Norway would have had far less saved if Frp had prevailed on oil taxation, equity allocation, and fiscal policy.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article centers on fiscal choices about oil revenues, taxation, and use of the sovereign wealth fund, while presenting Stoltenberg and Labour as responsible stewards against Frp’s alternative.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Skal ha meldt seg inn i høyreekstrem gruppe før drapet
+HEADLINE_EN: Reportedly joined a far-right group before the killing
+LEAD_EN: An 18-year-old terror suspect who had long been seen as integrated in his local community was on PST’s radar over suspected far-right views before the fatal stabbing of a care worker in Oslo. Investigators say he also intended to attack a mosque.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about politically motivated violence, extremism, and a killing targeting Muslims, which fits best under crime-related coverage, with a secondary governance angle because it discusses PST and institutional handling of the threat.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Skal ha meldt seg inn i høyreekstrem gruppe før drapet
+HEADLINE_EN: Reportedly joined a far-right group before the killing
+LEAD_EN: An 18-year-old terror suspect had been on the police security service’s radar for suspected far-right views before he allegedly killed a care worker in Oslo. Investigators say he also intended to attack a mosque, raising questions about extremism and threat follow-up.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about far-right anti-Muslim extremism, politically motivated violence, and a planned mosque attack, with a secondary governance aspect related to PST and institutional response.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Gir demokratiet 50 prosent sjanse til å overleve Trump
+HEADLINE_EN: Gives democracy a 50 percent chance of surviving Trump
+LEAD_EN: A Norwegian political science professor says U.S. democracy now has only a fifty-fifty chance of surviving Donald Trump. The article argues that Trump has rapidly concentrated power and pushed the United States in a more authoritarian direction.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the international security and foreign-policy implications of democratic backsliding in the United States, with a secondary governance dimension focused on executive power and democratic institutions.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Trump vil ha viljen sin. Truer med nye tollmurer.
+HEADLINE_EN: Trump wants his way. Threatens new tariff walls.
+LEAD_EN: Donald Trump is threatening higher tariffs and other penalties to pressure countries into dropping digital regulations and climate goals. The article describes how the U.S. is using trade power to defend tech companies and push other countries toward more fossil fuel use.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about U.S. foreign economic coercion and international power politics, with a secondary focus on climate policy because Trump is also pressuring other countries to abandon green targets.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Mens Trump splitter Vesten, samles resten i Kina
+HEADLINE_EN: As Trump splits the West, the rest gather in China
+LEAD_EN: China is hosting a major summit and military parade with leaders including Xi Jinping, Vladimir Putin, and Narendra Modi, showcasing a shifting global order without the United States. The article argues that Trump’s policies are pushing more countries closer to China and weakening the West’s position.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is chiefly about global power shifts, great-power relations, and the strategic consequences of Trump’s foreign policy for the international order.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Solberg avviser at Listhaug kan bli statsminister
+HEADLINE_EN: Solberg rejects the idea that Listhaug could become prime minister
+LEAD_EN: Erna Solberg says that, given the current polling, a centre-right majority would not result in Sylvi Listhaug becoming prime minister. She argues that the only realistic alternative to the current government is a Høyre-led coalition.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about coalition arithmetic, prime ministerial leadership, and government formation on the centre-right, which fits the governance and leadership category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Besk borgerlig baluba
+HEADLINE_EN: Bitter bourgeois turmoil
+LEAD_EN: Open conflict has broken out between Høyre and the Progress Party just over a week before the parliamentary election. The article argues that the dispute over whether Erna Solberg or Sylvi Listhaug should lead a potential right-wing government could cost the bloc victory.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about leadership conflict, coalition dynamics, and election strategy on the centre-right, with no primary substantive policy issue beyond government formation.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: – I Norge har vi skatt på ambisjoner. Det kan vi ikke ha.
+HEADLINE_EN: “In Norway, we tax ambition. We cannot have that.”
+LEAD_EN: Young entrepreneurs say they would prefer to build their companies in Norway, but are considering moving abroad because wealth tax and exit tax make it harder to raise capital and scale up. The article presents these tax rules as a barrier to entrepreneurship and future value creation.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about the wealth tax and exit tax as obstacles to entrepreneurship and investment, and it frames the current Labour-led policy line as harmful to Norwegian business growth.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Du er ikke liberal og kul, du er bare teit
+HEADLINE_EN: You are not liberal and cool, you are just stupid
+LEAD_EN: A growing share of 15- and 16-year-olds in Norway are getting alcohol from their parents before parties. The article argues that this does not reduce harm, but instead is linked to earlier and riskier drinking.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about public health and youth alcohol consumption, focusing on parental behavior and health risks rather than party politics.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Militaere bevegelser viser ny russisk test av «flyvende Tsjornobyl» i nord
+HEADLINE_EN: Military movements show a new Russian test of the “flying Chernobyl” in the north
+LEAD_EN: Norway’s intelligence service confirms that Russia is testing the nuclear-powered Burevestnik cruise missile in the High North. Experts warn that a failed test could cause radioactive contamination that affects Norwegian areas.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Russian weapons testing, intelligence, and security risks in Norway’s northern neighbourhood, with a secondary environmental angle because of the danger of radioactive pollution.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Russlands gråsonekrig mot Europa fortsetter. I fjor tok det helt av.
+HEADLINE_EN: Russia’s gray-zone war against Europe continues. Last year it surged dramatically.
+LEAD_EN: Suspected Russian attacks on critical infrastructure in Europe rose sharply in 2024, and Norway was among the countries affected. The article says Europe is struggling to deter this sabotage, cyber activity, and other forms of hybrid warfare.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Russian hybrid warfare, sabotage, and threats to critical infrastructure in Europe and Norway, with a secondary governance angle because it discusses state preparedness and institutional response.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Dette skjedde da Israel angrep et «Hamas-kamera»
+HEADLINE_EN: This is what happened when Israel attacked a “Hamas camera”
+LEAD_EN: Video analysis indicates that Israel struck the same location at Nasser Hospital in southern Gaza three times. The latter two strikes hit as rescuers and journalists were trying to help victims of the first attack, raising questions about Israel’s explanation.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Gaza war and an Israeli strike on a hospital site, fitting the Gaza/Palestine category rather than Norwegian domestic politics.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Israel erklaerer Gaza by som kampsone, stenger ute nødhjelp
+HEADLINE_EN: Israel declares Gaza City a combat zone, shuts out aid
+LEAD_EN: Israel says the tactical pause around Gaza City is over and that no more aid will be allowed in, as military operations intensify. The article also highlights strong international criticism, including from Norway’s foreign minister, of the offensive and forced displacement of Palestinians.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Gaza war, humanitarian access, and international reactions to Israel’s offensive, with a secondary foreign-policy dimension because Norway joins a joint ministerial condemnation.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: LO må trekke seg ut av Palestina etter vedtak om Israel-boikott
+HEADLINE_EN: LO must withdraw from Palestine after adopting an Israel boycott
+LEAD_EN: After LO voted to support an economic boycott of Israel, the organization says it must pull out of its programs in Palestine because the decision has increased risks for staff and operations. The article highlights how a boycott intended to support Palestinians may instead undermine aid efforts on the ground.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Israel–Palestine conflict and a Norwegian boycott decision’s consequences for Palestinian solidarity work, with a secondary governance angle because it discusses LO’s internal decision-making and the government’s response.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Ber om fengsel for norsk sikkerhetsvakt som delte informasjon med Russland og Iran
+HEADLINE_EN: Prosecutors seek prison for Norwegian security guard who shared information with Russia and Iran
+LEAD_EN: Prosecutors are asking for more than six years in prison for a former security guard at the U.S. embassy in Oslo who admitted sharing sensitive information with Russia and Iran. The case centers on alleged espionage, security routines, and the potential harm of leaking names and internal details.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about espionage, foreign intelligence threats, and national security, with a secondary governance aspect because it focuses on prosecution and legal handling of the case.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Har helsekøene blitt kortere?
+HEADLINE_EN: Have the healthcare queues become shorter?
+LEAD_EN: The government says waiting times in the health system have fallen in 2025 after rising sharply in previous years. The article finds that queues have indeed become shorter, but mainly because hospitals used extraordinary funding and overtime, raising doubts about whether the improvement will last.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about healthcare waiting times and hospital capacity, with a secondary governance angle because it evaluates whether the government has actually fulfilled its promise.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Eviny-topp fikk nesten én million for å bli i selskapet
+HEADLINE_EN: Eviny executive received nearly one million to stay with the company
+LEAD_EN: A top Eviny executive received a loyalty bonus of nearly NOK 923,000 simply for remaining in her job, on top of her regular salary. The article raises questions about transparency and governance in a fully publicly owned power company.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about governance, oversight, and executive accountability in a publicly owned company, rather than a substantive policy issue like taxes, health, or climate.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Svaert mange boliger til salgs i Oslo: – Prisbremsen er på
+HEADLINE_EN: Very many homes for sale in Oslo: “The price brake is on”
+LEAD_EN: A large number of homes are on the market in Oslo, and more are remaining unsold, giving buyers more choice and reducing price pressure. Industry figures now expect weaker price growth and possibly falling prices in the capital.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about housing market conditions, prices, interest rates, and affordability, which fit the economy and cost-of-living category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Hun falt for MDGs Støre-reklame
+HEADLINE_EN: She fell for MDG’s Støre advertisement
+LEAD_EN: The Green Party is trying to ride Jonas Gahr Støre’s momentum by telling voters that an MDG vote can help keep him in power. The article suggests this strategy may push MDG above the electoral threshold and make them important for a red-green majority.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is mainly about election strategy, coalition arithmetic, and the threshold battle, while secondarily touching on climate because MDG frames itself as the party that can make a Støre government greener.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: Når er man for syk til å jobbe?
+HEADLINE_EN: When are you too sick to work?
+LEAD_EN: The article explains when workers should stay home sick and how self-certification works in Norway. An expert says the key question is whether you can still do your job safely and sensibly, taking symptoms and risk of infecting others into account.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about sickness absence, workplace health, and practical guidance on when illness justifies staying home from work.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-30
+SECTION_NO: 
+HEADLINE_NO: T-bane-avsporinger: Mye trafikk og tørre skinner trolig årsaken
+HEADLINE_EN: Metro derailments: Heavy traffic and dry rails likely the cause
+LEAD_EN: Sporveien says recent Oslo metro derailments were likely caused by unusually heavy traffic in some parts of the network and overly dry rails in others. The company says there is no single clear cause and that the metro remains safe to use.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about public transport operations and technical explanations for derailments, which do not fit the main election issue categories, with a minor governance angle because it concerns infrastructure management by a public operator.

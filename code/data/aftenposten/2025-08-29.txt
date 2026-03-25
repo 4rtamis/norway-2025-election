@@ -1,0 +1,350 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Trynefaktoren må ut av skoler over hele Norge
+HEADLINE_EN: The “face factor” must be removed from schools across Norway
+LEAD_EN: Students in Oslo who tested anonymous grading say it feels fairer, and research suggests teachers’ perceptions can affect marks. The editorial argues anonymous grading should be expanded to make school assessment more equitable.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about fairness in grading and the operation of the school system, which fits education and public services.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: India får ikke lov til å vaere nøytralt
+HEADLINE_EN: India is not allowed to remain neutral
+LEAD_EN: New U.S. tariffs on Indian goods are damaging relations between India and the United States, partly to pressure India over Russian energy imports. The commentary asks whether Narendra Modi will respond by moving closer to China or trying to preserve India’s balancing position.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about geopolitics, great-power alignment, Russia’s war in Ukraine, and India’s foreign-policy positioning, with trade tariffs as a secondary economic dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Arkitekturopprøret slakter plan for Furuset
+HEADLINE_EN: The Architecture Uprising tears apart the plan for Furuset
+LEAD_EN: Landowners want to build a new town center at Furuset in Oslo, but Arkitekturopprøret harshly criticizes the design as soulless, formulaic development. The dispute centers on whether the plan will create a real urban environment or repeat past planning mistakes.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about urban design and architectural planning for a local development project, which does not fit the main election issue categories, with a minor connection to local public space and community services.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Fra standup til sykehjem
+HEADLINE_EN: From stand-up to a nursing home
+LEAD_EN: A stolen painting looted from a Jewish art dealer during World War II was seemingly revealed in an Argentine real-estate listing tied to a Nazi official’s family. But when police searched the house, the artwork had already been replaced by a painting of horses.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about Nazi-looted art, historical restitution, and an international police investigation, which does not fit the main election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Ekspert mener demokratene kan få en slutt på dette om de tør
+HEADLINE_EN: Expert says Democrats can put an end to this if they dare
+LEAD_EN: Armed National Guard soldiers are now patrolling Washington, D.C., and a former CIA analyst calls it a constitutional breakdown rather than a public-safety measure. He argues Trump is using troop deployments to intimidate Democratic leaders and voters.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about democratic institutions, presidential power, and political control in the United States, with security forces as a secondary element.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Nå angriper han Europa – igjen
+HEADLINE_EN: Now he is attacking Europe again
+LEAD_EN: Trump is threatening Europe with punitive tariffs if it continues regulating major U.S. tech firms through digital taxes and EU tech laws. The commentary argues these rules are meant to protect consumers and democracy, not discriminate against American companies.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about transatlantic conflict, international pressure, and EU-US foreign-economic relations, with the trade and regulatory dispute as a secondary economic issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Mange sivile drept i nattangrep
+HEADLINE_EN: Many civilians killed in nighttime attack
+LEAD_EN: At least 15 people, including four children, were killed and nearly 50 injured in a massive Russian drone and missile attack on Kyiv. The article describes widespread destruction and renewed international condemnation, including from Norway.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Russia’s war against Ukraine, civilian casualties, international reactions, and Norway’s response, which fits security and foreign policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Folks samlede skattenivå skulle holdes uendret. Slik gikk det.
+HEADLINE_EN: People’s overall tax level was supposed to remain unchanged. Here is what happened.
+LEAD_EN: Labour promised before the 2021 election to keep the overall level of taxes and fees on people’s income unchanged, but the pledge depended on a later clarification excluding dividend tax. The article says the promise was kept only under Labour’s narrower definition, while critics argue it was broken.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article primarily concerns Labour’s tax pledge, dividend taxation, and whether the government increased the tax burden, with a secondary focus on political credibility and leadership.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Anonyme kontoer på sosiale medier preger valgkampen
+HEADLINE_EN: Anonymous accounts on social media are shaping the election campaign
+LEAD_EN: Anonymous political accounts are gaining huge reach in Norway’s election campaign, while the money behind some of them remains unclear. The article warns that social-media algorithms and opaque funding may be reshaping how young voters encounter political information.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about election campaigning, political influence, transparency, and democratic fairness rather than a specific substantive policy issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Millionfest for kraftdirektører møtt med raseri fra politikere
+HEADLINE_EN: Million-party for power executives met with outrage from politicians
+LEAD_EN: Politicians react with disbelief after it emerged that executives in publicly owned power companies received unusually large pay increases during the electricity crisis. The article links the outrage to falling purchasing power and high power bills for ordinary people.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the electricity crisis, energy-sector profits, and the burden on households, with a secondary focus on political oversight of publicly owned companies.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Politiet: Terrorsiktet 18-åring planla også angrep mot moské
+HEADLINE_EN: Police: Terror-charged 18-year-old also planned an attack on a mosque
+LEAD_EN: Police say an 18-year-old already charged in a politically motivated killing also stated that he intended to attack a mosque in Hønefoss. Investigators say his ability to carry out further attacks appears to have been limited, but the case is still under investigation.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about terrorism, public security, and police investigation of a planned attack in Norway.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Forsker: Stadig flere får alkohol av foreldrene til å ta med på fest
+HEADLINE_EN: Researcher: More and more young people are getting alcohol from their parents to bring to parties
+LEAD_EN: A new public-health survey shows that alcohol use among teenagers is rising again, and far more minors now report getting alcohol from their parents. Researchers say this more liberal parenting approach is linked to more frequent and riskier drinking.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about youth alcohol use, public health, and parental behavior, which fits health and welfare issues.Tenåring har laget app som skal hjelpe folk som vil slutte med porno
+Den britiske gründeren sier han tjener millioner på appen som tilbyr KI-terapeut og panikkknapp. Norsk sexolog er kritisk til metodene.
+Aftenposten29 Aug 2025Ruben Grøndahl Utaker ruben@aftenposten.no
+Foto: Skjermdump / @alexsllater på Youtube
+Kompisene Alex Slater (venstre) og businesspartneren Connor McLaren (høyre) hevder at de tjener fett på kampen mot porno.
+Pornobransjen er en global milliardindustri. Nå prøver Alex Slater (19) å utfordre den.
+
+– Folk bruker porno for å fylle et tomrom i livet sitt, men det er faktisk porno som skaper tomrommet, sier Slater til den britiske avisen The Times.
+
+Han er medgründer av appen «Quittr» og vil hjelpe spesielt menn med å bli kvitt pornoavhengighet. Appen ligger nå på 164. plass på topplisten til Apple Store.
+
+Overfor den britiske avisen hevder gründerne at rundt halvparten av brukerne er under 18 år.
+
+– I den unge alderen er kroppen i utvikling. Det er ikke uvanlig å eksperimentere med kropp, onani og porno. Det trenger ikke sykeliggjøres, sier den norske sexologen Tore Holte Follestad.
+
+Tjener millioner
+
+Den 19 år gamle britiske gründeren har nå base i Miami i USA. På Youtube omtaler han seg som fremtidig statsminister. Slater deler også videoer om livet som ung tek-gründer. Mye handler om økonomi og raske biler.
+
+Slater påstår at de drar inn rundt 500.000 dollar i måneden, omtrent 5 millioner kroner.
+
+Totalt skal selskapet ha omsatt for ca. 2 millioner dollar, ca. 20 millioner kroner, ifølge gründeren.
+
+Aftenposten har ikke hatt mulighet til å verifisere disse tallene.
+
+– Se på deg selv
+
+Appen har flere ulike funksjoner for å hindre deg i å se på porno. Du må blant annet gjennom en test som kartlegger det de mener er svakheter og dårlige vaner.
+
+På skjermen står det at porno er et rusmiddel som er skadelig for både kroppen din og relasjonene dine.
+
+Appen tilbyr blant annet en KI
+
+"
+
+En slags utnyttelse av unge menns usikkerhet og ensomhet Tore Holte Follestad, sexolog
+
+terapeut, ulike c hatte rom, meditasjons øvelser og et avanser tinnhold s filter for å bekjempepornotitt ingen. På nettsiden til «Quittr» har de også et forum hvor flere hundre tusen brukere deler sine tanker om problemer med porno.
+
+Men den mest oppsiktsvekkende funksjonen er kanskje panikkknappen.
+
+«Med et enkelt tastetrykk aktiverer knappen en skreddersydd intervensjons plan », står det på nettsiden.
+
+Da vil telefonen vibrere og ansiktskameraet på telefonen skrur seg på. Poenget er at du skal se deg selv, som for å si:
+
+– Se på deg selv. Hvorfor gjør du dette? Du har mål du må kjempe for. Du har familien din å forsørge. Hva gjør runking for deg? Ingenting, sier Slater til The Times.
+
+En sykeliggjøring
+
+– Det er ikke greit å vaere en ung mann i dag. Det er så sykt mye du skal leve opp til, sier Tore Holte Follestad.
+
+Sexologen jobber mye med utfordringer knyttet til menns seksualitet.
+
+– Disse gründerne møter unge menn og gir dem et rom for å ta ut sin frustrasjon på ting som er vanskelig. De svarer ut noe av det som jeg tror veldig mange unge menn kjenner på, sier han. Follestad mener at mange sitter med en følelse av at de ikke får ting til: De får ikke damer, de får ikke sex, og de tenker at det er noe som er feil.
+
+Likevel mener han at appen ikke er en god løsning. Den går hardt ut mot både porno og onanering, med lite rom for nyanser.
+
+– Først og fremst opplever jeg dette som en unødvendig sykeliggjøring av unge menns naturlige utforskning. Det er en slags utnyttelse av deres usikkerhet og ensomhet, sier Follestad.
+
+Sexologen gjennomførte selv kartleggingstesten som er i appen.
+
+– Ifølge den har jeg et kjempeproblem med porno. 40 prosent over det som var vanlig. En stor, rød søyle lyste mot meg.
+
+Eksperten tolker den nye appen som en beskjed fra de unge om at samfunnet må ta pornoproblemer og utfordringer med seksualitet på alvor:
+
+– Vi må snakke om sex og seksualitet på andre måter enn vi har gjort til nå. Vi snakker ikke noe sant og ekte, om hvordan en relasjon skal oppstå, hva som skal til for å få en kjaereste, og hva sex egentlig er.
+
+Konservativ bølge
+
+– Dette tenker jeg er et bilde på en konservativ bølge. En ser at unge blir mer religiøse. Unge, sinte menn på sosiale medier rakker ned på andre gutter som ikke er opptatt av kosthold, trening og av å slutte å onanere og se på porno, sier Follestad.
+
+Sexologen mener at man kan se en trend der man vil tilbake til verdier som var vanlige for flere tiår siden:
+
+– Det er en reaksjonaer, konservativ bølge som strømmer inn over menn. Hva er det neste en skal ordne opp i livet sitt for å svare ut en eller annen oppkonstruert forventning til hvordan livet skal vaere?
+
+Aftenposten har vaert i kontakt med gründerne bak appen. De har foreløpig ikke svart på våre spørsmål.
+
+Article Name:Tenåring har laget app som skal hjelpe folk som vil slutte med porno
+Publication:Aftenposten
+Author:Ruben Grøndahl Utaker ruben@aftenposten.no
+Start Page:26
+End Page:26
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Mange bommer grovt på matvareprisen, viser ny studie
+HEADLINE_EN: Many people misjudge grocery prices badly, new study shows
+LEAD_EN: A new study finds that shoppers with better knowledge of food prices pay less overall, while many consumers guess prices very inaccurately. The article suggests that stronger price awareness can save households thousands of kroner a year.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about grocery prices, household spending, and consumer purchasing power, which fits the cost-of-living and economy category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Tenåring har laget app som skal hjelpe folk som vil slutte med porno
+HEADLINE_EN: Teenager has made an app to help people who want to quit porn
+LEAD_EN: A British teen entrepreneur says his app helps users, many of them minors, stop watching porn through tools like an AI therapist and a panic button. A Norwegian sexologist criticizes the app for pathologizing normal sexual development and exploiting young men’s insecurity.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about sexual health, youth well-being, and expert criticism of a mental-health style app, with a secondary cultural dimension that does not fit the main election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Nå popper de store edderkoppene frem
+HEADLINE_EN: Now the big spiders are popping up
+LEAD_EN: Large house spiders become especially visible in late summer and autumn, prompting many worried calls to Norway’s public health institute. Experts say this is mainly because male spiders are roaming in search of mates, and they are harmless to humans.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly a seasonal explanatory piece about spiders in Norwegian homes, which does not fit the main election issue categories, with a minor public-health information angle.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Andelen personer uten videregående opplaering øker
+HEADLINE_EN: The share of people without upper secondary education is increasing
+LEAD_EN: New figures show that more 16–25-year-olds in Norway are neither completing nor on track to complete upper secondary education. The increase is linked partly to recent Ukrainian refugees, while completion rates in vocational education remain lower than in academic tracks.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: IMM
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about education outcomes and public services for young people, with a secondary link to immigration through the impact of Ukrainian refugees on the statistics.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Forskerens seks råd for å unngå demens
+HEADLINE_EN: The researcher’s six pieces of advice for avoiding dementia
+LEAD_EN: After more than 30 years of dementia research, Professor Tormod Fladby says there is still no cure, but lifestyle choices can reduce risk. He highlights exercise, social activity, diet, and overall well-being as key protective factors.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about dementia prevention, health research, and lifestyle advice, which fits the health and welfare category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-08-29
+SECTION_NO: 
+HEADLINE_NO: Hun slet med smerter. – Alt føltes mørkt og håpløst.
+HEADLINE_EN: She struggled with pain. “Everything felt dark and hopeless.”
+LEAD_EN: Annette Løno says chronic migraine and severe pain left her nearly bedridden before she began exploring alternative approaches centered on the vagus nerve. The article presents her recovery story alongside more cautious medical views on what is and is not well documented.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about chronic pain, migraine, treatment approaches, and medical expert discussion, which fits the health and welfare category.

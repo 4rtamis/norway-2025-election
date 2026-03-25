@@ -1,0 +1,209 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-03
+SECTION_NO: Leder
+HEADLINE_NO: Han bryter ned demokratiet bit for bit
+HEADLINE_EN: He is dismantling democracy bit by bit
+LEAD_EN: Donald Trump denies being authoritarian, but Aftenposten argues that his actions show growing political control over institutions meant to remain independent. The editorial warns that this erosion of U.S. democracy is serious, also for Norway because of the countries’ close economic and security ties.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about developments in the United States with implications for Norway’s foreign-policy and security relationship with its most important ally, while secondarily addressing democratic governance and institutional independence.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-03
+SECTION_NO: Kommentar
+HEADLINE_NO: Rakel Haugen Strand: Handler formuesskatten om liv eller død for norsk økonomi? Noe skurrer.
+HEADLINE_EN: Rakel Haugen Strand: Is the wealth tax a matter of life or death for the Norwegian economy? Something does not add up.
+LEAD_EN: The debate over the wealth tax has become overheated and at times absurd, drowning out the substantive arguments. The columnist asks how harmful the tax really is and argues for a more fact-based, broad tax settlement after the election.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article’s main focus is the Norwegian wealth tax debate, its effects on entrepreneurs, inequality, and redistribution, with a secondary connection to broader economic performance.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-03
+SECTION_NO: 
+HEADLINE_NO: Risikerer lovens strengeste straff
+HEADLINE_EN: Faces the harshest penalty under the law
+LEAD_EN: Three years after being charged with aiding terrorism, Arfan Bhatti appeared in Oslo District Court accused of helping plan the 2022 London Pub attack. Prosecutors say he was a key figure behind the attack, while Bhatti denies all criminal guilt.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about a major terrorism trial and questions of national security and violent extremism in Norway.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-03
+SECTION_NO: 
+HEADLINE_NO: Influensere er Israels nye våpen
+HEADLINE_EN: Influencers are Israel’s new weapon
+LEAD_EN: Aftenposten reports that Israel has brought American influencers to Gaza as part of a broader effort to rebuild support among young Americans. The article argues that these visits spread misleading claims and ignore the deadly realities surrounding aid distribution in Gaza.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Gaza war, Israel’s messaging strategy, and plans concerning Gaza’s future, which fits the Gaza/Palestine category, with a secondary foreign-policy dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-03
+SECTION_NO: 
+HEADLINE_NO: Mens guttene flokker seg om høyresiden, strømmer unge jenter til MDG
+HEADLINE_EN: While boys flock to the right, young women are streaming to the Green Party
+LEAD_EN: A new poll shows MDG at a record high, driven especially by strong support among young women, while young men are moving heavily toward the right, especially the Progress Party. MDG’s deputy leader says an important end-of-campaign message is to help ensure Jonas Gahr Støre remains prime minister.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about polling, party competition, and government formation on the eve of the election, with climate policy as a secondary theme through MDG’s positioning.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-03
+SECTION_NO: 
+HEADLINE_NO: Listhaugs bobil kjører forbi Vedums traktor
+HEADLINE_EN: Listhaug’s motorhome drives past Vedum’s tractor
+LEAD_EN: New polling data show the Progress Party performing strongest in Norway’s smallest municipalities, while the Centre Party is losing ground in its old rural heartland. The article argues that Sylvi Listhaug has become the new voice of dissatisfied rural voters, though the election remains close overall.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about polling, voter shifts, party competition, and who may govern after the election, with a secondary link to cost-of-living grievances driving protest voting.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-03
+SECTION_NO: 
+HEADLINE_NO: Ber ikke kronprinsesse Mette-marit om å vitne
+HEADLINE_EN: Will not ask Crown Princess Mette-Marit to testify
+LEAD_EN: Defence lawyers in the trial against Marius Borg Høiby say they will not call his mother, Crown Princess Mette-Marit, as a witness. The article focuses on the forthcoming criminal trial, the charges against Høiby, and the handling of possible witnesses.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a court and royal-family news story about a criminal case, which does not fit the main election issue categories and is therefore best coded as Other.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-03
+SECTION_NO: 
+HEADLINE_NO: Taliban ber om hjelp – mer enn 1400 døde
+HEADLINE_EN: Taliban asks for help – more than 1,400 dead
+LEAD_EN: At least 1,411 people have been killed and 3,124 injured after an earthquake struck northeastern Afghanistan. Taliban authorities are appealing for international help as rescue efforts continue in remote, badly damaged areas.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about a natural disaster and humanitarian emergency in Afghanistan, which does not fit the main election-related issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-03
+SECTION_NO: 
+HEADLINE_NO: Nå skal finnene omsider fase ut hakekorset
+HEADLINE_EN: Now the Finns will finally phase out the swastika
+LEAD_EN: Finland is ending the use of swastika symbols in parts of its air force after years of controversy and awkward situations with foreign visitors. The change comes as Finland is more closely integrated with NATO allies, including Norway.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Finland’s air force, NATO integration, and military cooperation with allies including Norway, making security/defence the main issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-09-03
+SECTION_NO: Nyhetsanalyse
+HEADLINE_NO: De er enige om en ny verdensorden
+HEADLINE_EN: They agree on a new world order
+LEAD_EN: A summit in China showed Xi Jinping, Vladimir Putin, and Narendra Modi drawing closer around the idea of a more multipolar world and reduced Western dominance. The article presents the meeting as a strategic success for all three leaders, especially China.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about global power shifts, foreign policy, and strategic alignment among major powers, with a secondary economic dimension through trade conflict, energy, and development financing.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-03
+SECTION_NO: 
+HEADLINE_NO: 70 legar slutta på Haukeland
+HEADLINE_EN: 70 doctors quit Haukeland
+LEAD_EN: Around 70 doctors have left Haukeland University Hospital over the past two years, alarming union representatives and hospital management. The article highlights staffing shortages, heavy workloads, and fears that worsening retention will harm patient care.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about hospital staffing, healthcare capacity, and the consequences of losing medical personnel in Norway’s public health system.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-03
+SECTION_NO: 
+HEADLINE_NO: Oslos ordfører: – Ufattelig drøyt at jeg er kopiert inn i invitasjonen
+HEADLINE_EN: Oslo’s mayor: “It is unbelievably outrageous that I am copied into the invitation”
+LEAD_EN: Oslo’s mayor Anne Lindboe condemns a new planned “walk” on Grønland organized by the Norway Democrats with a politician from Germany’s AfD, calling it a deliberate provocation. The event is framed around immigration and alleged “no-go” areas, and comes shortly after a killing linked to far-right extremism.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about anti-immigration mobilization, “remigration,” and claims about immigrant-dominated urban areas, with a secondary governance dimension because it also features the mayor’s response and public-order concerns.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-03
+SECTION_NO: 
+HEADLINE_NO: Milliardaersøstrene: Dette er Sophie og Jenny Spetalen
+HEADLINE_EN: The billionaire sisters: This is Sophie and Jenny Spetalen
+LEAD_EN: Billionaire investor Øystein Stray Spetalen has transferred major shareholdings to his daughters, instantly making Sophie and Jenny Spetalen two of Norway’s richest women. The article profiles the sisters and places the transfer in the context of wealth, inheritance, and recent tax-related debates.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article mainly concerns large private wealth transfers within one of Norway’s richest families and explicitly connects them to inheritance, wealth, and the broader tax context.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-09-03
+SECTION_NO: 
+HEADLINE_NO: – Lover og normer blir mer diffuse når man er utenfor Norge
+HEADLINE_EN: “Laws and norms become more blurred when you are outside Norway”
+LEAD_EN: After a former diplomat child described abuse and neglect during an overseas upbringing, a researcher says such problems are not surprising in international expat environments. The article examines the Norwegian foreign service’s responsibility toward employees’ children posted abroad.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article mainly concerns institutional responsibility and accountability within Norway’s foreign service, making governance the best fit, with a secondary social/welfare dimension.
