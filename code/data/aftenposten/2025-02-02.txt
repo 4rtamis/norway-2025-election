@@ -1,0 +1,179 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-02
+SECTION_NO: 
+HEADLINE_NO: Klar for nye regjeringskriser
+HEADLINE_EN: Ready for new government crises
+LEAD_EN: The commentator argues that Norway’s disputes over EU energy policy are far from over, and that the issue is likely to trigger new government crises for years to come. Labour and the Centre Party are now forced to sharpen their profiles after the coalition breakdown.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about government stability, party strategy, and coalition conflict over energy policy, with energy prices and EU electricity policy as the secondary substantive issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-02
+SECTION_NO: 
+HEADLINE_NO: «Ikke kjent med» at strømplan har vaert behandlet
+HEADLINE_EN: “Not aware” that the electricity plan has been formally processed
+LEAD_EN: The day after the Centre Party left government, Støre presented a new electricity policy including a fixed “Norway price” for power. But according to the Finance Ministry’s political leadership, the proposal had not gone through formal government processing.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article primarily questions the government’s competence and decision-making procedures in launching a major power policy, with electricity policy as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-02
+SECTION_NO: 
+HEADLINE_NO: Mintes de fire omkomne elevene
+HEADLINE_EN: The four deceased students were remembered
+LEAD_EN: A memorial was held in Lanslebourg, France, for the four Norwegian students who died in an avalanche during a course trip from Alta Folk High School. Relatives, school representatives, the Norwegian ambassador, and the Seamen’s Church took part.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a human-interest news report about a fatal accident involving Norwegian citizens abroad, not a political or campaign-related policy issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-02
+SECTION_NO: 
+HEADLINE_NO: Gledesscener da tre israelske gisler og over 180 palestinske fanger ble løslatt
+HEADLINE_EN: Scenes of joy as three Israeli hostages and more than 180 Palestinian prisoners were released
+LEAD_EN: Three Israeli hostages and 183 Palestinian prisoners were released in a new exchange under the Gaza ceasefire arrangement. Families in Ramallah and Israel waited anxiously as the handover unfolded amid continued tensions and uncertainty.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centers on the Gaza war and hostage-prisoner exchanges between Israel and Hamas, which fits the Gaza/Palestine category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-02
+SECTION_NO: 
+HEADLINE_NO: Stenger statsansatte ute fra It-systemer
+HEADLINE_EN: Blocking government employees from IT systems
+LEAD_EN: Elon Musk’s team at the U.S. federal HR agency has blocked senior civil servants from systems containing sensitive personnel data on millions of federal employees. Officials say the move has created alarm over oversight, cybersecurity, and political control of the bureaucracy.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about state administration, control of the bureaucracy, and governance under Trump and Musk rather than a specific policy domain.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-02
+SECTION_NO: 
+HEADLINE_NO: Beordrer kartlegging av Fbi-etterforskere
+HEADLINE_EN: Orders mapping of FBI investigators
+LEAD_EN: The Trump administration has asked for the names of all FBI employees who worked on January 6 cases and has already dismissed prosecutors involved in those prosecutions. The move is presented as part of a broader effort to purge officials seen as insufficiently loyal to Trump.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about political control of state institutions, dismissals in the justice system, and administrative power under Trump, which fits governance and leadership.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-02
+SECTION_NO: 
+HEADLINE_NO: Retten lot ham gå. Dermed kunne dødshjelperen holde på som før.
+HEADLINE_EN: The court let him go. That allowed the assisted-death helper to continue as before.
+LEAD_EN: A man previously convicted in Norway for assisting suicide was allowed to remain free pending appeal, and is now jailed in Sweden on suspicion of murder after a TV 2 investigation. The article questions how he was able to continue operating despite earlier warnings and convictions.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a crime and justice report about assisted suicide and alleged murder, which does not fit the main election issue categories, with a secondary governance angle about court and prosecutorial decisions.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-02
+SECTION_NO: 
+HEADLINE_NO: Norske diplomater i området da Odesa ble angrepet
+HEADLINE_EN: Norwegian diplomats were in the area when Odesa was attacked
+LEAD_EN: Russian attacks hit several Ukrainian cities, and Norway’s foreign ministry confirmed that Norwegian embassy personnel were in the attacked area in Odesa but were unharmed. The strikes also hit residential buildings and energy infrastructure, prompting renewed calls from Zelenskyj for stronger air defence.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the war in Ukraine, attacks on civilian and energy targets, and Norway’s diplomatic presence in the conflict zone, which fits security/foreign policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-02
+SECTION_NO: 
+HEADLINE_NO: Bilfører siktet for drapsforsøk
+HEADLINE_EN: Driver charged with attempted murder
+LEAD_EN: A driver has been charged with attempted murder after a violent incident in Greåker, Sarpsborg, where two people were struck by a car. Police say four people are listed as victims, but the extent of the injuries is still unclear.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a local crime report about a violent incident and attempted murder charge, which does not fit the main political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-02
+SECTION_NO: 
+HEADLINE_NO: Det norske kompromisset er i ferd med å tape terreng
+HEADLINE_EN: The Norwegian compromise is starting to lose ground
+LEAD_EN: The article argues that Norway is increasingly being pulled along by EU integration while public support for the EEA compromise is weakening. The recent government split over EU energy directives is presented as a sign of deeper political conflict to come.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about political conflict over the EEA, party competition, and the stability of Norway’s governing compromise with the EU, making governance the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-02
+SECTION_NO: 
+HEADLINE_NO: Brennhett boligmarked
+HEADLINE_EN: Red-hot housing market
+LEAD_EN: Oslo’s housing market is surging, especially for smaller starter homes, with unusually strong January price growth and intense competition at viewings. Banks are also reporting a sharp rise in mortgage pre-approval applications after changes to lending rules.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about housing prices, borrowing conditions, and household economic pressure, which fits the economy/cost-of-living category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-02
+SECTION_NO: 
+HEADLINE_NO: Farvel, Frankrike!
+HEADLINE_EN: Goodbye, France!
+LEAD_EN: France has handed over its last military base in Chad, marking another setback for French influence in Africa as several former colonies move closer to partners such as Russia, Turkey, and the UAE. The article frames this as part of a broader shift in regional security and postcolonial power relations.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about military presence, shifting alliances, and geopolitical influence in Africa, which fits security, defence, and foreign policy.

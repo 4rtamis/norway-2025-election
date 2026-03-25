@@ -1,0 +1,179 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-11
+SECTION_NO: 
+HEADLINE_NO: Nei til norgespris
+HEADLINE_EN: No to the "Norway price"
+LEAD_EN: Prime Minister Jonas Gahr Støre and Energy Minister Terje Aasland have proposed a subsidised fixed electricity price ("norgespris"), but the scheme lacks analysis or detailed plans. The editorial argues it is misguided policy.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about the Labour government's proposed electricity price subsidy scheme, criticising it as economically inefficient, poorly designed, and politically motivated ahead of the election.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-11
+SECTION_NO: 
+HEADLINE_NO: Staten kunne ha bidratt til flere boliger i Oslo. Det skjer neppe.
+HEADLINE_EN: The state could have contributed to more housing in Oslo. That is unlikely to happen.
+LEAD_EN: PM Støre's goal of 130,000 new homes by 2030 sounds ambitious but is actually fewer than were built under the Solberg government. The article argues the government's housing pledges are vague and unlikely to have much real effect.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article primarily assesses the Labour government's competence and credibility on housing policy, framing Støre's targets as unambitious and his pledges as hollow ahead of the election.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-11
+SECTION_NO: 
+HEADLINE_NO: – Pøblene hersker i mange norske klasserom
+HEADLINE_EN: – The troublemakers rule in many Norwegian classrooms
+LEAD_EN: FrP leader Sylvi Listhaug wants stricter discipline, less play, and more rote learning in Norwegian schools. The party, currently leading in polls, is presenting its education policy platform ahead of the election.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article focuses on FrP's education policy proposals, which are implicitly critical of the current Labour-led government's school policy and results.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-11
+SECTION_NO: 
+HEADLINE_NO: Russerne vil ha fred. Putin vil ha Ukraina.
+HEADLINE_EN: Russians want peace. Putin wants Ukraine.
+LEAD_EN: A record number of Russians now want peace negotiations and an end to the war, according to independent researchers. Meanwhile, Putin is flattering Trump in hopes of gaining control over Ukraine.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Russia-Ukraine war, Russian public opinion, and the geopolitical dynamics between Putin, Trump, and Kyiv — a security and foreign policy topic with no direct Norwegian angle.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-11
+SECTION_NO: 
+HEADLINE_NO: Høyre er i trøbbel
+HEADLINE_EN: The Conservative Party is in trouble
+LEAD_EN: Political editor argues that Støre's Labour revival is putting pressure on Erna Solberg's Høyre, as Labour and Høyre converge on key issues like the EEA, climate, and Ukraine support, leaving Høyre struggling to differentiate itself.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily a horse-race and coalition dynamics analysis, assessing party strategies and poll positioning ahead of the election, with Labour framed as resurgent and Høyre as struggling.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-11
+SECTION_NO: 
+HEADLINE_NO: Ingen reservetog tilgjengelig i Norge
+HEADLINE_EN: No reserve trains available in Norway
+LEAD_EN: Norway's rail network has effectively zero reserve rolling stock, leaving services severely disrupted after a fatal accident on the Nordland line last October. New trains are delayed and the problem is unlikely to be resolved before 2030.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article focuses on the deteriorating state of Norwegian public transport infrastructure and the Labour-led government's handling — or mishandling — of the rail crisis, framing the transport minister as defensive and the situation as a public services failure.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-11
+SECTION_NO: 
+HEADLINE_NO: Prisveksten steg til 2,3 prosent i januar
+HEADLINE_EN: Inflation rose to 2.3 percent in January
+LEAD_EN: Norwegian consumer price inflation climbed to 2.3 percent in January, driven mainly by rising food prices after December's promotional campaigns ended. Economists still expect Norges Bank to proceed with an interest rate cut in March.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a factual economic report on Norway's latest inflation figures, interest rate expectations, and food and energy price developments, with no clear political framing.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-11
+SECTION_NO: 
+HEADLINE_NO: Datteren slet med søvnen i årevis
+HEADLINE_EN: The daughter struggled with sleep for years
+LEAD_EN: Ten-year-old Sofia Mercedes suffered from unexplained sleep problems for years, a challenge shared by many Norwegian children. Oslo's Sleep Clinic reports a significant increase in children aged 7–12 seeking help.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a human interest and health piece about childhood sleep disorders and the adequacy of public health services to address them, with no political framing.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-11
+SECTION_NO: 
+HEADLINE_NO: Politiet bekrefter identiteten til massedrapsmann
+HEADLINE_EN: Police confirm the identity of the mass killer
+LEAD_EN: Swedish prosecutors have confirmed via DNA match that Rickard Andersson (35) carried out the mass shooting at a school in Örebro, killing ten people. The article also addresses what Norwegians should do if they are concerned about someone's behaviour.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily covers a criminal mass shooting in Sweden and its investigation, with a secondary angle on Norwegian mental health and public safety guidance — it does not fit neatly into the defined political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-11
+SECTION_NO: 
+HEADLINE_NO: Planlegger sivilt søksmål mot Zaniar Matapour
+HEADLINE_EN: Planning civil lawsuit against Zaniar Matapour
+LEAD_EN: 41 victims of the 2022 Oslo terror attack are left without compensation after Matapour withdrew his appeal. Their lawyers are now planning a civil lawsuit to secure their right to damages.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article concerns the legal aftermath of the 2022 Oslo terror attack carried out by Zaniar Matapour, which was classified as a terror act with an Islamist motive, placing it closest to the IMM/crime category, though the focus is on the civil compensation proceedings.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-11
+SECTION_NO: 
+HEADLINE_NO: Stanser nødhjelpsarbeid
+HEADLINE_EN: Halting humanitarian aid work
+LEAD_EN: The Norwegian Refugee Council (Flyktninghjelpen) is forced to suspend emergency aid operations in nearly 20 countries after the US cut its funding. It is the first time in the organisation's history that it has had to halt ongoing humanitarian work.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article concerns a major Norwegian humanitarian organisation's response to US foreign aid cuts, linking Norway's international role and a key Norwegian NGO to broader geopolitical developments under Trump.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-11
+SECTION_NO: 
+HEADLINE_NO: Musks løpegutter blir kalt «leiemordere med babyfjes»
+HEADLINE_EN: Musk's errand boys are being called "baby-faced assassins"
+LEAD_EN: A group of young, inexperienced men aged 19–25 are carrying out Elon Musk's cost-cutting mission inside the US federal government on behalf of DOGE. American media have begun mapping who they are and what access they have.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a profile of DOGE staffers in the US federal government with no direct Norwegian angle, falling outside the defined Norwegian political issue categories.

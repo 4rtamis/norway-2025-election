@@ -1,0 +1,240 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-18
+SECTION_NO: [Not provided in article]
+HEADLINE_NO: En festbrems som ikke virker
+HEADLINE_EN: A party brake that doesn't work
+LEAD_EN: Education Minister Kari Nessa Nordtun proposes moving final exams before May 17th to reduce the impact of graduation celebrations on student results, but the proposal lacks support from educational authorities and unions who argue the school calendar is already too tight.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about education policy and school scheduling (public services/welfare state), with a secondary governance element regarding the minister's controversial proposal and political feasibility.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-18
+SECTION_NO: [Not provided in article]
+HEADLINE_NO: Jeg kjører Tesla. Hvor nazi er jeg da?
+HEADLINE_EN: I drive a Tesla. How much of a Nazi am I then?
+LEAD_EN: A commentary criticizing Red Youth's campaign of placing fake parking tickets on Tesla owners, arguing that moral judgments about car purchases are oversimplified and that the campaign unfairly stigmatizes ordinary Norwegians as Nazi sympathizers.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a personal commentary on consumer ethics and activism tactics that does not fit primary political, economic, or social policy categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-18
+SECTION_NO: [Not provided in article]
+HEADLINE_NO: Mor nekter for å ha mishandlet sønn
+HEADLINE_EN: Mother denies abusing son
+LEAD_EN: A trial begins in Hordaland district court against a mother accused of severe abuse of her son, who was discovered in 2022 living in isolation in a small apartment without schooling or basic care since infancy.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about child welfare and public health services failure, with a secondary governance element regarding systemic failures in child protection services.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-18
+SECTION_NO: [Not provided in article]
+HEADLINE_NO: Kristjánsson vil ta Rødt og Norge inn i atomalderen
+HEADLINE_EN: Kristjánsson wants to bring Red and Norway into the nuclear age
+LEAD_EN: Red Party politician Mímir Kristjánsson announces a major policy shift, calling for Norway to develop nuclear power plants after becoming convinced by research that nuclear energy is safer and more environmentally sustainable than other renewable sources.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on climate and energy policy, specifically nuclear power development as an alternative to fossil fuels and other renewables in addressing environmental concerns.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-18
+SECTION_NO: [Not provided in article]
+HEADLINE_NO: Legetopp avsluttet samarbeid med sykehus som ga kona sparken
+HEADLINE_EN: Doctor executive ended collaboration with hospital that fired his wife
+LEAD_EN: A top surgeon at Oslo University Hospital ended a longstanding plastic surgery collaboration with Baerum Hospital shortly after the hospital fired his wife, the department head, citing poor leadership—a coincidence that staff view as retaliation.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centers on healthcare service provision and institutional conflicts within the hospital system, with a secondary governance element regarding potential abuse of power and ethical concerns in leadership.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-18
+SECTION_NO: [Not provided in article]
+HEADLINE_NO: USA snakker med Russland. Hvorfor er det et problem?
+HEADLINE_EN: USA is talking with Russia. Why is that a problem?
+LEAD_EN: The U.S. is holding separate talks with Russia about Ukraine without involving Europe, causing alarm among European leaders who fear being sidelined from peace negotiations and potentially losing influence over terms favorable to Ukraine and European security interests.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on NATO, Russia, Ukraine, and U.S. foreign policy, specifically diplomatic negotiations that directly impact international security and Norway's strategic interests as a NATO member.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-18
+SECTION_NO: [Not provided in article]
+HEADLINE_NO: Frykter at Trumps turbodiplomati vil få Putin til å se svak ut
+HEADLINE_EN: Fears Trump's turbo diplomacy will make Putin look weak
+LEAD_EN: Russian media and officials welcome Trump's direct negotiations with Putin and apparent concessions on Ukraine, but the Kremlin worries that Trump's diplomatic successes could make Putin appear passive, so Russian media has been instructed to frame negotiations as Putin-led victories.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article examines U.S.-Russia diplomatic negotiations over Ukraine and NATO, along with Russia's security interests and strategic positioning in international relations affecting Norway's security environment.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-18
+SECTION_NO: [Not provided in article]
+HEADLINE_NO: – Selvfølgelig bør også Norge bidra
+HEADLINE_EN: Of course Norway should also contribute
+LEAD_EN: Prime Minister Jonas Gahr Støre refuses to discuss deploying Norwegian peacekeeping forces to Ukraine, but opposition leaders including Venstre's Guri Melby and Høyre's Erna Solberg argue that Norway should be open to contributing military personnel if other European allies do.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centers on NATO, Ukraine security, and Norway's defense policy role, with a secondary governance element regarding political party positions and government decision-making on a key security matter.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-18
+SECTION_NO: [Not provided in article]
+HEADLINE_NO: Vance og Trump forsvarer ikke demokratiet. De river det i stykker.
+HEADLINE_EN: Vance and Trump don't defend democracy. They're tearing it apart.
+LEAD_EN: A commentary criticizing Vice President J.D. Vance and President Trump for undermining democratic principles through censorship, media restrictions, ideological purges of government agencies, and selective application of free speech protections.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: While touching on U.S.-Europe relations and NATO, this is primarily an opinion piece criticizing Trump administration policies on democracy and governance that extends beyond typical security/foreign policy coding into broader political commentary.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-18
+SECTION_NO: [Not provided in article]
+HEADLINE_NO: Alternativ for Tyskland kan nesten utradere tysk venstreside
+HEADLINE_EN: Alternative for Germany could nearly eradicate the German left
+LEAD_EN: Germany's far-right Alternative for Germany party, supported by Russia and the Trump administration, is surging in polls and threatening to eliminate left-wing parties from parliament while establishing an authoritarian model that poses risks to European democracy and stability.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article addresses international security threats to Europe through far-right extremism, Russian interference in German politics, and implications for NATO and European stability that affect Norway's geopolitical environment.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-18
+SECTION_NO: [Not provided in article]
+HEADLINE_NO: Financial Times: Trump presser Romania til å frigi Tate-brødrene
+HEADLINE_EN: Financial Times: Trump pressures Romania to release the Tate brothers
+LEAD_EN: The Trump administration is pressuring Romania to lift travel restrictions on controversial influencers Andrew and Tristan Tate, who face serious charges including rape and human trafficking, potentially allowing them to return to the United States while their legal case remains pending.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on U.S. political interference in a Romanian criminal case involving non-political figures, which does not fit the primary political, economic, or social policy categories relevant to Norwegian election coding.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-18
+SECTION_NO: [Not provided in article]
+HEADLINE_NO: Babyens mor stiller seg uforstående til drapssiktelsen
+HEADLINE_EN: Baby's mother claims to not understand murder charge
+LEAD_EN: A woman charged with murder or manslaughter in connection with the death of her one-month-old son is in shock and has not yet been interrogated, according to her lawyer, while police say retforensic findings clearly indicate violence caused the child's death.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a criminal case report about a specific prosecution and does not fit primary political, economic, or social policy categories relevant to the 2025 Norwegian parliamentary election analysis.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-18
+SECTION_NO: [Not provided in article]
+HEADLINE_NO: Norge har blant verdens høyeste gap mellom helsealder og levealder
+HEADLINE_EN: Norway has among the world's highest gap between health life expectancy and life expectancy
+LEAD_EN: A new study from Mayo Clinic shows that Norwegians live significantly longer with poor health than people in most other countries, ranking fifth globally—a trend that researchers say reflects both successful welfare systems that keep people alive and concerning lifestyle changes like reduced physical activity.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article examines public health statistics and welfare state outcomes, specifically health life expectancy and aging demographics in Norway's healthcare system.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-18
+SECTION_NO: [Not provided in article]
+HEADLINE_NO: Familien kritiserer pressen for «spekulasjoner» om Mikkelsen
+HEADLINE_EN: Family criticizes media for "speculation" about Mikkelsen
+LEAD_EN: The family of deceased Sami politician Mikkel Eskil Andrè Mikkelsen, who took his own life while facing charges, criticizes NRK for speculative reporting about the scope of the charges, which they say had no factual basis and added to his psychological burden.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article concerns media accountability and press freedom in relation to individual criminal cases, not a primary policy domain relevant to election coding.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-18
+SECTION_NO: [Not provided in article]
+HEADLINE_NO: Norsk handelsoverskudd på 94,8 milliarder i januar
+HEADLINE_EN: Norwegian trade surplus of 94.8 billion in January
+LEAD_EN: Norway recorded its highest monthly trade surplus since January 2023 in the first month of the year, driven largely by elevated natural gas prices and solid oil and fish exports, as colder European temperatures and lower storage levels pushed up energy costs.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on economic indicators—trade balance, commodity prices, and export performance—which fall under cost-of-living and economic conditions relevant to voter concerns.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-18
+SECTION_NO: [Not provided in article]
+HEADLINE_NO: Alternativ for Tyskland kan nesten utradere tysk venstreside
+HEADLINE_EN: Alternative for Germany could nearly eradicate the German left
+LEAD_EN: Germany's far-right Alternative for Germany party, supported by Russia and the Trump administration, is surging in polls and threatening to eliminate left-wing parties from parliament while establishing an authoritarian model that poses risks to European democracy and stability.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article addresses international security threats to Europe through far-right extremism, Russian interference in German politics, and implications for NATO and European stability that affect Norway's geopolitical environment.
+

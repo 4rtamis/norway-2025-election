@@ -1,0 +1,210 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-17
+SECTION_NO: Spaltist
+HEADLINE_NO: Trump bruker slegge som broderinål. Det kan bli farlig.
+HEADLINE_EN: Trump uses a sledgehammer as a sewing needle. It could be dangerous.
+LEAD_EN: The article analyzes Trump's "maximum pressure" policy toward Iran and his meeting with Netanyahu, arguing that muscular approaches to complex international problems risk escalating Middle East tensions toward nuclear weapons proliferation.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article critically examines Trump's security and foreign policy approach toward Iran and Israel, focusing on defence strategy and NATO-adjacent geopolitical concerns affecting global stability.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-17
+SECTION_NO: Nyheter
+HEADLINE_NO: Foreldre siktet for drap på Lillestrøm: Ikke avhørt ennå
+HEADLINE_EN: Parents charged with murder in Lillestrøm: Not yet interviewed
+LEAD_EN: Police have charged the parents of an infant who died in Lillestrøm with murder based on forensic findings suggesting the child died from violence. The parents remain in custody pending interviews.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: This is a criminal justice report about a local crime investigation that does not align with the primary political content analysis categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-17
+SECTION_NO: Nyheter
+HEADLINE_NO: Tidligere sametingsråd Mikkel Eskil André Mikkelsen er død
+HEADLINE_EN: Former Sámi Parliament councilor Mikkel Eskil André Mikkelsen is dead
+LEAD_EN: Mikkel Eskil André Mikkelsen, 35, a prominent Sámi politician, took his own life on February 13 after being charged with possession of child abuse material and facing extensive media coverage.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on a government official's departure and death linked to his political role and charges, with secondary health/mental health dimensions related to media pressure and suicide.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-17
+SECTION_NO: Nyheter
+HEADLINE_NO: Trump fikk Putin til å juble
+HEADLINE_EN: Trump made Putin jubilant
+LEAD_EN: Trump's phone call with Putin has already delivered several victories to Russia, including discussions of economic cooperation and normalization of U.S.-Russia relations, though experts question whether Trump misunderstands Putin's actual goals for Ukraine.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article analyzes Trump's Ukraine policy, U.S.-Russia negotiations, and security implications for European allies, with secondary focus on Trump's political judgment and governance approach.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-17
+SECTION_NO: Nyheter
+HEADLINE_NO: USA vil ikke ha med Europa på fredssamtaler. Nå samles europeerne til krisemøter.
+HEADLINE_EN: USA will not include Europe in peace talks. Now Europeans are gathering for crisis meetings.
+LEAD_EN: The USA has excluded Europe from planned peace negotiations with Russia on Ukraine, instead sending a questionnaire to European countries asking what security guarantees and military contributions they can offer, forcing Europe to convene emergency meetings.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article covers NATO security policy, international diplomacy on Ukraine, and Norway's position in peace negotiations, with governance dimensions regarding European coordination and strategic alignment with the U.S.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-17
+SECTION_NO: Nyheter
+HEADLINE_NO: Europeere reiser hjem fra München med dyp uro
+HEADLINE_EN: Europeans leave Munich with deep anxiety
+LEAD_EN: European leaders depart the Munich Security Conference deeply concerned about Trump's approach to Ukraine, drawing historical parallels to the 1938 Munich Agreement and the 1945 Yalta Conference, fearing a repeat of great power sphere-of-influence diplomacy.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article examines Europe's security concerns regarding Trump's Ukraine policy, NATO cohesion, and international order, with historical context on great power diplomacy and mentions Stoltenberg's transition from NATO leadership.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-17
+SECTION_NO: Nyheter
+HEADLINE_NO: «Utrolig irritert» over Aps plan for statlige arbeidsplasser i Oslo
+HEADLINE_EN: "Extremely irritated" by Labour's plan for state jobs in Oslo
+LEAD_EN: Bergen's Conservative mayor Christine Meyer criticizes the Støre government's modest plan to relocate state jobs from central Oslo to the east side, arguing the government should instead follow early 2000s policy and move more state positions out of Oslo entirely to strengthen other regions.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article critiques Labour government policy on state workplace relocation and regional development strategy, framing it as insufficient governance of urban and regional priorities.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-17
+SECTION_NO: Nyheter
+HEADLINE_NO: Dommerne svarer ikke på spørmål etter dom for sovevoldtekt
+HEADLINE_EN: Judges do not answer questions after verdict in rape case
+LEAD_EN: Families of those convicted and journalists cannot get judges to explain their verdicts, raising concerns about whether insufficient court documentation and lack of audio recordings undermine judicial accountability and rule of law.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article examines judicial governance, transparency, and rule of law issues in Norway's court system, with secondary attention to victim/legal rights protection and systemic accountability.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-17
+SECTION_NO: Nyheter
+HEADLINE_NO: Trump kan gi amerikanske bønder en trippelsmell
+HEADLINE_EN: Trump could give American farmers a triple blow
+LEAD_EN: American farmers who supported Trump face multiple threats from his policies: halted purchases via USAID for food aid, threatened trade wars with major export partners, and mass deportation plans that would remove immigrant workers crucial to agriculture.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: This article focuses on U.S. domestic agricultural policy and Trump's economic decisions with no direct connection to Norway or Norwegian politics.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-17
+SECTION_NO: Nyheter
+HEADLINE_NO: Velgerne svikter sensasjonspartiet
+HEADLINE_EN: Voters abandon the sensation party
+LEAD_EN: Germany's new left-wing party BSW, founded by Sahra Wagenknecht, enjoyed rapid early success but is now struggling due to centralized control, internal disputes, and difficulty building local party organization ahead of snap elections.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: This article covers German domestic politics and party organization with no direct relevance to Norway, Norwegian politics, or international relations involving Norway.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-17
+SECTION_NO: Nyheter
+HEADLINE_NO: Knivdrap på gutt skal ha vaert terror
+HEADLINE_EN: Knife killing of boy allegedly terror attack
+LEAD_EN: A 14-year-old boy was killed and five men wounded in a knife attack in Villach, Austria, which authorities classify as an Islamist terror attack carried out by a 23-year-old Syrian man with a valid residence permit.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: This article covers a terrorist attack and security incident in Austria with no direct connection to Norway, Norwegian politics, or international relations involving Norway.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-17
+SECTION_NO: Nyheter
+HEADLINE_NO: Advarer sterkt mot visitasjonssoner
+HEADLINE_EN: Warns strongly against stop-and-search zones
+LEAD_EN: The Equality and Anti-Discrimination Ombudsman warns that a parliamentary proposal to allow police to conduct weapon searches in designated zones without suspicion risks ethnic profiling and discrimination, though the Progress Party defends the measure as necessary to combat gang violence.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: IMM
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article addresses Norwegian law and governance regarding police powers, with secondary implications for immigration and integration policy related to concerns about discrimination in law enforcement.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-17
+SECTION_NO: Nyheter
+HEADLINE_NO: Derfor er det helt OK å sove på jobb
+HEADLINE_EN: Why it's completely OK to sleep at work
+LEAD_EN: Research shows that short naps of 20-30 minutes improve cognitive function, focus, and memory, with experts recommending afternoon naps as optimal, though workplace napping remains stigmatized in the United States.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: This article is a lifestyle and health feature about workplace napping practices with no connection to Norway, Norwegian politics, or international relations involving Norway.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-17
+SECTION_NO: Nyheter
+HEADLINE_NO: Netanyahu: «Porten til helvete» åpnes i Gaza hvis ikke alle gislene løslates
+HEADLINE_EN: Netanyahu: "Gates of hell" open in Gaza if all hostages not released
+LEAD_EN: Israeli Prime Minister Netanyahu, meeting with U.S. Secretary of State Marco Rubio, threatens severe consequences if hostages are not freed and reiterates plans to eliminate Hamas militarily and politically in Gaza, where a fragile ceasefire is in its fourth week.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article covers Gaza conflict, Israeli-U.S. policy coordination, and ceasefire negotiations with no direct connection to Norway or Norwegian interests, though it addresses Middle East security broadly.
+

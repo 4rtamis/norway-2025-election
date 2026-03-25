@@ -1,0 +1,270 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: Frp bør legge den nivådelte undervisningen tilbake i skuffen
+HEADLINE_EN: Frp should put ability-based teaching back in the drawer
+LEAD_EN: Frp leader Sylvi Listhaug announced the party wants to move away from the unified school model and introduce ability-based streaming from lower secondary school. The article argues this proposal is unnecessary and potentially harmful to students' self-image.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns education policy — specifically the debate over ability-based streaming in Norwegian schools — which falls under public services/welfare.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: Sentrum brister
+HEADLINE_EN: The centre is cracking
+LEAD_EN: Norwegian politics may be undergoing a new collective collapse, as parties across the spectrum abandon long-term energy policy in favour of populist electricity price fixes, echoing the political capitulation over wind power in 2019.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article primarily concerns energy prices and the government's introduction of a state-subsidised fixed electricity price (Norgespris), framing Labour's policy reversal as short-sighted and economically damaging.
+
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: – Jeg visste det var ille, men ikke så ille
+HEADLINE_EN: "I knew it was bad, but not this bad"
+LEAD_EN: Following Aftenposten's exposé of severely poor living conditions for seasonal agricultural workers in Norway, SV and multiple organisations are demanding legislative changes to hold employers accountable for worker housing.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns the exploitation and living conditions of immigrant seasonal workers in Norwegian agriculture, fitting the immigration/integration category, with a secondary governance angle around regulatory failures and calls for policy change.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: Skredsikring kan hindre utbygging
+HEADLINE_EN: Avalanche protection may block development
+LEAD_EN: Around 28,000 properties in Oslo have been under a de facto building ban for nearly three years due to a dispute between the city and the Norwegian Water Resources and Energy Directorate over flood and landslide risk in the new small-house zoning plan.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about a governance and regulatory deadlock between Oslo municipality and national authorities over planning policy, centring on the new minister's role in resolving it.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: Fikk klar beskjed fra bestemor: Skal du lykkes, må du bli dansk
+HEADLINE_EN: Got a clear message from grandmother: If you want to succeed, you have to become Danish
+LEAD_EN: Through the story of 31-year-old Greenlandic woman Betty Siorak, the article explores why so many Greenlanders support independence — and how Donald Trump's threats to acquire Greenland have upended the island's election campaign.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns geopolitical security and sovereignty questions around Greenland — including Trump's annexation threats and the US strategic interest in the island — making SEC the dominant code.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: Europa var avhengig av gass fra Russland. Det gikk galt. Europa er avhengig av USA for trygghet. Nå er også det i fare.
+HEADLINE_EN: Europe depended on Russian gas. That went wrong. Europe depends on the US for security. Now that too is at risk.
+LEAD_EN: At the Munich Security Conference, European leaders are grappling with a profound crisis of confidence in the US security guarantee under Trump, who has warmed to Putin while threatening allies and upending NATO solidarity.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about European and Norwegian security policy in the context of Trump's unreliable commitment to NATO and the shifting transatlantic relationship.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: -Undergraver det internasjonale handelssystemet
+HEADLINE_EN: "It undermines the international trading system"
+LEAD_EN: Trump announced reciprocal tariffs against all countries matching their rates on US goods; Norwegian economist Jan Haaland warns this threatens the rules-based trading system and would be bad news for Norway and the global economy.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns the economic consequences of Trump's tariff policy for international trade and Norway's export-dependent economy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: Donald Trump møtte Narendra Modi. Kalte Indias tollsatser «urettferdige».
+HEADLINE_EN: Donald Trump met Narendra Modi. Called India's tariffs "unfair".
+LEAD_EN: Indian Prime Minister Modi brought concessions and flattery to his White House meeting with Trump, but it failed to shield India from Trump's new reciprocal tariff policy targeting all countries.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns Trump's reciprocal tariff policy and its implications for US-India trade relations, with a secondary angle on geopolitical rivalry with China.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: 59-åring mistet livet da norsk rigg skulle hugges opp
+HEADLINE_EN: 59-year-old lost his life when a Norwegian rig was being scrapped
+LEAD_EN: A worker died after accidentally opening a chamber filled with toxic gas while dismantling the former Norwegian North Sea rig Bideford Dolphin at a Turkish shipbreaking yard, highlighting dangerous conditions at facilities used by Norwegian companies.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns environmental and safety standards in the scrapping of Norwegian oil rigs, with a focus on the failure to meet EU environmental certification requirements for ship recycling.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: Mor tiltalt for grov mishandling, sønnen mener han ikke er noe offer
+HEADLINE_EN: Mother charged with serious abuse, son says he is not a victim
+LEAD_EN: Days before a trial begins in Hordaland District Court, the defence lawyer for the son in the "Boy in the Apartment" case reveals that he does not consider himself a victim and disagrees with the charges against his mother.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article concerns a criminal court case involving child neglect and abuse, which does not fit neatly into the defined political issue categories and is best coded as OTH, with a secondary welfare/public services angle given the failures of child protection services.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: Årets prisvekst anslått til 2,5 prosent
+HEADLINE_EN: This year's price growth estimated at 2.5 percent
+LEAD_EN: The Technical Calculation Committee for Wage Settlements forecasts Norwegian inflation at 2.5 percent in 2025, below earlier estimates, raising hopes for real wage growth and multiple interest rate cuts ahead of this year's wage negotiations.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Norwegian inflation forecasts, real wage growth prospects, and interest rate expectations ahead of the annual wage settlement — core economic indicators.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: Den dyreste leiligheten på Finn.no er omsider solgt
+HEADLINE_EN: The most expensive apartment on Finn.no has finally been sold
+LEAD_EN: Former professional footballer Håvard Nordtveit's luxury apartment in Oslo's Tjuvholmen district, listed since 2022 at up to 90 million kroner, has finally been sold under a cover sale after the original American buyer defaulted.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a real estate and celebrity interest story with no clear connection to any of the defined political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: Hurra for en farligere verden. Spionfilmene er tilbake.
+HEADLINE_EN: Hooray for a more dangerous world. The spy films are back.
+LEAD_EN: A columnist reflects on the resurgence of spy films and TV series, arguing that today's geopolitical instability — from Putin to Trump — is fuelling a new golden age for the genre.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a cultural commentary on spy films and TV series, with only passing references to geopolitics as backdrop — it does not primarily concern any of the defined political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: – Kan føre til fuktskader og helseproblemer
+HEADLINE_EN: "Can cause moisture damage and health problems"
+LEAD_EN: Experts from Sintef and Norway's Asthma and Allergy Association warn against the common use of air humidifiers in Norwegian homes, citing risks of moisture damage, bacterial growth, and high energy consumption.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a consumer advice piece on indoor air humidity and humidifier use, with no connection to any of the defined political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: Slet med selvbildet, men nå får han skryt av psykologer
+HEADLINE_EN: Struggled with self-image, but now gets praise from psychologists
+LEAD_EN: TV presenter Martin Sleipnes (38) opens up about decades of body dissatisfaction triggered by a chance comment in his twenties, with psychologists praising his openness and explaining why external changes alone rarely resolve negative body image.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a personal interest and mental health feature on body image and self-perception, with no connection to any of the defined political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: Psykologen: Slik kan du trene på å bli mindre konfliktsky
+HEADLINE_EN: The psychologist: How to train yourself to be less conflict-averse
+LEAD_EN: Psychologist Ida Holo explains why avoiding conflict can be harmful and offers six practical steps to help people become more comfortable setting boundaries and asserting themselves.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a self-help and psychology piece on conflict avoidance with no connection to any of the defined political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: Oslo bys kulturpris til Joachim Trier
+HEADLINE_EN: Oslo City Cultural Prize awarded to Joachim Trier
+LEAD_EN: Filmmaker Joachim Trier has been awarded Oslo's cultural prize for putting the city on the map through his Oslo trilogy and other films, with the jury calling his work a major achievement in contemporary European cinema.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a cultural award announcement with no connection to any of the defined political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-15
+SECTION_NO: 
+HEADLINE_NO: Lei av å bli kalt «landsforraedere»
+HEADLINE_EN: Tired of being called "traitors"
+LEAD_EN: Pop duo Marcus and Martinus say the controversy over representing Sweden at Eurovision 2024 is behind them, as they prepare to appear as interval act at this year's MGP final — a possible step toward competing for Norway themselves.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is an entertainment and celebrity feature about a Eurovision controversy with no connection to any of the defined political issue categories.

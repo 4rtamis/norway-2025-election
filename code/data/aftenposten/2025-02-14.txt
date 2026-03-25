@@ -1,0 +1,254 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: Endelig er skylappene av
+HEADLINE_EN: Finally, the blinders are off
+LEAD_EN: Oslo municipality will finally adopt multisystemic therapy (MST), a documented method for tackling serious behavioural problems and youth crime — after years of refusal by the previous left-wing city government on ideological grounds.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article focuses on youth crime and gang-related behavioural problems, criticising the previous Labour-aligned (red-green) Oslo city government for ideologically blocking an effective crime prevention method.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: Aktor ber om 21 års fengsel
+HEADLINE_EN: Prosecutor requests 21 years in prison
+LEAD_EN: Prosecutors are seeking a 21-year sentence for former municipal doctor Arne Bye, charged with 87 rapes and 94 counts of abusing his position for sexual purposes against 92 female patients between 2004 and 2022.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a court reporting piece about a major criminal trial involving a former doctor — it does not primarily concern any of the defined political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: Det er to helt usedvanlig lite tillitvekkende typer som skal til Saudi-Arabia for å lage fred i Ukraina.
+HEADLINE_EN: The two heading to Saudi Arabia to make peace in Ukraine are extraordinarily untrustworthy figures.
+LEAD_EN: As Trump and Putin agree to launch peace talks in Saudi Arabia, the author warns that a fragile and unjust ceasefire imposed over Ukraine's head is the real nightmare — and that Europe and Kyiv must have a seat at the table.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a commentary on the Trump-Putin peace process for Ukraine, centred on security, NATO membership, and Europe's defence role — core foreign policy and security issues.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: Sugerør, småmynter og sparepaerer
+HEADLINE_EN: Straws, small coins and energy-saving light bulbs
+LEAD_EN: Trump has signed executive orders banning paper straws, rolling back energy-saving regulations, and eliminating the penny — symbolic but low-cost moves that Democrats say are distracting from rising consumer prices.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article covers a range of Trump's symbolic domestic policy decisions and executive orders, primarily framed as governance and political strategy rather than any single substantive policy domain.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: Ser ikke bare mørkt på den svake kronen
+HEADLINE_EN: Not only seeing darkness in the weak krone
+LEAD_EN: Central bank governor Ida Wolden Bache argues in her annual address that the weakened krone, while painful for consumers, has helped restore Norwegian business competitiveness after the oil price crash of 2014.
+ISSUE_CODE: ECON
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centres on the Norwegian krone's depreciation, its economic consequences for competitiveness and living costs, and the central bank's monetary policy — core economic issues.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: Handelskrig kan merkes på boliglånet
+HEADLINE_EN: A trade war could be felt in your mortgage
+LEAD_EN: Central bank governor Bache signals the first interest rate cut is coming in March, but warns that Trump's escalating trade war could force rates back up — and that Norway risks being sidelined as the EU and US negotiate without it.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article primarily addresses Norwegian interest rates, inflation, and the economic impact of a potential global trade war, with Stoltenberg's role as finance minister and Norway's international position as secondary themes.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: Åpner for kraftutbygging i vernede vassdrag
+HEADLINE_EN: Opens for power development in protected waterways
+LEAD_EN: A broad parliamentary majority including Labour, the Conservatives, and the Progress Party voted to allow hydropower development applications in previously protected Norwegian waterways, triggering protests outside the Storting and criticism from Greta Thunberg.
+ISSUE_CODE: CLI
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about environmental protection versus energy development, specifically the parliamentary decision to open protected waterways to hydropower concession applications.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: Riksrevisjonen med ny rapport: – Situasjonen er fortsatt alvorlig
+HEADLINE_EN: The Office of the Auditor General with new report: – The situation is still serious
+LEAD_EN: A new Riksrevisjonen report finds that Norway's Armed Forces still have serious deficiencies in their IT security systems, with continued violations of the Security Act despite improvements since the first alarming report in 2022.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centres on critical cybersecurity and defence readiness failures in Norway's military IT infrastructure, making national security the primary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: Kriminaliteten går litt ned, men politiet er fortsatt bekymret
+HEADLINE_EN: Crime is declining slightly, but police are still concerned
+LEAD_EN: Oslo police presented their annual crime statistics, revealing concerns over youth crime, criminal networks, and resource shortages — with the police chief calling for general arming of the force after roughly 1,400 incidents went unattended in 2024.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on youth crime, criminal networks, and gang-related violence in Oslo — with explicit mention that repeat young offenders are predominantly boys from minority backgrounds — placing it primarily in the immigration/crime category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: 39-åring fratatt norsk pass og utvist
+HEADLINE_EN: 39-year-old stripped of Norwegian passport and expelled
+LEAD_EN: Oslo District Court has upheld the revocation of a 39-year-old Afghan man's Norwegian citizenship, ruling he is a member of the terrorist organisation ISKP and poses a serious threat to national security — the first such case in Norway.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns citizenship revocation and deportation of a terror-linked immigrant, sitting at the intersection of immigration policy and national security, with immigration as the dominant legal and political frame.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: Ber regjeringen ta tak i Nylandsbrua
+HEADLINE_EN: Calling on the government to address the Nylands Bridge
+LEAD_EN: MDG and SV MPs have submitted a parliamentary proposal urging the government to finally push for the demolition of Oslo's Nylandsbrua, a despised 1967 motorway bridge that has resisted removal despite years of local political consensus in favour of tearing it down.
+ISSUE_CODE: GOV
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about urban infrastructure governance and the relationship between national and local government, framed as a question of political will and competence rather than a specific policy domain like climate or transport.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: NHO vant. LO også.
+HEADLINE_EN: NHO won. So did LO.
+LEAD_EN: After a breakdown in December, LO and NHO have reached a new Inclusive Working Life (IA) agreement, with NHO winning its demand that sick pay protections are no longer locked in — though political parties across the board have pledged not to touch the scheme anyway.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centres on Norway's sick pay scheme and the IA agreement between labour market partners, making welfare and public health policy the primary issue, with governance and political accountability as a secondary theme.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: Influensaen fortsatt på fremmarsj
+HEADLINE_EN: The flu continues to advance
+LEAD_EN: Influenza infection in Norway is at its highest level in at least three years, with FHI data showing rising case numbers particularly among children aged 5–14, and doctors reporting patients with prolonged symptoms and multiple illness rounds.
+ISSUE_CODE: HEA
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is entirely focused on public health, covering influenza spread, vaccine efficacy, and immune system effects — a straightforward health reporting piece with no political dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: Bil kjørte inn i folkemengde
+HEADLINE_EN: Car drove into crowd
+LEAD_EN: A 24-year-old Afghan asylum seeker drove a car into a trade union demonstration in Munich, injuring 28 people including children, in an apparent attack just days before the German federal election and on the eve of the Munich Security Conference.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: While primarily a breaking news report of a violent incident in Germany, the article foregrounds the suspect's identity as an Afghan asylum seeker and frames the event in the context of migration policy debates, making immigration the dominant issue code.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: Byrådet vil åpne for begravelser i helgen
+HEADLINE_EN: The city council wants to open for weekend burials
+LEAD_EN: Oslo's city council wants to allow burials on weekends to accommodate religious and practical needs of various faith communities, but the Gravplassetaten warns this is not feasible within current budgets and staffing levels.
+ISSUE_CODE: OTH
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article covers a local administrative and logistical question about Oslo cemetery operations and weekend burial policy, which does not fit any of the defined political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: Feirer du ikke valentinsdagen? – En gyllen mulighet, mener ekspert
+HEADLINE_EN: Not celebrating Valentine's Day? – A golden opportunity, says expert
+LEAD_EN: Relationship therapists say Valentine's Day is a good occasion to nurture a partnership, but emphasise that meaningful gestures don't need to be expensive — the key is communication and showing your partner they matter.
+ISSUE_CODE: OTH
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a lifestyle and relationship advice piece about Valentine's Day with no connection to any of the defined political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-14
+SECTION_NO: [not specified]
+HEADLINE_NO: Hun slet med å konsentrere seg og tok grep
+HEADLINE_EN: She struggled to concentrate and took action
+LEAD_EN: A 42-year-old Norwegian woman shares how she reduced her smartphone screen time to improve focus and mental wellbeing, with brain experts warning that excessive mobile use harms memory, creativity and mental health.
+ISSUE_CODE: OTH
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a personal interest and health lifestyle piece about smartphone addiction and screen time, with no connection to any of the defined political issue categories.

@@ -1,0 +1,270 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Alle kjøper elbil. Det er en miljøseier for avgiftspolitikken.
+HEADLINE_EN: Everyone is buying electric cars. It is an environmental victory for tax policy.
+LEAD_EN: Norway has effectively reached its climate goal, with 95.8% of new cars sold in January being fully electric, demonstrating the success of long-term policy incentives.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: TAX
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on climate policy success through electric vehicle adoption, with tax incentives as a secondary mechanism.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO: Kommentar
+HEADLINE_NO: Ut og kjøpe båter. Trump kan bli rasende.
+HEADLINE_EN: Out to buy ships. Trump could become furious.
+LEAD_EN: Norway’s planned purchase of expensive new frigates has become politically sensitive, as choosing a non-U.S. supplier could strain relations with Donald Trump and the country’s key ally.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centers on defence procurement and Norway’s strategic relations with allies, especially the U.S., making it primarily a security and foreign policy issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Tror 2025 blir et år med usedvanlig sterk boligprisvekst
+HEADLINE_EN: Believe 2025 will be a year of unusually strong housing price growth
+LEAD_EN: Housing prices in Norway jumped 4.4% in January, and economists expect strong growth to continue due to lower equity requirements, anticipated rate cuts, and high demand.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on housing prices, interest rates, and broader economic conditions affecting cost of living and the economy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO: Nyheter
+HEADLINE_NO: – Påtalemyndigheten har hatt tunnelsyn
+HEADLINE_EN: – The prosecution has had tunnel vision
+LEAD_EN: A journalist criticizes the handling of a controversial rape case, arguing that weak evidence and biased investigation should have prevented prosecution.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on a legal case and concerns about judicial process and evidence, which does not fit core political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO: Nyheter
+HEADLINE_NO: To land topper Norges trussel-liste
+HEADLINE_EN: Two countries top Norway’s threat list
+LEAD_EN: Norwegian intelligence services warn that Russia and China are increasing their activities, with likely sabotage attempts and growing threats from cyberattacks and extremism.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on national security threats, foreign intelligence activity, and defence concerns involving Russia, China, and terrorism.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Herfra kan russerne påføre norske olje- og gassinstallasjoner enorme skader
+HEADLINE_EN: From here, the Russians can inflict enormous damage on Norwegian oil and gas installations
+LEAD_EN: A secret Russian naval unit based near Norway is assessed as a major threat, capable of sabotaging critical offshore infrastructure such as pipelines and communication cables.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily addresses security threats from Russia to Norway’s critical infrastructure, with a secondary link to energy resources and economic impact.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO: Kommentar
+HEADLINE_NO: Det PST-sjefen sier, er skremmende
+HEADLINE_EN: What the PST chief says is frightening
+LEAD_EN: Norway faces a significantly more dangerous security environment, with intelligence services warning that Russian sabotage is now a likely threat, though the public is urged to remain calm.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on national security threats, especially Russian sabotage and broader geopolitical tensions affecting Norway.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO: Nyheter
+HEADLINE_NO: Mener foreldre er med på å utestenge andres barn
+HEADLINE_EN: Believes parents contribute to excluding other children
+LEAD_EN: School leaders warn that bullying and social exclusion persist, with some parents reinforcing status hierarchies among children and undermining inclusion efforts.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on school environment, bullying, and education-related welfare issues within public services.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO: Kommentar
+HEADLINE_NO: Tilbake til fremtiden (65)
+HEADLINE_EN: Back to the future (65)
+LEAD_EN: Jens Stoltenberg’s return as finance minister energizes the government, with Prime Minister Støre presenting a renewed political direction after reshuffling his cabinet.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article focuses on government reshuffle, leadership dynamics, and Stoltenberg’s return, portraying Labour’s leadership in a positive and hopeful light.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO: 
+HEADLINE_NO: Regjeringens nye kurs
+HEADLINE_EN: The government's new direction
+LEAD_EN: The government outlines its main priorities, including building 130,000 new homes, a drug reform, and tightened climate targets, as PM Støre pledges greater security and predictability for Norwegians in uncertain times.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article primarily covers the new government's policy agenda and priorities as presented to the Storting, making governance and political leadership the dominant theme.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO:
+HEADLINE_NO: - Det gikk et eller annet i meg
+HEADLINE_EN: "Something stirred in me"
+LEAD_EN: PM Jonas Gahr Støre speaks out about the internal power struggle within Labour, the break with the Centre Party, and the appointment of Jens Stoltenberg, in a special podcast episode.
+ISSUE_CODE: GOV
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article focuses on internal Labour Party leadership dynamics and Støre's personal account of navigating the political crisis, making governance and leadership the clear primary theme.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO:
+HEADLINE_NO: Hva vil velgerne si til Tysklands tabu-brudd?
+HEADLINE_EN: What will voters say to Germany's taboo-breaking?
+LEAD_EN: Three weeks before the German election, Christian Democrat leader Friedrich Merz broke the longstanding political taboo by relying on AfD votes to pass a stricter immigration proposal, triggering widespread outrage across Germany.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns the political fallout from Germany's immigration policy debate and the breaking of the cross-party firewall against the far-right AfD ahead of the German federal election.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO:
+HEADLINE_NO: Dronningen: – Hva skjedde med det fine Sverige?
+HEADLINE_EN: The Queen: "What happened to the beautiful Sweden?"
+LEAD_EN: At least 11 people were killed in the worst mass shooting in Swedish history at a school in Örebro, with police indicating the perpetrator likely acted alone and without an ideological motive.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: Although the shooting itself is a crime/security event, the article's framing — including questions about immigrant backgrounds, hate crime, and societal breakdown — centres the immigration and integration debate, making IMM the most fitting primary code; OTH captures the broader mass-casualty crime dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO:
+HEADLINE_NO: Aftonbladet: Har vært elev ved skolen
+HEADLINE_EN: Aftonbladet: Had been a student at the school
+LEAD_EN: Swedish media have identified 35-year-old Rickard Andersson as the suspect behind the mass shooting in Örebro, describing him as a socially isolated loner with no criminal record who had previously attended the school he targeted.
+ISSUE_CODE: OTH
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a factual crime report focused on profiling the suspected shooter, with no clear link to immigration, governance, or other coded policy categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO:
+HEADLINE_NO: Full kamp om ridegård i Sørkedalen
+HEADLINE_EN: Full battle over riding farm in Sørkedalen
+LEAD_EN: Landowner Carl Otto Løvenskiold has taken a dispute to court claiming pre-emption rights over Stubberud farm in Sørkedalen, against the wishes of the buyer and the local community who support her plans for a riding school.
+ISSUE_CODE: OTH
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a local legal dispute over property ownership rights with no clear connection to any of the defined political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO:
+HEADLINE_NO: Rekordår for DNB. Vil dele ut 25 milliarder i utbytte.
+HEADLINE_EN: Record year for DNB. Will pay out 25 billion in dividends.
+LEAD_EN: Norway's largest bank DNB posted a record pre-tax profit of 54.9 billion kroner for 2024 and announced a dividend payout of 25 billion kroner to shareholders.
+ISSUE_CODE: ECON
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a straightforward financial results report covering Norway's largest bank, fitting squarely within the economy category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO:
+HEADLINE_NO: Trumps Gaza-utspill kan true våpenhvilen
+HEADLINE_EN: Trump's Gaza remarks could threaten the ceasefire
+LEAD_EN: Trump's proposal to have the US take control of Gaza and relocate Palestinians to Egypt and Saudi Arabia has alarmed Middle East experts, who warn it could derail phase two of the ceasefire agreement with Hamas.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centres on Trump's proposals for Gaza and their implications for the ceasefire and Palestinian displacement, making the Gaza conflict the primary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-06
+SECTION_NO:
+HEADLINE_NO: Litt femstjerners luksus er akkurat det palestinerne trenger
+HEADLINE_EN: A little five-star luxury is exactly what the Palestinians need
+LEAD_EN: A satirical opinion column mocking Trump's proposal to redevelop Gaza as a luxury resort destination, using irony to highlight the absurdity and cruelty of displacing Palestinians from their land.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a satirical commentary on Trump's Gaza redevelopment proposal and the displacement of Palestinians, making the Gaza conflict the clear primary issue.
+

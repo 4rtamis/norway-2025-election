@@ -1,0 +1,210 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-16
+SECTION_NO: [Not specified in document]
+HEADLINE_NO: MAGA er i ferd med å bli noe mer enn Trump
+HEADLINE_EN: MAGA is becoming something more than Trump
+LEAD_EN: The MAGA movement is developing into an intellectual force beyond Trump himself, combining nationalist populism, revitalized Christian philosophy, and tech-libertarian ideas into a coherent ideological movement that challenges liberal democracy.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: This is a political analysis essay about the intellectual foundations of the American MAGA movement, which does not directly concern Norwegian politics or any of the specified issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-16
+SECTION_NO: [Not specified in document]
+HEADLINE_NO: Ikke rart at han ber om en europeisk haer
+HEADLINE_EN: No wonder he's asking for a European army
+LEAD_EN: Trump's administration is pressuring Ukraine to grant US access to valuable minerals in exchange for continued support, resembling a mafia protection racket. Zelenskyj is now calling for a unified European defense independent of the US.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on Ukraine's security situation, US-Europe relations, and NATO defense coordination in response to Trump's transactional approach to supporting Ukraine.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-16
+SECTION_NO: [Not specified in document]
+HEADLINE_NO: Zelenskyj: – Europa trenger en felles haer
+HEADLINE_EN: Zelenskyj: Europe needs a unified army
+LEAD_EN: Ukrainian President Zelenskyj tells European leaders at the Munich Security Conference that they can no longer rely on US support and must build independent European defense capability, with direct comments about strengthening NATO without US involvement.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: Article reports on Zelenskyj's security conference speech calling for European defense coordination and includes Norwegian Prime Minister Støre's response, making it directly relevant to Norway's NATO security policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-16
+SECTION_NO: [Not specified in document]
+HEADLINE_NO: – USA må ha en bedre Ukraina-plan
+HEADLINE_EN: USA must have a better Ukraine plan
+LEAD_EN: Norwegian Prime Minister Jonas Gahr Støre states that the US strategy on Ukraine remains incomplete and emphasizes that Ukraine must have a seat at any peace negotiations, while disagreeing with Zelenskyj's call for Europe to reduce dependence on NATO and the US.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article reports on Støre's direct involvement at the Munich Security Conference and Norway's position on Ukraine negotiations and NATO defense, making it directly relevant to Norwegian foreign policy and security concerns.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-16
+SECTION_NO: [Not specified in document]
+HEADLINE_NO: Trump er mer populaer enn noen gang. Hvor lenge kan det vare?
+HEADLINE_EN: Trump is more popular than ever. How long can it last?
+LEAD_EN: Trump's approval rating has reached 48.9%, the highest of his presidency, with Americans describing him as tough, energetic, focused, and effective. However, his ambitious budget cuts targeting a third of government spending could threaten support among his poorer voters if welfare programs like Medicaid are reduced.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: This is an analysis of Trump's current popularity and domestic political situation, focusing on his approval ratings and policy implementation, which does not directly concern Norway.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-16
+SECTION_NO: [Not specified in document]
+HEADLINE_NO: Israelske gisler og palestinske fanger løslatt
+HEADLINE_EN: Israeli hostages and Palestinian prisoners released
+LEAD_EN: Three Israeli hostages were released by Hamas on Saturday in exchange for 369 Palestinian prisoners, marking the sixth prisoner exchange since the ceasefire began on January 19. Among the released Palestinians is Ahmed Barghouti, a close associate of legendary Palestinian leader Marwan Barghouti.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article covers the Gaza ceasefire agreement and prisoner exchange between Israel and Hamas, which falls under the Gaza/Palestine category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-16
+SECTION_NO: [Not specified in document]
+HEADLINE_NO: Først hacket Daniel Christensen Telenor. Så fikk han jobb der.
+HEADLINE_EN: First Daniel Christensen hacked Telenor. Then he got a job there.
+LEAD_EN: A 23-year-old Norwegian discovered a security vulnerability in Telenor's systems and reported it instead of exploiting it, leading to a job offer as an "ethical hacker" where he now tests the company's security.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: This is a feature story about cybersecurity and a Norwegian tech company's hiring practices, which does not fit into the main political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-16
+SECTION_NO: [Not specified in document]
+HEADLINE_NO: Foreldre siktet for drap på spedbarn
+HEADLINE_EN: Parents charged with murder of infant
+LEAD_EN: Police in Lillestrøm charge both parents of a baby who died on Thursday with murder or complicity in murder after a forensic examination revealed clear injuries consistent with fatal harm.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: This is a criminal case report about an alleged infant death in Norway and does not relate to political issues or the 2025 election.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-16
+SECTION_NO: [Not specified in document]
+HEADLINE_NO: Frykter at regjeringens tiltak mot prostatakreft kan gjøre stor skade
+HEADLINE_EN: Fears government measures against prostate cancer could cause great harm
+LEAD_EN: Medical professors at the University of Oslo criticize Health Minister Jan Christian Vestre's new cancer strategy, which proposes introducing a prostate cancer screening program, arguing it will lead to overdiagnosis and harm patients through unnecessary treatment.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article covers a Norwegian government health policy initiative and expert criticism of it, focusing on medical and health service implications.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-16
+SECTION_NO: [Not specified in document]
+HEADLINE_NO: Vedum: Statkraft må slutte med strømspekulasjon
+HEADLINE_EN: Vedum: Statkraft must stop electricity speculation
+LEAD_EN: Centre Party leader Trygve Slagsvold Vedum calls for the state-owned power company Statkraft to cease its energy trading operations, arguing that speculation in electricity markets contradicts the company's core mission and keeps power prices volatile.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on electricity prices and energy policy, with commentary from a Centre Party opposition leader on government-owned company operations affecting energy costs.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-16
+SECTION_NO: [Not specified in document]
+HEADLINE_NO: Norske Emmys Eurovision-bidrag hylles i Russland: – Rørende
+HEADLINE_EN: Norwegian Emmy's Eurovision entry praised in Russia: touching
+LEAD_EN: Norwegian artist Emmy, representing Ireland in Eurovision with a song about the Soviet space dog Laika, receives praise from Russian state media while facing criticism from Ukraine, as the song's Russian songwriter has become a focal point of international controversy.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: This is a cultural/entertainment story about Eurovision and international reactions to a Norwegian artist's entry, which does not concern Norwegian politics or elections.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-16
+SECTION_NO: [Not specified in document]
+HEADLINE_NO: Dette er de singles sted på Valentinsdagen
+HEADLINE_EN: This is where singles go on Valentine's Day
+LEAD_EN: While couples flock to fully booked Oslo restaurants on Valentine's Day, single people are turning to fitness centers, with gyms like Sats seeing increased traffic and offering special events like "Valentine's CrossFit" classes.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: This is a lifestyle/human interest feature about Valentine's Day celebrations and gym attendance in Oslo, which does not relate to politics or the 2025 election.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-16
+SECTION_NO: [Not specified in document]
+HEADLINE_NO: Tenker du konstant på mat? Slik kan du bli kvitt støyen.
+HEADLINE_EN: Do you constantly think about food? Here's how to get rid of the noise.
+LEAD_EN: A Norwegian man eliminated constant food-related thoughts by adopting a structured eating system with fixed meals and eliminating sugar and flour, losing 35.5 kilos in six months. Researchers explain the psychology behind "food noise" and strategies to manage it.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: This is a health and wellness feature article about food psychology and weight management, not related to politics or the 2025 election.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-16
+SECTION_NO: [Not specified in document]
+HEADLINE_NO: Norsk bohem ble sjeflege i grufullt koloniregime
+HEADLINE_EN: Norwegian bohemian became chief doctor in brutal colonial regime
+LEAD_EN: A Norwegian doctor from Oslo became chief medical director in King Leopold II's Congo, serving over 20 years in one of history's most oppressive colonial systems despite denying atrocities when questioned by Norwegian press.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: This is a historical biography article about a Norwegian colonial-era figure and does not relate to contemporary Norwegian politics or the 2025 election.
+

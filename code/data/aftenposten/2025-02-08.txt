@@ -1,0 +1,255 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: – Dårlig for miljøet og farlig for barna dine
+HEADLINE_EN: – Bad for the environment and dangerous for your children
+LEAD_EN: Climate minister Andreas Bjelland Eriksen (Labour) is announcing immediate measures against cheap online retailers like Temu and Shein after tests found illegal levels of toxic substances in products aimed at children. He says the most effective short-term measure is for Norwegians to simply stop buying from these platforms.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article primarily concerns environmental and consumer safety regulation of toxic imported products, with a secondary health angle; the Labour minister is framed as actively engaged and concerned, giving the tone a mildly positive slant toward the party.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: Reform med muskedunder
+HEADLINE_EN: Reform with a blunderbuss
+LEAD_EN: Columnist Christina Pletten compares Elon Musk's mass-firing strategy in the US federal government to a blunderbuss — a weapon that is imprecise and brutal, designed to cause maximum damage regardless of who gets hit.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a commentary on Elon Musk and Donald Trump's dismantling of the US federal government, with no direct link to Norwegian politics or policy issues.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: Nav mistet kontroll. Brukte 315 millioner kroner for mye.
+HEADLINE_EN: Nav lost control. Spent 315 million kroner too much.
+LEAD_EN: Norway's welfare agency Nav overspent its parliamentary budget by more than 315 million kroner on wage subsidies and labour market measures, only discovering the error when reviewing its annual accounts.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article centres on a governance and accountability failure within a major Labour-led ministry, with the Labour minister Tonje Brenna having to respond to Nav's budget overrun — framing is critical of government oversight.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: Disse veiene får lavere fartsgrense. Ring 2 kan få 40-sone.
+HEADLINE_EN: These roads will get lower speed limits. Ring Road 2 may get a 40 km/h zone.
+LEAD_EN: Nearly 40 municipal roads in Oslo will have their speed limits reduced this year, with Ring Road 2 among the candidates. A former transport councillor criticises the pace as too slow and suggests Frp may be holding the current council back.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about local Oslo traffic and road safety policy, which does not fit neatly into the main national election issue categories; a secondary climate/environment angle is present given references to noise and pollution reduction.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: Nok en gang skaper SMS-er trøbbel for Eirik Jensen
+HEADLINE_EN: Once again, text messages cause trouble for Eirik Jensen
+LEAD_EN: New text messages suggest that convicted corrupt police officer Eirik Jensen may have faked illness to avoid serving his 21-year prison sentence, raising serious questions about the credibility of forensic psychiatric assessments.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a commentary on a high-profile criminal justice case involving rule of law and institutional trust, which does not fit the core election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: Vil gjerne be den dømte om unnskyldning
+HEADLINE_EN: Would like to apologise to the convicted man
+LEAD_EN: A lay judge who served in a rape case says the conviction has haunted her, and she wants to apologise to the convicted man, whom she believed was found guilty on insufficient evidence.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about a specific criminal justice case and the experience of a lay judge, with no clear link to the national election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: Overgrep: Mor, far, storebror og nabo er dømt
+HEADLINE_EN: Abuse: Mother, father, older brother and neighbour convicted
+LEAD_EN: An appeals court in western Norway has handed down sentences of up to 20 years in prison to four people — a father, mother, older brother and a neighbour — for serious sexual abuse of three children over several years.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article covers a major criminal court verdict involving child sexual abuse, which does not fall within the defined election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: – Én enkeltperson kan ikke snu dette
+HEADLINE_EN: – One individual cannot turn this around
+LEAD_EN: Jens Stoltenberg returns to Norwegian politics as Finance Minister, triggering a surge in Labour polling from 18.3% to 26.7% — one of the largest single jumps in recent Norwegian polling history. The political editor profiles Stoltenberg's return and its implications for the election.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article centres on Labour's dramatic polling surge following Stoltenberg's appointment as Finance Minister, framing the party's return to competitiveness in strongly favourable terms.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: Forvekslet rom – pasient fikk feil medisin og døde
+HEADLINE_EN: Wrong room mix-up — patient received wrong medication and died
+LEAD_EN: A man died at Sørlandet Hospital in Arendal after a nurse gave him another patient's medication in May last year. Police are investigating and the county governor has opened a supervision case.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about a fatal medication error at a Norwegian hospital, squarely within the healthcare and public services category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: Trump har mye større makt enn forrige gang. Kan noen stanse ham?
+HEADLINE_EN: Trump has far more power than last time. Can anyone stop him?
+LEAD_EN: Experts argue Trump is violating the US constitution with several of his new measures, and unlike his first term he now faces virtually no resistance from within the Republican Party or the judiciary.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a detailed analysis of US domestic politics and Trump's consolidation of presidential power, with no direct link to Norwegian politics or the election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: Drikker du alkohol? Ikke si at du ikke ble advart.
+HEADLINE_EN: Do you drink alcohol? Don't say you weren't warned.
+LEAD_EN: Health warnings on alcohol bottles are likely coming to Norway, even if their behavioural effect is limited. The columnist argues they serve a useful purpose — informing consumers and shielding producers from liability claims.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article discusses Norwegian public health policy on alcohol labelling, squarely within the health and welfare category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: SV og MDG frykter fullt frislipp av kraftverk i vernede vassdrag
+HEADLINE_EN: SV and MDG fear full opening for power plants in protected waterways
+LEAD_EN: A Storting majority including Labour, Høyre, Sp, FrP and KrF is moving to relax protections on Norway's protected waterways, allowing hydropower development under broader criteria than just flood control. SV and MDG warn this marks the most serious setback for nature conservation in Norway in a very long time.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns Norwegian environmental and nature conservation policy, specifically the proposed weakening of protections for protected waterways in favour of hydropower development.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: Vet ikke hvorfor politiet ikke skjøt tilbake
+HEADLINE_EN: Don't know why the police didn't shoot back
+LEAD_EN: Sweden is in shock after a school shooting in Örebro left 10 people dead. Questions are mounting over why it took an hour for police to locate the gunman, and why officers did not return fire when they first encountered him.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article covers a mass shooting in Sweden and the subsequent Swedish policy debates on gun laws and school security, with no direct link to Norwegian politics or the defined election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: Frp: Vi skal gi full lønn ved sykdom
+HEADLINE_EN: FrP: We will provide full pay during sick leave
+LEAD_EN: The Progress Party is reversing its position on sick pay, removing programme language that had opened for tightening the scheme. The shift means no remaining government alternative supports cuts to sick pay, potentially reopening stalled IA negotiations between employers and unions.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Norwegian sick pay policy and welfare state provisions, with a secondary angle on party political positioning ahead of the election.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: Dette gjør kostholdet med tarmen
+HEADLINE_EN: This is what your diet does to your gut
+LEAD_EN: A large international study of over 21,000 people found clear differences in gut flora depending on diet, with vegans showing higher concentrations of bacteria linked to positive health outcomes. However, a nutritionist notes that meat-eaters who eat plenty of varied plant-based foods can achieve similarly healthy gut bacteria.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a science and lifestyle feature on diet and gut health with no connection to Norwegian politics or the defined election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: Baltikum kobler seg av Russlands elektrisitetsnett
+HEADLINE_EN: The Baltic states disconnect from Russia's electricity grid
+LEAD_EN: Nearly 35 years after the fall of the Soviet Union, Estonia, Latvia and Lithuania are disconnecting from the Russian electricity grid this weekend and synchronising with the European grid, marking a major step toward energy independence from Russia.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns European security and geopolitical energy independence from Russia following the invasion of Ukraine, with a secondary angle on energy infrastructure and supply.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-08
+SECTION_NO: 
+HEADLINE_NO: Haltbrekken innstilt som ny nestleder i SV
+HEADLINE_EN: Haltbrekken nominated as new deputy leader of SV
+LEAD_EN: A united nomination committee has put forward Lars Haltbrekken as new deputy leader of the Socialist Left Party, joining incumbent leader Kirsti Bergstø and deputy leader Marian Hussein ahead of the party's national congress in March.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about internal party leadership changes in SV ahead of an election year, fitting the governance and party politics category.
+

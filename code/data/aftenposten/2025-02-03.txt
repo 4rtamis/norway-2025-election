@@ -1,0 +1,150 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-03
+SECTION_NO: Ideer & Samfunn
+HEADLINE_NO: Kampen om etterkrigstiden
+HEADLINE_EN: The Battle Over the Postwar Era
+LEAD_EN: A debate about Norway's postwar period has reignited, with disagreement over whether it was economically successful. The discussion reveals how historical interpretations are shaped by contemporary political views.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article examines competing political and ideological narratives about postwar governance and economic policy, showing how different parties (Labour, Rødt, conservatives) use history to justify contemporary positions.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-03
+SECTION_NO: Nyheter
+HEADLINE_NO: Åpner for turistskatt for cruise- og bobilturister
+HEADLINE_EN: Opens Door to Tourist Tax for Cruise and Camper Tourists
+LEAD_EN: Oslo's centre-right city council rejected a general tourist tax on hotel guests but signaled openness to taxing cruise ship and camper van tourists, who the council argues consume city services without spending proportionally.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centers on a debate over implementing tourist taxation in Oslo, with the centre-right council using tax policy arguments to distinguish between tourist groups—a taxation and governance issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-03
+SECTION_NO: Nyheter
+HEADLINE_NO: Putin tyr til tvang for å skaffe nok soldater
+HEADLINE_EN: Putin Resorts to Coercion to Secure Enough Soldiers
+LEAD_EN: Russia struggles to recruit soldiers for its war in Ukraine and is using increasingly drastic methods, including deception, debt relief, and forced conscription of prisoners and foreign nationals to fill military ranks.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article reports on Russia's military recruitment crisis and coercive tactics in its war against Ukraine, a core security and foreign policy issue directly relevant to Norwegian NATO interests.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-03
+SECTION_NO: Nyheter
+HEADLINE_NO: Norden gjør seg klar for luftkrig på kort varsel
+HEADLINE_EN: Nordic Region Prepares for Air Warfare at Short Notice
+LEAD_EN: Nordic air forces are establishing a unified command structure with 250 modern fighter jets to rapidly counter Russian threats across the region, representing a unique NATO integration effort centered in Norway.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article covers Nordic defence cooperation and NATO military integration in response to Russian aggression, a core security and foreign policy matter central to Norway's strategic position.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-03
+SECTION_NO: Nyheter
+HEADLINE_NO: Miljø-topp: Med «norgespris» kan smart strømstyring vaere bortkastet
+HEADLINE_EN: Environment Chief: With "Norway Price," Smart Power Management Could Be Wasted
+LEAD_EN: Environmental advocates warn that the government's proposed fixed electricity price of 40 øre per kilowatt-hour could undermine incentives for energy efficiency investments and smart power management that the state has spent billions supporting.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article debates the economic and environmental implications of a fixed electricity price policy, focusing on cost-of-living relief versus energy efficiency goals and climate policy coherence.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-03
+SECTION_NO: Nyheter
+HEADLINE_NO: Ingen førte referat fra oppvaskmøtet etter togkaoset
+HEADLINE_EN: No Minutes Taken from Meeting After Train Chaos
+LEAD_EN: After a nationwide train shutdown on Christmas Day stranded 60,000 passengers, Transport Minister Jon-ivar Nygård held a closed-door meeting with railway agencies but no official minutes were recorded, limiting public accountability.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article criticizes Labour minister Jon-ivar Nygård's lack of transparency and documentation regarding government handling of a major infrastructure failure, raising governance and accountability concerns.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-03
+SECTION_NO: Nyheter
+HEADLINE_NO: Nå er det i gang. Ingen er trygge.
+HEADLINE_EN: It's Begun. No One is Safe.
+LEAD_EN: Trump has announced tariffs of 25% on Canadian and Mexican goods and 10% on Chinese imports, potentially triggering a major trade war that threatens global economic stability and challenges traditional US alliances.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article analyzes Trump's tariff announcements as a security and geopolitical threat to the international order and US allies, with significant economic consequences relevant to Norway's trade and NATO relationships.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-03
+SECTION_NO: Nyheter
+HEADLINE_NO: Donald Trumps bråstart kan bli et tegn på svakhet
+HEADLINE_EN: Donald Trump's Fast Start Could Be a Sign of Weakness
+LEAD_EN: Trump has signed over 300 executive orders in his first week, but legal challenges, Republican defections, and constitutional constraints on presidential power could undermine his agenda and reveal vulnerabilities in his authority.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article analyzes Trump's domestic political position and institutional constraints on presidential power, relevant to Norway as a NATO ally dependent on US security commitments and policy stability.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-03
+SECTION_NO: Kommentar
+HEADLINE_NO: Kan landet få en Ap/H-regjering?
+HEADLINE_EN: Could the Country Get a Labour/Conservative Government?
+LEAD_EN: Labour and Conservative parties agree on most major issues, including EU policy, defence, and climate, raising the possibility of a "purple" coalition government—but political incentives and the need for a strong opposition argue against it.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article analyzes possible coalition governments after the 2025 election, including a potential Labour-Conservative partnership, focusing on government formation and political strategy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-03
+SECTION_NO: Nyheter
+HEADLINE_NO: Han har master i IT, men får ikke jobb
+HEADLINE_EN: He Has a Master's in IT, But Can't Get a Job
+LEAD_EN: A recent graduate with a master's degree in programming has sent 100 job applications and attended 20 interviews without success, reflecting a broader trend where many new graduates struggle longer than expected to enter the workforce.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article examines employment challenges for recent graduates and education-to-work transition, touching on labour market conditions and welfare/public services related to education systems.
+

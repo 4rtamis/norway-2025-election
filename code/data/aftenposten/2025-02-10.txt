@@ -1,0 +1,120 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-10
+SECTION_NO: [not specified]
+HEADLINE_NO: Det kan være god butikk å fire på demokratiske prinsipper
+HEADLINE_EN: It can be good business to compromise on democratic principles
+LEAD_EN: An AI researcher warns that the combination of artificial intelligence, mass influence campaigns, and the moral failures of big tech leaders poses a serious threat to democracy — including Norway's upcoming parliamentary election in September.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The opinion piece primarily concerns threats to democratic governance from social media, disinformation, and tech industry influence, with direct reference to Norway's 2025 election.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-10
+SECTION_NO: [not specified]
+HEADLINE_NO: Høy Nato-aktivitet tærer på Putins marine i nord
+HEADLINE_EN: High NATO activity is wearing down Putin's navy in the north
+LEAD_EN: Norway's Intelligence Service concludes in its latest threat assessment that Russia's Northern Fleet is weakening due to the costs of the Ukraine war and NATO's intensified activity in the High North, though the submarine fleet remains a formidable exception.
+ISSUE_CODE: SEC
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Norway's security environment, NATO activity in the High North, and the declining military capacity of Russia's Northern Fleet based on the Norwegian Intelligence Service's annual threat assessment.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-10
+SECTION_NO: [not specified]
+HEADLINE_NO: Stor drone frakter små droner, som bomber langt bak fronten
+HEADLINE_EN: Large drone carries small drones, bombing far behind the front lines
+LEAD_EN: Ukrainian forces are deploying so-called "mama-drones" that carry multiple attack drones deep behind Russian lines, representing a significant tactical breakthrough in the ongoing drone war in eastern Ukraine.
+ISSUE_CODE: SEC
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a frontline report on drone warfare technology and tactics in the Russia-Ukraine war, fitting the security and defence category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-10
+SECTION_NO: [not specified]
+HEADLINE_NO: Trump er blitt fyrlykt for Europas ytre høyre
+HEADLINE_EN: Trump has become a beacon for Europe's far right
+LEAD_EN: Europe's far-right parties have gathered in Madrid under the slogan "Make Europe Great Again," with Trump serving as their ideological lodestar, while Norway's FrP and Sweden's Democrats are notably absent as too mainstream for the gathering.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the political dynamics of Europe's far-right movement and its alignment with Trump, touching on Norwegian politics through the mention of FrP and Listhaug.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-10
+SECTION_NO: [not specified]
+HEADLINE_NO: Trumps bistandskutt er en gavepakke til Kina, mener eksperter
+HEADLINE_EN: Trump's aid cuts are a gift to China, experts say
+LEAD_EN: Experts warn that Trump's dismantling of USAID and suspension of foreign aid represents one of the worst foreign policy blunders in US history, creating a vacuum that China is already moving to fill across the developing world.
+ISSUE_CODE: SEC
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the geopolitical consequences of US foreign aid cuts and the resulting shift in global power towards China, fitting the security and foreign policy category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-10
+SECTION_NO: [not specified]
+HEADLINE_NO: Dette er et av Oslos bomberom. – Ta med bok eller kortstokk!
+HEADLINE_EN: This is one of Oslo's bomb shelters. "Bring a book or a deck of cards!"
+LEAD_EN: Norway's Civil Defence has opened one of Oslo's bomb shelters for inspection, revealing that the country's shelter capacity covers only 45 percent of the population — a level the outgoing justice minister calls indefensible given the current security climate.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Norway's civil defence preparedness and bomb shelter capacity in the context of an elevated security threat environment, fitting the security and defence category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-10
+SECTION_NO: [not specified]
+HEADLINE_NO: Solen skinner, og det gjør den kanskje helt til vinterferien
+HEADLINE_EN: The sun is shining, and it may keep doing so right through the winter holiday
+LEAD_EN: A stable high-pressure system is bringing sunny, cold, and calm winter weather to eastern Norway this week, with similar conditions expected to continue into the upcoming school winter holiday.
+ISSUE_CODE: OTH
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a weather forecast feature with no relevance to any of the defined political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-10
+SECTION_NO: [not specified]
+HEADLINE_NO: Står du i fare for å få fedme? Dette bør du kreve av fastlegen din.
+HEADLINE_EN: Are you at risk of obesity? Here's what you should demand from your GP.
+LEAD_EN: A commentary argues that Norwegian GPs focus too much on treating obesity and too little on preventing it, calling for better training and financial incentives to shift the medical system toward prevention.
+ISSUE_CODE: HEA
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about public health, obesity prevention, and the shortcomings of Norway's GP system in addressing lifestyle diseases before they develop.
+

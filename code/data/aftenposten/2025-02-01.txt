@@ -1,0 +1,284 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Forslaget om visitasjonssoner bør lide samme skjebne som Mehl
+HEADLINE_EN: The proposal for stop-and-search zones should suffer the same fate as Mehl
+LEAD_EN: Justice Minister Emilie Enger Mehl’s proposal to let police search people in certain areas without specific suspicion was among her last initiatives before the government coalition collapsed. The article argues that the proposal should be dropped because it is intrusive, weakly evidenced, and unnecessary.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article’s main focus is policing, crime prevention, and suspicionless searches in high-crime urban areas, which fits immigration/integration/crime, with a secondary governance angle because it is tied to Mehl’s exit as minister.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Finalen i «Maktorama»
+HEADLINE_EN: The finale of “Powerorama”
+LEAD_EN: The piece satirically compares the collapse of the Labour–Centre Party government relationship to reality TV. It asks whether Jonas Gahr Støre now stands more securely after the breakup and the move to a one-party Labour government.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about government breakdown, leadership, coalition dynamics, and Støre’s position, making governance the dominant issue, with energy and electricity disputes as a secondary theme.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: Nyheter | Boligbygging
+HEADLINE_NO: Obos bygger den omstridte O-en
+HEADLINE_EN: Obos is building the controversial O
+LEAD_EN: Housing construction in Oslo has nearly stalled, but Obos is now restarting several projects, including the controversial ring-shaped building at Ammerud. The article presents this as a sign of cautious recovery in the housing market despite weak purchasing power and high costs.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about the housing market, construction slowdown, buyer purchasing power, and broader economic conditions affecting new residential projects.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: Nyheter | Helse
+HEADLINE_NO: Flere får påvist svineinfluensa. Ifølge FHI finnes den ikke.
+HEADLINE_EN: More people are being diagnosed with swine flu. According to the FHI, it no longer exists.
+LEAD_EN: As flu season gets underway, some parents are being told their children have “swine flu,” but the Norwegian Institute of Public Health says this is misleading. Researchers explain that it is actually the ordinary H1N1 influenza strain now circulating seasonally, not a new pandemic threat.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about public health communication, influenza diagnosis, and vaccination information, which fits the health category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: 
+HEADLINE_NO: Hun ble enke og er rasende på Vesten
+HEADLINE_EN: She became a widow and is furious with the West
+LEAD_EN: Ukrainian architect Anna Kyrii, whose husband was killed in the war, says the war has taught her that Ukrainians can rely only on themselves. The article describes growing anger in Ukraine toward Western countries for delayed and insufficient support, while also noting that Norway is among the countries that have contributed.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the war in Ukraine, Western support, NATO/European security, and Norway’s role within that broader foreign-policy and defence context.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: 
+HEADLINE_NO: Dødsdjevlene
+HEADLINE_EN: The death devils
+LEAD_EN: The article argues that deeply desperate people are being treated in an undignified way through illegal assisted-suicide networks. Using TV 2’s documentary as a starting point, it calls for Norwegian politicians to seriously examine the issue of assisted dying.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The primary focus is assisted dying, mental illness, healthcare, and access to dignified end-of-life care, with a secondary governance element because it calls for political and legal review.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: 
+HEADLINE_NO: Fikk bot selv om han sto på oppmerket plass
+HEADLINE_EN: He was fined even though he was parked in a marked space
+LEAD_EN: An Oslo man with a disability parking permit was fined after parking in a spot marked as accessible both on the ground and on the municipality’s website. The case highlights confusing municipal signage and administrative handling after the space had effectively been moved.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly a local administrative and consumer-style dispute over parking enforcement and misleading municipal information, with a secondary link to accessibility/public services.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: 
+HEADLINE_NO: Dette er den skjulte norske slummen
+HEADLINE_EN: This is Norway’s hidden slum
+LEAD_EN: Aftenposten reveals severe labour-law violations and dangerous living conditions for seasonal workers harvesting Norwegian produce sold with the “Nyt Norge” label. The investigation shows repeated abuses, lack of transparency, and continued problems for migrant farm workers across Norway.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article mainly concerns vulnerable migrant seasonal workers, their exploitation and living conditions, which fits immigration/integration/crime, with a secondary public-health and welfare aspect due to the unsafe housing conditions.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: 
+HEADLINE_NO: Slaget står om finansministeren. Disse kan bli nye Ap-statsråder.
+HEADLINE_EN: The battle is over the finance minister. These could become Labour’s new ministers.
+LEAD_EN: After the Centre Party left the government, attention in Labour has turned to who Jonas Gahr Støre will appoint as finance minister and to other cabinet posts. The article frames the choice as strategically important because the finance minister could also emerge as Støre’s eventual successor as party leader.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is chiefly about cabinet formation, internal Labour succession, and leadership strategy after a government reshuffle, which squarely fits governance and leadership.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: 
+HEADLINE_NO: Dette vil «norgespris» på strøm bety for deg
+HEADLINE_EN: This is what the “Norway price” for electricity will mean for you
+LEAD_EN: Labour is introducing an optional fixed-price electricity scheme at 40 øre per kWh, plus VAT, alongside a cut in grid-fee VAT. The article explains how the plan could lower and stabilize power costs for many households, especially in southern Norway.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about electricity prices and household cost relief through Labour’s new fixed-price power policy, with a secondary governance angle because it is presented as a government policy initiative.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: 
+HEADLINE_NO: Løp og kjøp! (Etter valget, da)
+HEADLINE_EN: Run and buy! (After the election, that is)
+LEAD_EN: The commentary argues that Labour’s new subsidized fixed-price electricity plan could undercut the Centre Party and other opposition parties in the election campaign. It says the policy gives voters a simple answer to high power prices, even if it creates problematic incentives in the energy system.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about electricity prices and Labour’s new power-price policy, with a secondary governance angle because it emphasizes the electoral and strategic impact on party competition.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: 
+HEADLINE_NO: Dette skjedde da fire norske døde
+HEADLINE_EN: This is what happened when four Norwegians died
+LEAD_EN: Four Norwegians died in a massive avalanche in the French Alps while taking part in an avalanche course linked to Alta Folk High School. The article reconstructs the accident and the rescue operation after three companions witnessed the mountainside collapse.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a factual report on a fatal avalanche accident involving Norwegians abroad and does not primarily fit any of the specified election-related policy categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: 
+HEADLINE_NO: Første stopp for USAs nye utenriksminister: Panamakanalen
+HEADLINE_EN: First stop for America’s new foreign minister: the Panama Canal
+LEAD_EN: As Marco Rubio begins his first trip as U.S. secretary of state, attention is focused on Donald Trump’s claims about Chinese influence over the Panama Canal. The article explains that China does not control the canal, but examines why U.S. officials still see Chinese-linked port operations there as a security concern.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about foreign policy, geopolitical rivalry, and security concerns surrounding U.S., Chinese, and Panamanian control and influence over the canal.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: 
+HEADLINE_NO: Absolutt alt med Donald Trump er feil
+HEADLINE_EN: Absolutely everything about Donald Trump is wrong
+LEAD_EN: The commentary argues that Donald Trump’s style, rhetoric, and grandiosity clash completely with Scandinavian political norms. Using the idea of the Jante Law, it says Trump should forget about taking Greenland and learn some humility instead.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Trump, Greenland, and international politics from a Scandinavian/Norwegian perspective, placing it under foreign policy and security, with a secondary cultural/commentary element.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: 
+HEADLINE_NO: Fra «hotellmaskin i en gipsboks» til bygg med sjel
+HEADLINE_EN: From a “hotel machine in a plaster box” to a building with soul
+LEAD_EN: A historic Oslo hotel has been fully renovated to make its interior match its stately exterior, with a strong emphasis on reuse and sustainability. During the renovation, workers also uncovered an old bank vault hidden behind a wall.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article mainly emphasizes reuse, sustainability, and reducing waste in renovation, which fits climate/environment, with a secondary cultural and lifestyle angle.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: 
+HEADLINE_NO: Politiet: Døren til bygget sto åpen
+HEADLINE_EN: Police: The door to the building was open
+LEAD_EN: Police are investigating several possible causes of the Oslo apartment-building fire, including technical failure, accident, or arson. One confirmed detail is that the building’s door was open when police arrived, while the property owner says there was no reason it should have been.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a local crime and fire-investigation report that does not fit the main election issue categories, with a secondary governance angle because it involves municipal permits and official investigations.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: 
+HEADLINE_NO: Mistanke om grovt skadeverk på fiberkabel
+HEADLINE_EN: Suspected major sabotage of fiber-optic cable
+LEAD_EN: Norwegian police brought the Norwegian-owned cargo ship Silver Dania into Tromsø after Latvian authorities requested assistance in investigating damage to a fiber-optic cable in the Baltic Sea. The case is being treated as suspected serious vandalism, against a backdrop of wider concern over attacks on undersea infrastructure.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about suspected damage to critical undersea infrastructure, NATO monitoring, and Norway’s role in a cross-border security investigation, which fits security/defence/foreign policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: 
+HEADLINE_NO: «Sjekk deg» for HPV hjemme: – Et fint supplement
+HEADLINE_EN: “Check yourself” for HPV at home: “A good supplement”
+LEAD_EN: Norway has introduced home HPV tests through GP offices as an alternative for women who avoid gynecological exams, and early results suggest it is reaching many who have not tested in years. Health professionals describe it as a useful supplement, especially for women who find ordinary screening difficult.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about cancer screening, preventive healthcare, and access to medical testing, which fits the health/public services category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-01
+SECTION_NO: 
+HEADLINE_NO: MDG vil ha mobilfrie stillevogner på T-banen
+HEADLINE_EN: The Greens want mobile-free quiet carriages on the metro
+LEAD_EN: MDG wants Oslo’s metro to test mobile-free quiet carriages so passengers can travel in silence. The proposal is presented as a quality-of-life measure, but both Sporveien and the city’s transport councillor doubt it would work in practice.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about a local public-transport proposal that does not fit the main election issue categories, with a secondary governance aspect because it centers on a party proposal and city-level political debate.

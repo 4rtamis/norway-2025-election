@@ -1,0 +1,135 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-09
+SECTION_NO: [not specified]
+HEADLINE_NO: La oss ta en siste skål for globaliseringen!
+HEADLINE_EN: Let us raise a final toast to globalisation!
+LEAD_EN: The US-China tech race cannot be understood through normal market logic, argues the commentator — it is intertwined with great-power rivalry where security policy, national interests, and ideology are inseparable.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily an opinion piece about geopolitical rivalry between the US and China, the collapse of globalisation, and the security-economic implications for small countries like Norway.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-09
+SECTION_NO: [not specified]
+HEADLINE_NO: – Ingen ting ved dette bygget er tiltalende
+HEADLINE_EN: "Nothing about this building is attractive"
+LEAD_EN: Oslo's city council wants a more beautiful city and has singled out a 2012 building in Nydalen as a cautionary example, prompting the architect to acknowledge the criticism and admit the design no longer meets current aesthetic ideals.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about urban architecture aesthetics and Oslo city council's plans for a new architectural design guideline, which does not fit any of the defined political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-09
+SECTION_NO: [not specified]
+HEADLINE_NO: Fri etter 491 dager
+HEADLINE_EN: Free after 491 days
+LEAD_EN: Three Israeli hostages taken during the October 7, 2023 Hamas attack were released on Saturday in a prisoner exchange, with 183 Palestinian detainees freed simultaneously under the ceasefire agreement.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article reports on the Gaza hostage-prisoner exchange as part of the ceasefire deal, directly concerning the Gaza conflict.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-09
+SECTION_NO: [not specified]
+HEADLINE_NO: – Den fortegner store deler av den økonomiske historien
+HEADLINE_EN: "It distorts large parts of the economic history"
+LEAD_EN: Former top civil servant at the Ministry of Finance, Tore Eriksen, breaks his silence to challenge the winter's bestselling book "Landet som ble for rikt," arguing it is selective with facts and misrepresents Norwegian economic history.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centres on a critique of a book about Norway's economic policy history, with the primary focus on economic governance and the use of oil wealth.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-09
+SECTION_NO: [not specified]
+HEADLINE_NO: Trump følger planen han hevdet å aldri ha hørt om
+HEADLINE_EN: Trump follows the plan he claimed never to have heard of
+LEAD_EN: Despite denying knowledge of "Project 2025" during the campaign, Donald Trump is now using the Heritage Foundation's blueprint as a roadmap, with dozens of his first executive orders traceable directly to the document.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article focuses on Trump's US domestic and foreign policy agenda driven by Project 2025, which has broad international security implications; coded SEC as primary given Norway's context of US alliance dependence, with GOV as secondary for the governance/democracy angle.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-09
+SECTION_NO: [not specified]
+HEADLINE_NO: Listhaug om Ikt-sprekk: – En sykdom som går i offentlig sektor
+HEADLINE_EN: Listhaug on IT cost overruns: "A disease running through the public sector"
+LEAD_EN: FrP leader Sylvi Listhaug demands the Prime Minister answer for a massively delayed and over-budget government IT project, calling the spending culture in the public sector reckless and lacking cost control.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about government competence and accountability regarding a failed public sector IT project, with Listhaug attacking the Labour-led government's handling of public spending and Støre refusing to respond.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-09
+SECTION_NO: [not specified]
+HEADLINE_NO: Utsatt bok beskriver den tidligere polititoppens helsetilstand
+HEADLINE_EN: Delayed book describes the former police chief's health condition
+LEAD_EN: A forthcoming book about convicted former Oslo police chief Eirik Jensen includes his partner's account of his illness, amid new revelations that she allegedly sent a text message describing his condition as "an act."
+ISSUE_CODE: OTH
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article concerns a criminal justice/media story about a convicted former police official and does not fit any of the defined political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-09
+SECTION_NO: [not specified]
+HEADLINE_NO: Har du ventet på dette? Her er årets nye varer.
+HEADLINE_EN: Have you been waiting for this? Here are this year's new products.
+LEAD_EN: Norwegian grocery stores are introducing a range of new products this year, including the return of fan favourites like Nugatti Crisp, while protein-enriched foods and new snack varieties dominate the latest launches.
+ISSUE_CODE: OTH
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a consumer goods feature about new supermarket product launches in Norway, with no relevance to any defined political issue category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-09
+SECTION_NO: [not specified]
+HEADLINE_NO: En halv million i Norge bærer på skogfinsk arv. Folket var lenge glemt.
+HEADLINE_EN: Half a million people in Norway carry Forest Finn heritage. The people were long forgotten.
+LEAD_EN: The Forest Finns, one of Norway's five national minorities, are experiencing a revival of pride and identity following the 2023 Truth and Reconciliation Commission report, with a new museum set to open soon.
+ISSUE_CODE: OTH
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a cultural-historical feature about the Forest Finn minority in Norway and does not fit any of the defined political issue categories.
+

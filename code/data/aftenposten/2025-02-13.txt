@@ -1,0 +1,225 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-13
+SECTION_NO: 
+HEADLINE_NO: Byråkratene er ikke kjeltringer. De må vernes mot Musk.
+HEADLINE_EN: The bureaucrats are not villains. They must be protected from Musk.
+LEAD_EN: Elon Musk spoke dismissively and crudely about the US federal administration from the Oval Office, leading mass layoffs through DOGE — a development the editorial board warns threatens American democracy.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns US governance and democratic institutions under Trump/Musk, which falls under foreign policy/security given Norway's alliance relationship with the US; GOV is secondary as it touches on institutional competence and democratic erosion.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-13
+SECTION_NO: 
+HEADLINE_NO: 80 prosent av studentene bruker KI, men til hva?
+HEADLINE_EN: 80 percent of students use AI, but for what?
+LEAD_EN: A new edition of the national student survey shows that over 80% of Norwegian students use artificial intelligence in their studies, primarily to understand curriculum — but most feel they receive insufficient training in how to use it properly.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about higher education quality and student learning habits in Norway, which falls under public services/welfare; the mention of the new Labour research and education minister is incidental.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-13
+SECTION_NO: 
+HEADLINE_NO: Enighet om ny IA-avtale
+HEADLINE_EN: Agreement on new Inclusive Working Life (IA) accord
+LEAD_EN: Labour and Inclusion Minister Tonje Brenna (Labour) announced a new four-year agreement on inclusive working life (IA) with employer and employee organisations, though disagreement over sick pay arrangements remains unresolved.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article centres on a workplace health and welfare agreement aimed at reducing sick leave, with a secondary economic dimension around sick pay arrangements; Labour minister Brenna is framed positively as having brokered a deal after a December breakdown.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-13
+SECTION_NO: 
+HEADLINE_NO: Vil ikke svare Stortinget på om «norgespris»-forslag har vært utredet
+HEADLINE_EN: Refuses to answer Parliament on whether the "Norway price" proposal has been properly assessed
+LEAD_EN: Finance Minister Jens Stoltenberg declines to answer whether the Finance Department was involved in preparing the government's proposed "Norway price" electricity scheme, while the relevant regulatory directorate states the plan was not based on their advice.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article primarily concerns the government's electricity price proposal and its economic implications, but the dominant framing is critical of Labour's governance — alleging the policy bypassed normal bureaucratic processes and was politically motivated to appease Senterpartiet.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-13
+SECTION_NO: 
+HEADLINE_NO: Kongen er viktig for Trumps store plan. Vil han fortsatt si tvert nei?
+HEADLINE_EN: The king is crucial to Trump's grand plan. Will he still say a flat no?
+LEAD_EN: Jordan's King Abdullah II met Trump at the White House as part of the US president's push to relocate Palestinians from Gaza to Jordan and Egypt, with Trump hinting he may cut aid to both countries if they refuse.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns Trump's plan for Gaza and the displacement of Palestinians, with a secondary foreign policy/security dimension relating to US alliances and aid in the Middle East.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-13
+SECTION_NO: 
+HEADLINE_NO: Amerikansk lærer løslatt etter flere år i russisk fengsel
+HEADLINE_EN: American teacher released after several years in Russian prison
+LEAD_EN: Marc Fogel, an American teacher imprisoned in Russia since 2021 on drug charges, was released and welcomed at the White House by President Trump, with US officials framing the release as a sign of progress toward ending the war in Ukraine.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns US-Russia relations and diplomatic negotiations, framed in the context of the broader geopolitical effort to end the war in Ukraine.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-13
+SECTION_NO: 
+HEADLINE_NO: Nei, nei og atter nei
+HEADLINE_EN: No, no, and no again
+LEAD_EN: The US refused to sign the closing declaration of the AI Action Summit in Paris, as Vice President Vance made clear the Trump administration prioritises AI deregulation over safety — while Norway, represented by digitalisation minister Karianne Tung (Labour), was among the 60 nations that did sign.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns US foreign policy and transatlantic relations over AI governance, with Norway's participation making it relevant; the secondary GOV code reflects the broader theme of international regulatory politics and democratic governance of technology.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-13
+SECTION_NO: 
+HEADLINE_NO: Marte Gerhardsen gir seg som toppsjef i Oslo-skolen
+HEADLINE_EN: Marte Gerhardsen steps down as head of Oslo schools
+LEAD_EN: After six years as director of education for Oslo's schools, Marte Gerhardsen is stepping down, reflecting on debates over iPads, youth exclusion, and declining reading skills among Norwegian pupils.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: IMM
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about public education and school policy in Oslo, with a secondary dimension touching on integration and youth crime in a segregated school system.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-13
+SECTION_NO: 
+HEADLINE_NO: Siste strikk gikk til Rødt
+HEADLINE_EN: The last stitch went to Rødt
+LEAD_EN: A satirical parliamentary sketch covering question time in the Storting, where competing parties clashed over the government's proposed "Norway price" electricity scheme, with Rødt leader Marie Sneve Martinussen stealing the show in a traditional Norwegian sweater.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about the electricity price debate and competing party proposals, framed as a satirical political column; Labour's energy minister is portrayed as evasive and inconsistent, giving the piece a mildly critical tone toward the governing party.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-13
+SECTION_NO: 
+HEADLINE_NO: Det holder neppe med sjarmen
+HEADLINE_EN: Charm will hardly be enough
+LEAD_EN: Norway risks being caught in the crossfire of a trade war between the US and EU, as Trump's metal tariffs and likely EU retaliation could hit Norwegian industry hard — and no amount of diplomatic charm from Støre and Stoltenberg will fix the structural problem embedded in the EEA agreement.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns the economic consequences for Norway of a US-EU trade war and Norway's structurally exposed position outside the EU customs union, with Stoltenberg mentioned in his role as finance minister navigating these challenges.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-13
+SECTION_NO: 
+HEADLINE_NO: Norske domstoler kan ikke ta lydopptak
+HEADLINE_EN: Norwegian courts cannot make audio recordings
+LEAD_EN: Despite a legal requirement since 2018, most major Norwegian courts lack audio and video recording equipment, creating serious rule-of-law concerns especially for appeal and case reopening processes.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily concerns failures in the Norwegian justice system's infrastructure and governance, highlighting a gap between legal requirements and actual implementation in the courts.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-13
+SECTION_NO: 
+HEADLINE_NO: Dette el-skipet skal seile langs norskekysten neste år
+HEADLINE_EN: This electric ship will sail along the Norwegian coast next year
+LEAD_EN: A Norwegian shipping company has ordered the world's first emission-free bulk carrier, a 130-metre battery-powered vessel with rotor sails, set to transport limestone along the Norwegian coast from 2026 with significant public funding support.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Norway's green maritime transition and emission-free shipping technology, with a secondary economic dimension relating to public investment and industrial development.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-13
+SECTION_NO: 
+HEADLINE_NO: Avslører innholdet i Røkke-yachten. Første tokt blir en jordomseiling.
+HEADLINE_EN: Revealing the contents of the Røkke yacht. The first voyage will be a circumnavigation.
+LEAD_EN: Kjell Inge Røkke's long-delayed 195-metre research yacht is nearing completion, with its first voyage planned as a global circumnavigation once it becomes operational in early 2027.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a feature on a privately funded Norwegian research yacht and its construction saga, with a secondary climate/environment dimension given its ocean research mission.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-13
+SECTION_NO: 
+HEADLINE_NO: Forfatter pågrepet og siktet for voldtekt
+HEADLINE_EN: Author arrested and charged with rape
+LEAD_EN: A Norwegian author has been arrested and charged with rape following an alleged incident during the Christmas period, which he denies, while the complainant's lawyer says her client is severely affected and finds his public statements re-traumatising.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a crime and legal news report about a rape charge against a Norwegian author, which does not fit any of the primary political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-13
+SECTION_NO: 
+HEADLINE_NO: Handelsbanken anbefaler forsiktighet med rentekutt
+HEADLINE_EN: Handelsbanken recommends caution on interest rate cuts
+LEAD_EN: Despite a surprise contraction in Norway's mainland economy in Q4 2024, leading bank economists argue Norges Bank should proceed cautiously with rate cuts due to persistent inflation and strong wage growth.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Norwegian macroeconomic conditions, interest rate policy, and inflation — core economic issues with no clear political party framing.
+

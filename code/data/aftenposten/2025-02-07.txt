@@ -1,0 +1,225 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-07
+SECTION_NO: 
+HEADLINE_NO: Trump gjør Amerika mindre igjen
+HEADLINE_EN: Trump is making America smaller again
+LEAD_EN: Despite slogans like "America First," Trump's practical policies — withdrawing from international agreements, threatening allies, and cutting foreign aid — are reducing U.S. global influence rather than expanding it.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily an opinion piece about the U.S. retreating from international alliances and multilateral institutions, which falls under foreign policy and global security dynamics.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-07
+SECTION_NO: Kommentar
+HEADLINE_NO: Kunsten å føde til 3300 kroner
+HEADLINE_EN: The art of giving birth for 3,300 kroner
+LEAD_EN: A commentary on the growing market for private childbirth preparation courses in Norway, questioning whether the rising bar for "being prepared" is adding unnecessary anxiety around childbirth.
+ISSUE_CODE: HEA
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about maternity care and the commercialisation of childbirth preparation in Norway, which falls under health and public services.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-07
+SECTION_NO: Nyheter
+HEADLINE_NO: Vil trekke i nødbremsen for Ullevål sykehus
+HEADLINE_EN: Want to pull the emergency brake for Ullevål hospital
+LEAD_EN: Now out of government, Senterpartiet is joining Rødt in pushing to halt the planned closure of Ullevål hospital, but they need KrF's votes to secure a Storting majority.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about the future of Ullevål hospital and healthcare infrastructure in Oslo, with a secondary governance angle around coalition politics and parliamentary maneuvering — Labour is implicitly framed as responsible for an unpopular hospital merger policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-07
+SECTION_NO: Nyheter
+HEADLINE_NO: Equinor kutter i grønne mål
+HEADLINE_EN: Equinor cuts green targets
+LEAD_EN: Equinor is scrapping its target of allocating 50% of investments to renewables by 2030 and scaling back renewable energy capacity goals, while boosting oil and gas production targets — a move analysts welcome but environmentalists condemn.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Equinor's retreat from renewable energy targets and expansion of oil and gas production, which falls squarely under climate and energy policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-07
+SECTION_NO: Nyheter
+HEADLINE_NO: Politiet: Fant mye ubrukt ammunisjon
+HEADLINE_EN: Police: Found large amounts of unused ammunition
+LEAD_EN: Ten people were killed in a mass shooting at a school in Örebro, Sweden; the suspected gunman, Rickard Andersson (35), was found dead with multiple weapons and large quantities of unused ammunition.
+ISSUE_CODE: OTH
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article covers a mass shooting in Sweden with no direct link to Norwegian politics or policy, making it other news (OTH).
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-07
+SECTION_NO: Nyheter
+HEADLINE_NO: Nok et offer for Israels offensiv på Vestbredden
+HEADLINE_EN: Yet another victim of Israel's offensive on the West Bank
+LEAD_EN: A correspondent report from Jenin on the West Bank, where a 14-year-old Palestinian boy was killed in an Israeli drone strike, as Israel's military operation intensifies and 20,000 residents have fled the refugee camp.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article covers Israeli military operations against Palestinians on the West Bank, fitting the GAZ category covering the Gaza war and broader Israeli-Palestinian conflict, with no direct link to Norwegian politics.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-07
+SECTION_NO: Kommentar
+HEADLINE_NO: Nyrebytte over grensen
+HEADLINE_EN: Kidney exchange across the border
+LEAD_EN: Following the break-up of the Ap-Sp coalition government, Aftenposten's political editor analyses the new parliamentary dynamics, as Ap's new parliamentary leader Bjørnar Skjæran must now build case-by-case majorities without a fixed coalition partner.
+ISSUE_CODE: GOV
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about post-coalition parliamentary dynamics and Labour's new political strategy after the Ap-Sp split, which falls under governance and coalition politics.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-07
+SECTION_NO: Kommentar
+HEADLINE_NO: Første dagen med gjengen
+HEADLINE_EN: First day with the gang
+LEAD_EN: On his first day back as Finance Minister, Jens Stoltenberg received the annual report from the Financial Policy Committee, which sharply criticised the Støre government's economic policies — advice Stoltenberg, a trained economist, largely agrees with but may struggle to implement politically.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about fiscal policy recommendations and Stoltenberg's return as Finance Minister, with economic sustainability and government spending as the dominant theme.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-07
+SECTION_NO: Nyheter
+HEADLINE_NO: Stoltenbergs ekspertutvalg vil stoppe havvind
+HEADLINE_EN: Stoltenberg's expert committee wants to halt offshore wind
+LEAD_EN: The Finance Ministry's advisory committee of economists recommends pausing Norway's offshore wind investments, arguing they are neither profitable nor an effective climate measure, and that importing cheap power would be preferable.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article centres on expert criticism of the Labour-led government's flagship offshore wind policy, framing it as wasteful and economically unsound — primarily a climate/energy policy story with a critical tone toward the government.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-07
+SECTION_NO: Nyheter
+HEADLINE_NO: I 2023 fryktet Støre at makspris ville gi «kraftkollaps»
+HEADLINE_EN: In 2023, Støre feared a price cap would cause a "power collapse"
+LEAD_EN: PM Støre's newly launched fixed electricity price scheme "Norgespris" is criticised for removing incentives to save energy — contradicting his own 2023 warnings that price caps could lead to a power supply crisis.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article critically examines Labour PM Støre's electricity price policy, highlighting an apparent contradiction with his earlier warnings — primarily an energy/cost-of-living story with a negative framing toward the government.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-07
+SECTION_NO: Nyheter
+HEADLINE_NO: Trump tetter Temusmutthull
+HEADLINE_EN: Trump closes the Temu loophole
+LEAD_EN: The Trump administration has ended the US duty-free exemption for small parcels, directly targeting Chinese e-commerce giants like Temu, Shein and AliExpress as part of the ongoing US-China trade war.
+ISSUE_CODE: OTH
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article covers US trade policy targeting Chinese e-commerce, with no meaningful link to Norwegian politics or policy, placing it in the OTH category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-07
+SECTION_NO: Kommentar
+HEADLINE_NO: Stor seier for funksjonshemmede. Med noe bismak.
+HEADLINE_EN: A big win for the disabled. With a bitter aftertaste.
+LEAD_EN: The government has pledged to incorporate the UN disability rights convention (CRPD) into Norwegian human rights law, but the proposal may not reach parliament before the election — leaving its political impact uncertain.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about disability rights and welfare policy, with a secondary angle on the electoral and coalition politics surrounding the government's announcement.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-07
+SECTION_NO: Nyheter
+HEADLINE_NO: Oljefondet kastet ut 49 selskaper i 2024
+HEADLINE_EN: The oil fund divested from 49 companies in 2024
+LEAD_EN: Norway's Government Pension Fund Global divested from 49 companies in 2024 due to high risks related to human rights violations, corruption, and environmental exposure, according to its responsible investment report.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about the sovereign wealth fund's divestment decisions on ethical and sustainability grounds, fitting the GAZ category covering sovereign fund investments and divestment demands.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-02-07
+SECTION_NO: Nyheter
+HEADLINE_NO: Musk er blitt demokraters fremste skyteskive
+HEADLINE_EN: Musk has become Democrats' primary target
+LEAD_EN: Elon Musk's popularity is falling sharply among US voters, especially independents, as thousands protest his unelected role leading government spending cuts through the Department of Government Efficiency (DOGE).
+ISSUE_CODE: OTH
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article covers US domestic politics around Elon Musk and DOGE, with no direct link to Norwegian politics or policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-02-07
+SECTION_NO: Nyheter
+HEADLINE_NO: Planlegger middag flere dager i forveien
+HEADLINE_EN: Planning dinner several days in advance
+LEAD_EN: A Trondheim family shares how meal prepping saves them at least 1,000 kroner a month on groceries while reducing stress around mealtimes.
+ISSUE_CODE: OTH
+ISSUE_CODE_2:
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a lifestyle piece about meal planning and grocery savings with no connection to Norwegian politics or any of the defined issue categories.
+
