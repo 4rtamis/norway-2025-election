@@ -1,0 +1,269 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Riktig å bruke makt for lærlinger
+HEADLINE_EN: Right to use leverage for apprentices
+LEAD_EN: The government is tightening rules so companies doing public contracts must use apprentices more actively, with at least 10 percent of the work to be carried out by them. The aim is to stop token use of apprentices and expand access to training places.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article mainly concerns vocational training and public provision of education/workforce development, while framing the Labour-led government’s tougher apprenticeship rules favourably.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Den som vinner teknologikrigen, vinner verden
+HEADLINE_EN: Whoever wins the technology war wins the world
+LEAD_EN: The article argues that artificial intelligence has become central to great-power competition and that China has nearly erased the U.S. lead. Deepseek’s latest launch is presented as a geopolitical shock that could reshape the balance of power.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The piece is primarily about geopolitical rivalry, national power, and military-strategic implications of AI competition between the United States and China.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Nyheter
+HEADLINE_NO: Må selv betale for å få rettet opp feil hos Skatteetaten
+HEADLINE_EN: Must pay themselves to correct errors at the Tax Administration
+LEAD_EN: More than 100 municipalities use imprecise tax valuation figures for property tax, and homeowners must often detect the errors themselves. To get the valuation corrected, they may also have to pay for documentation such as an appraisal or valuation report.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about property valuation and taxation burdens on homeowners, with a secondary governance angle concerning administrative errors and how Skatteetaten handles corrections.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Nyheter
+HEADLINE_NO: Advarer om reell fare for sabotasjeangrep mot Norge
+HEADLINE_EN: Warns of a real risk of sabotage attacks against Norway
+LEAD_EN: Norway’s domestic security service warns that the risk of Russian sabotage against Norwegian critical infrastructure has increased. The National Security Authority says it is no longer a question of if such an attack will happen, but when.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about national security threats, Russian hybrid warfare, and the vulnerability of Norwegian critical infrastructure.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Nyheter
+HEADLINE_NO: Vy-sjefen får en kvart million årligg fra staten – for å kjøre bil
+HEADLINE_EN: The Vy chief gets a quarter of a million kroner annually from the state – to drive a car
+LEAD_EN: Top executives in several state-owned companies receive fixed annual car allowances worth hundreds of thousands of kroner, on top of their salaries. The article questions whether these benefits are reasonable and transparent when funded by taxpayers.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is mainly about governance, oversight, and transparency in state-owned companies’ executive compensation, framed critically toward the government’s handling of publicly funded pay practices.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Nyheter
+HEADLINE_NO: Trump tilbyr sluttpakker til millioner av statsansatte. Bak ligger en svært radikal idé.
+HEADLINE_EN: Trump offers severance packages to millions of public employees. Behind it lies a highly radical idea.
+LEAD_EN: Millions of U.S. federal employees have been offered severance packages as part of a sweeping effort to shrink the state and remove officials seen as obstacles to Trump’s agenda. The article links the move to a radical anti-bureaucratic ideology promoted by Vice President J.D. Vance and thinkers on the American right.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about state restructuring, executive power, and ideological attacks on the bureaucracy, which fits governance and leadership rather than a specific policy domain.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Nyheter
+HEADLINE_NO: Trump ønsker ikke transpersoner i militæret
+HEADLINE_EN: Trump does not want transgender people in the military
+LEAD_EN: Donald Trump has ordered the Pentagon to review its rules on transgender personnel in the armed forces, a move that could lead to them being removed from service. The measure is justified by the administration as necessary for military readiness, but is already facing opposition and likely legal challenges.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about military policy and defence personnel rules, with a secondary governance dimension related to executive orders and legal conflict.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Nyheter
+HEADLINE_NO: Donald Trumps mest sårbare kandidater skal i ilden samtidig
+HEADLINE_EN: Donald Trump’s most vulnerable nominees face the test at the same time
+LEAD_EN: Three of Donald Trump’s most controversial cabinet and security nominees are facing Senate hearings on the same day. The article examines their backgrounds, why they are contested, and whether they are likely to be confirmed.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about appointments, confirmation battles, and political leadership in the incoming U.S. administration, with a secondary security angle because several nominees are for intelligence and law-enforcement roles.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Nyheter | Energistrid I Støre-regjeringen
+HEADLINE_NO: Støre kjemper mot Sp. Brenna kjemper mot Støre.
+HEADLINE_EN: Støre is fighting the Centre Party. Brenna is fighting Støre.
+LEAD_EN: Several sources in the government apparatus say the dispute with the Centre Party over electricity policy is being used in Labour’s internal power struggle. The article portrays Tonje Brenna and her allies as challenging Jonas Gahr Støre’s leadership during a politically damaging conflict.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about Labour’s internal leadership conflict, party strategy, and coalition tensions, with electricity policy serving as a secondary backdrop.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Nyheter | Energistrid I Støre-regjeringen
+HEADLINE_NO: Svært høyt spill i Arbeiderpartiet
+HEADLINE_EN: Very high-stakes game in the Labour Party
+LEAD_EN: As Jonas Gahr Støre battles the Centre Party over energy cooperation with the EU, he is also being undermined by forces inside his own party. The article frames Tonje Brenna’s camp as putting internal leadership ambitions ahead of Norway’s broader interests.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about internal Labour leadership conflict and party power struggles, with the energy/EU dispute as a secondary policy context.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Nyheter | Energistrid I Støre-regjeringen
+HEADLINE_NO: Kollisjonskurs etter møtemaraton
+HEADLINE_EN: On a collision course after a marathon of meetings
+LEAD_EN: The conflict between Labour and the Centre Party over EU energy directives remains deadlocked after intensive meetings. Støre wants to preserve the coalition, while Vedum argues that current electricity policy and closer ties to the EU have harmed Norway.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about electricity prices and Norway’s energy policy toward the EU, with a secondary governance dimension because the dispute threatens the survival of the governing coalition.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Nyheter | Energistrid I Støre-regjeringen
+HEADLINE_NO: Var hans siste (spørre)time kommet?
+HEADLINE_EN: Had his last question time come?
+LEAD_EN: The article uses Erling Sande’s appearance in parliamentary question time to illustrate the government drama over the EU energy dispute. It suggests that the Centre Party’s ministers could soon be out of office if the coalition conflict with Labour ends in a break.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about government survival, cabinet positions, and coalition conflict, while the underlying policy backdrop is the electricity and EU energy dispute.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Nyheter | Kriminalitet
+HEADLINE_NO: Arbeiderpartiet kritisk til Mehls forslag om visitasjonssoner
+HEADLINE_EN: Labour critical of Mehl’s proposal for stop-and-search zones
+LEAD_EN: Labour criticizes Justice Minister Emilie Enger Mehl’s proposal to let police search people without specific suspicion, saying it has not been discussed with the party and conflicts with legal principles. The article presents the idea as politically divisive and weakly grounded in police advice.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article mainly concerns policing and crime policy through the debate over stop-and-search zones, while also showing Labour in a favourable light for opposing the measure on rule-of-law grounds.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Nyheter | Oljefondet
+HEADLINE_NO: De amerikanske teknologiselskapene fyller Oljefondet
+HEADLINE_EN: American technology companies are filling the Oil Fund
+LEAD_EN: Norway’s sovereign wealth fund earned enormous returns from major U.S. tech stocks in 2024, with Nvidia alone contributing more than 250 billion kroner. The article also notes recent losses and renewed attention to Nicolai Tangen’s communication with Elon Musk.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the sovereign wealth fund’s investments and returns, which fits the Oljefondet category, with a secondary economic angle due to market performance and financial gains.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Nyheter | Oljefondet
+HEADLINE_NO: Må betale millionerstatning til piloter
+HEADLINE_EN: Must pay millions in compensation to pilots
+LEAD_EN: An arbitration case in Denmark concluded that the airline failed to follow an agreement on pilots’ reemployment rights after pandemic-era layoffs. Norwegian has been ordered to pay compensation, though the amount is lower than it would have been under Norwegian law.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about a labor and arbitration dispute over pilot reemployment rights, which does not fit the main election issue categories and is therefore coded as Other.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Nyheter | Folkehelse
+HEADLINE_NO: Sykepleier: – Folk må beskytte seg
+HEADLINE_EN: Nurse: People must protect themselves
+LEAD_EN: A nurse warns people to use ice grips and take precautions in slippery conditions, as falls on ice are causing many injuries and putting extra pressure on emergency care and hospitals. She also urges Oslo municipality to improve gritting of walkways and pavements.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about injury prevention and pressure on health services from ice-related falls, with a secondary governance angle concerning municipal responsibility for safer public walkways.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Nyheter | India
+HEADLINE_NO: Tragedie på festival med millioner
+HEADLINE_EN: Tragedy at festival attended by millions
+LEAD_EN: At least 30 people were killed and 90 injured in a crowd crush during the Kumbh Mela festival in India. The article describes how panic and weak crowd control led to pilgrims being trampled during a ritual gathering.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is an international disaster report about a deadly crowd crush at a religious festival and does not fit the main Norwegian election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-30
+SECTION_NO: Nyheter | Børsen I Gvr | Saksøker Staten
+HEADLINE_NO: – Breivik er fremdeles farlig
+HEADLINE_EN: Breivik is still dangerous
+LEAD_EN: Anders Behring Breivik has again lost in court in his attempt to challenge the conditions of his imprisonment. The appeals court found that the strict security measures and isolation remain justified and do not violate his human rights.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about a court case over prison conditions and human rights for Anders Behring Breivik, which falls outside the main election issue categories, with a secondary governance angle related to the state and legal system.

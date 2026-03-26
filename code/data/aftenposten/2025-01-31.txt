@@ -1,0 +1,299 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Lykke til alene, Arbeiderpartiet
+HEADLINE_EN: Good luck on your own, Labour Party
+LEAD_EN: Prime Minister Jonas Gahr Støre wanted a three-party government after the 2021 election, but that never happened; now the two-party government of Labour and the Centre Party has also collapsed. The trigger was the EU clean energy package, which had long been a political time bomb under the coalition.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about the collapse of the Labour–Centre coalition and Støre’s leadership choice, making governance the main issue, with a secondary foreign policy/EU security dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Noen vil bli fryktelig rike på Trumps metode
+HEADLINE_EN: Some people will become extremely rich from Trump’s method
+LEAD_EN: Donald Trump may be able to give the U.S. economy a short-term boost, but the columnist argues that his approach resembles a giant “pump and dump” scheme. The gains would mainly enrich the wealthy, while the broader public could be left with the losses later.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: TAX
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Trump’s economic policy, deregulation, tariffs, and speculative growth effects, with taxation and distributional consequences as a secondary theme.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Nyheter | Nyheter Sverige
+HEADLINE_NO: Koranbrenner drept, fem pågrepet
+HEADLINE_EN: Quran burner killed, five arrested
+LEAD_EN: Salwan Momika, known in Sweden for burning Qurans, was reportedly shot dead near Stockholm. The article also notes that he applied for asylum in Norway last year, was rejected, and said being returned to Sweden was like a death sentence.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about asylum, deportation, and migration-related legal status, with a secondary security angle tied to NATO tensions and terrorism concerns.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Nyheter | Sverige
+HEADLINE_NO: Drap på koranbrenner er et nederlag for ytringsfriheten
+HEADLINE_EN: The killing of a Quran burner is a defeat for freedom of expression
+LEAD_EN: The killing of Salwan Momika reinforces a broader pattern in which freedom of expression is being weakened. The article also notes that the case matters in Norway because Momika sought asylum there and was later returned to Sweden.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily an opinion piece about freedom of expression and the limits of protest and religious offence, which does not fit the main campaign issue categories, though it has a secondary security dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Nyheter | Skredulykken I Alpene
+HEADLINE_NO: Fire omkom, Alta i dyp sorg
+HEADLINE_EN: Four dead, Alta in deep mourning
+LEAD_EN: Four people from a group connected to Alta Folk High School were confirmed dead after an avalanche in the French Alps. The school and Alta municipality say they are in deep mourning and are providing crisis support to students and relatives.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a straight news report about a fatal avalanche involving Norwegians abroad and does not primarily concern any of the defined election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Nyheter | Brudd I Støre-regjeringen
+HEADLINE_NO: «Et parti i krise har endelig funnet en sak de kan samles om»
+HEADLINE_EN: “A party in crisis has finally found an issue they can unite around”
+LEAD_EN: It became clear on Thursday afternoon that the Centre Party is leaving the government after weeks of disagreement with Labour over the EU’s clean energy package. The break means eight ministers will leave, and Jonas Gahr Støre will now form a new government.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about coalition breakdown, cabinet reshuffling, and Støre’s position as prime minister, with energy policy as a secondary substantive issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Nyheter | Regjeringsbruddet
+HEADLINE_NO: Listhaug: – Jeg kan knapt huske en verre regjering
+HEADLINE_EN: Listhaug: “I can hardly remember a worse government”
+LEAD_EN: After the government break-up, opposition parties describe the Labour–Centre coalition as chaotic and unsuccessful, while parties on the left want to pull the new Labour government further left. Sylvi Listhaug and Erna Solberg both sharply criticize the outgoing government.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: YES
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about party reactions, government breakdown, and electoral positioning around Støre’s new minority government, with energy and cost-of-living policy as a secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Nyheter | Energistrid I Støre-regjeringen
+HEADLINE_NO: Ofrer alt i håp om å vinne noe
+HEADLINE_EN: Sacrificing everything in the hope of winning something
+LEAD_EN: The article argues that Trygve Slagsvold Vedum is giving up government power over the dispute on EU energy directives, hoping to recover voters in opposition. It presents the break as a strategic gamble that may benefit Labour more than the Centre Party.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about the government split, party strategy, and leadership consequences for Labour and the Centre Party, with electricity and energy policy as the secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Nyheter | Energistrid I Støre-regjeringen
+HEADLINE_NO: For andre gang i norsk historie går et parti ut av regjering. Hva betyr det?
+HEADLINE_EN: For the second time in Norwegian history, a party leaves the government. What does it mean?
+LEAD_EN: After three and a half years, the Centre Party has left Støre’s government, and the article explains what this means in practice. It outlines how Labour will replace the departing ministers and how the minority government will operate going forward.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily an explainer on government breakdown, cabinet replacement, and parliamentary consequences, which makes governance the clear main issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Nyheter | Flyulykken I Washington D.c.
+HEADLINE_NO: Dømt for sovevoldtekt, kjemper for å bli frikjent
+HEADLINE_EN: Convicted of rape of a sleeping person, fights to be acquitted
+LEAD_EN: Authorities do not expect to find any survivors after a passenger plane collided with a military helicopter and crashed into the Potomac River in Washington, D.C. Norwegian authorities are also checking whether any Norwegian citizens were affected.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a news report about an air disaster in the United States with a limited Norwegian connection, and it does not primarily fit any of the defined election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Nyheter | Gjengkriminalitet
+HEADLINE_NO: Onkel til «Den kurdiske reven» drept i Sverige
+HEADLINE_EN: Uncle of “The Kurdish Fox” killed in Sweden
+LEAD_EN: Rawa Majid’s uncle was shot dead north of Stockholm, and Swedish police arrested one person after an exchange of fire. The article notes that Majid leads the Foxtrot criminal network and that the killing could trigger further retaliation in gang circles.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about gang violence and criminal retaliation in Sweden, which fits the crime dimension of the immigration/integration/crime category, with a secondary public security angle.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Nyheter | Vixen Awards
+HEADLINE_NO: Veien til «Farmen kjendis» går gjennom å lage bråk
+HEADLINE_EN: The road to “Farmen kjend is” goes through causing trouble
+LEAD_EN: The article argues that influencers thrive on attention, often negative, and that creating controversy can be a path to greater fame and TV opportunities. It presents influencer culture as commercially driven and highly influential among young people in Norway.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a cultural commentary on influencers, media attention, and celebrity reality TV, which does not primarily fit any of the defined political issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Nyheter | Olje | Nyheter | Terrorangrepet 25. Juni
+HEADLINE_NO: Klimaaktivister vant mot Equinor
+HEADLINE_EN: Climate activists won against Equinor
+LEAD_EN: Equinor has lost the approval for the controversial Rosebank oil field in the UK because the climate impact from burning the oil and gas was not properly assessed. The ruling may also have consequences for several Norwegian oil and gas fields facing similar legal challenges.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about climate law, oil development, and the environmental consequences of fossil fuel projects, making climate and oil policy the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Nyheter | Olje | Nyheter | Terrorangrepet 25. Juni
+HEADLINE_NO: Zaniar Matapour trekker anken
+HEADLINE_EN: Zaniar Matapour withdraws his appeal
+LEAD_EN: The man convicted of terrorism says he was not able to prepare properly for the appeal case, so he is withdrawing it. As a result, his 30-year preventive detention sentence for the 25 June 2022 Oslo shooting remains in place.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about a convicted terrorist, the aftermath of the 25 June attack in Oslo, and legal proceedings related to a terrorism case, which fits the security category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Børsen I Gvr
+HEADLINE_NO: Lønnsoppgjøret kan hindre rentekutt
+HEADLINE_EN: The wage settlement could prevent rate cuts
+LEAD_EN: Most signs suggest households in Norway will have more purchasing power in 2025, but that may also reduce the chances of interest-rate cuts. Economists warn that a costly wage settlement could keep inflationary pressure up and lead to fewer cuts from Norges Bank.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about wages, inflation, interest rates, and household purchasing power in Norway, which squarely fits the economy and cost-of-living category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Børsen I Gvr
+HEADLINE_NO: Justisministeren svarer Hadia Tajik (Ap)
+HEADLINE_EN: The justice minister responds to Hadia Tajik (Labour)
+LEAD_EN: Justice Minister Emilie Enger Mehl defends her proposal to let police search people without individual suspicion in limited geographic areas. She argues the government must consider stronger tools to stay ahead of organized crime, after criticism from Labour’s Hadia Tajik.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about anti-gang crime policy and police powers, which fits the crime dimension of IMM, while the dispute within government gives it a secondary governance element.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Nyheter | Aktiv Dødshjelp
+HEADLINE_NO: Selvmordsforsker rystet etter TV-serie
+HEADLINE_EN: Suicide researcher shaken after TV series
+LEAD_EN: Assisted suicide is illegal in Norway, yet a new TV 2 documentary suggests that some people are still offering to help vulnerable individuals die. A suicide researcher calls this frightening and morally reprehensible, warning that people in crisis are especially vulnerable to manipulation.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about suicide, end-of-life ethics, and gaps in mental health support, which places it closest to health and welfare, with a secondary criminal/legal dimension outside the main issue set.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Nyheter | Romsås, Oslo
+HEADLINE_NO: Video av knivstikking spres i sosiale medier
+HEADLINE_EN: Video of stabbing spreads on social media
+LEAD_EN: Two 16-year-olds are in custody and a third has been charged after a stabbing at a metro station in Oslo. Police are urging people to stop sharing video of the brutal attack, which they believe is linked to conflict between local youth environments.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about youth violence, attempted murder, and gang-like conflict in Oslo, which fits the crime dimension of the immigration/integration/crime category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Nyheter | Krigen I Ukraina
+HEADLINE_NO: Har Ukrainas droneangrep effekt på krigen?
+HEADLINE_EN: Are Ukraine’s drone attacks having an effect on the war?
+LEAD_EN: Ukraine is intensifying its drone war against Russia in the hope of pressuring Putin before any peace negotiations. The article examines whether repeated strikes on Russian oil facilities are actually weakening Russia’s war effort.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the war in Ukraine, Russian military vulnerability, and the strategic effect of drone strikes, which clearly places it in the security/foreign policy category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-31
+SECTION_NO: Nyheter | Helse | Livsstil
+HEADLINE_NO: Her glemmer hun jobben og rampete unger
+HEADLINE_EN: Here she forgets her job and mischievous kids
+LEAD_EN: Even a few seconds in icy water can improve mood and have positive effects on the body, according to researchers. The article follows a Norwegian ice bather and presents claimed health benefits as well as the risks of cold-water bathing.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about health effects and risks of ice bathing, which fits the health and welfare category.

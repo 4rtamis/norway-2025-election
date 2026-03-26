@@ -1,0 +1,299 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Nei, hjemmefødsel bør ikke bli et offentlig tilbud
+HEADLINE_EN: No, home birth should not become a public service
+LEAD_EN: Some women want to give birth at home, but planned home births remain a very marginal phenomenon in Norway. The editorial argues that creating a publicly funded assisted home-birth service would be a bad use of scarce midwife and health resources.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about maternity care, healthcare resource allocation, and how public birth services should be organized in Norway.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Slik var dramaet i regjeringen
+HEADLINE_EN: This is how the drama unfolded in the government
+LEAD_EN: The article describes the escalating conflict inside the Norwegian government over EU energy directives, which could push the Centre Party out of the coalition. It argues that the dispute is fundamentally about governing capacity, coalition survival, and Norway’s relationship with Europe.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The primary focus is on coalition conflict, government stability, and leadership around whether Sp will leave the government, with a secondary foreign-policy/EU energy dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nyheter | Nyheter Pensjonsalder
+HEADLINE_NO: 78-åringen jobber ute året rundt
+HEADLINE_EN: The 78-year-old works outdoors all year round
+LEAD_EN: The article uses a 78-year-old electrician as an example in the debate over how long Norwegians should remain in working life. It focuses on proposals to raise or lower the retirement-age rules and on employers’ need for experienced labor.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about retirement age, pensions, and labor-force participation as part of welfare and public-service policy, with a secondary economic dimension linked to labor shortages.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nyheter | Energistrid I Støre-regjeringen
+HEADLINE_NO: Slik var dramaet i regjeringen
+HEADLINE_EN: This is how the drama unfolded in the government
+LEAD_EN: The article recounts the escalating dispute between Labour and the Centre Party over EU energy directives, a conflict that could force Sp out of government. Its main focus is the coalition crisis and what it means for government stability in Norway.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The dominant theme is government leadership, coalition conflict, and possible cabinet breakup, with a secondary issue of Norway’s EU and energy-policy relationship.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nyheter | Energistrid I Støre-regjeringen
+HEADLINE_NO: Slik var det interne dramaet om saken som kan sprenge regjeringen
+HEADLINE_EN: This is how the internal drama unfolded over the issue that could blow up the government
+LEAD_EN: The article reports on the closed-door internal conflict between Jonas Gahr Støre and Trygve Slagsvold Vedum over introducing parts of the EU clean energy package. It centers on how the dispute could trigger a government crisis and force the Centre Party out of office.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The main focus is the internal government crisis, coalition management, and possible cabinet breakup, with a secondary issue of Norway’s EU and energy-policy relationship.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nyheter | Oslo
+HEADLINE_NO: Han eier en rekke praktbygg i Oslo. Nå vil han ha mer.
+HEADLINE_EN: He owns a long list of landmark buildings in Oslo. Now he wants more.
+LEAD_EN: The article profiles investor Christian Ringnes and his extensive property holdings in Oslo, including his purchase of Tryvannstårnet. It also describes his plans for further redevelopment, especially in Alnabru.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a business and city-development profile about private real-estate ownership and urban transformation in Oslo, which does not fit the main election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nyheter | Trender
+HEADLINE_NO: Nå er dette tilbake på moten
+HEADLINE_EN: Now this is back in fashion
+LEAD_EN: The commentary argues that wearing old fur coats again is preferable to throwing them away and buying new clothing. It frames second-hand fur as more sensible from a climate and waste perspective, even while supporting the ban on fur farming in Norway.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily discusses consumption, reuse, and environmental impacts from clothing production, with a secondary lifestyle and animal-welfare dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nyheter | Forsvaret
+HEADLINE_NO: Neseblodig alvor i Indre Troms
+HEADLINE_EN: Bloody serious in Inner Troms
+LEAD_EN: The article reports on repeated nosebleeds among soldiers in Skjold camp and other military camps in Troms. Researchers suggest the likely explanation is the cold, very dry winter air rather than a unique local health hazard.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about conditions within Norway’s military camps and defence sector, with a secondary health dimension related to soldiers’ symptoms.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nyheter | Landbrukets Skyggeside
+HEADLINE_NO: Arbeiderne plukket jordbær. Han plukket av lønnen deres.
+HEADLINE_EN: The workers picked strawberries. He skimmed off their wages.
+LEAD_EN: The investigation alleges that Vietnamese seasonal workers in Norwegian agriculture were exploited through wage deductions, poor housing, and tight control by hidden middlemen. It focuses on how convicted recruiter Hieu Le has continued operating in the sector despite past police action.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily an investigative report on labor exploitation and abusive recruitment practices in Norwegian agriculture, which does not fit the main election issue categories, with a secondary economic aspect related to wages and working conditions.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nyheter | Kollektivtransport
+HEADLINE_NO: Byrådet vil ikke svare på om eller når billettprisene skal ned
+HEADLINE_EN: The city government will not answer whether or when ticket prices will go down
+LEAD_EN: The article reports that Ruter ticket prices in Oslo are rising again, even though the city government had promised to work toward cutting the monthly pass to 499 kroner. It focuses on political accountability and whether the governing coalition is delivering on its transport price pledge.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The main focus is on political promises, governing credibility, and whether the Oslo city government is following through, with a secondary cost-of-living aspect tied to public transport prices.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nyheter | World Economic Forum
+HEADLINE_NO: DNB henter milliarder i utlandet som EU-landene gjerne vil ha
+HEADLINE_EN: DNB raises billions abroad that EU countries would like to keep for themselves
+LEAD_EN: DNB’s chief executive warns that Europe’s growing need for capital for defence, green transition, digitalization, and Ukraine reconstruction will intensify competition for investment. The article focuses on how this could make it harder for Norwegian banks and businesses to access foreign capital.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about access to capital, competitiveness, and financing for Norwegian businesses, with a secondary security dimension tied to European defence and Ukraine-related investment needs.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nyheter | Forsvar
+HEADLINE_NO: Frankrike vil være en bro mellom Norge og EU
+HEADLINE_EN: France wants to be a bridge between Norway and the EU
+LEAD_EN: The article examines Norway’s search for new frigates and a long-term strategic defence partner, highlighting France’s bid for closer military cooperation. Its main focus is Norway’s security policy, alliance choices, and the broader Russian threat in Europe.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about defence cooperation, military procurement, and Norway’s strategic security relationship with European allies.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nyheter | Somaliland
+HEADLINE_NO: Landet som ikke finnes, håper på Trump
+HEADLINE_EN: The country that does not exist hopes for Trump
+LEAD_EN: The article explains why Somaliland’s new president hopes Donald Trump or conservative allies in Washington might support recognition of Somaliland as an independent state. It focuses on geopolitics in the Horn of Africa, including U.S., Ethiopian, and Somali interests.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about international recognition, strategic geography, and regional security dynamics in the Horn of Africa.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nyheter | Politikk
+HEADLINE_NO: Å hive profitten ut av barnevernet har vært en komplett fadese
+HEADLINE_EN: Throwing profit out of child welfare has been a complete fiasco
+LEAD_EN: The commentary argues that the government’s attempt to phase out commercial providers in child welfare has failed badly. It says the policy has increased costs, weakened capacity, and left vulnerable children without the care they are entitled to.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about child welfare services and the provision of public care, while secondarily criticizing the government’s competence and management of the sector.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: Har satt i gang hevnaksjoner
+HEADLINE_EN: Has set revenge actions in motion
+LEAD_EN: The article argues that Donald Trump has begun using his return to the presidency to pursue revenge against perceived enemies in the justice system, politics, and bureaucracy. It focuses on his pardons, investigations, and moves against officials tied to past cases against him.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about political leadership, abuse of power, and the functioning of democratic institutions under Trump rather than a specific policy domain.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nyheter | Kriminalitet
+HEADLINE_NO: Mann tiltalt for to drap i Porsgrunn
+HEADLINE_EN: Man charged with two murders in Porsgrunn
+LEAD_EN: The article reports that a 39-year-old man has been charged with murdering his girlfriend by setting her on fire and later killing a key witness in Porsgrunn. It also outlines additional charges including violence, threats, sexual offences, and obstruction of justice.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a crime and court report about two murder charges and related violent offences, which does not fit the main election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nyheter | Is-søstrenes Rettssak
+HEADLINE_NO: Bærum-søstrene terrordømt: – Dro til Syria for å delta i IS
+HEADLINE_EN: The Bærum sisters convicted on terror charges: “They went to Syria to take part in ISIS”
+LEAD_EN: The article reports that two sisters from Bærum were convicted and sentenced to four and two years in prison for participating in ISIS in Syria. The court rejected their claim that they had traveled to do humanitarian work and found that they had supported the terror group’s ideology and activities.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about terrorism, national security, and participation in an extremist organization linked to international conflict.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Børsen I Gvr
+HEADLINE_NO: Norge inngår utleveringsavtale med Emiratene
+HEADLINE_EN: Norway enters into an extradition agreement with the Emirates
+LEAD_EN: The article reports that Norway will sign agreements with the United Arab Emirates on extradition and legal cooperation in criminal cases. It highlights the government’s effort to strengthen cross-border crime enforcement against suspects based in the Emirates.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about international legal and security cooperation to combat cross-border crime, with a secondary governance aspect related to the government’s justice policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nøheter | Luftforsvaret
+HEADLINE_NO: Forsinkelser for P-8 Poseidon og Evenes
+HEADLINE_EN: Delays for the P-8 Poseidon and Evenes
+LEAD_EN: The article reports that Norway’s P-8 Poseidon fleet and the development of Evenes air station are delayed, meaning full operational capability will come later than planned. It focuses on military readiness, personnel shortages, and closer defence cooperation with the United Kingdom.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about defence capability, military preparedness, and operational delays in Norway’s armed forces, with a secondary governance aspect related to implementation and planning.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-25
+SECTION_NO: Nøheter | Hage
+HEADLINE_NO: Slik får du krydderurtene fra butikken til å leve lenger
+HEADLINE_EN: How to make store-bought herbs last longer
+LEAD_EN: The article gives practical advice on how to keep supermarket herbs alive longer by repotting them, giving them enough light, and watering them properly. It also includes tips on storing cut herbs and propagating basil from cuttings.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a lifestyle and gardening advice piece about caring for kitchen herbs, which does not fit the main election issue categories.

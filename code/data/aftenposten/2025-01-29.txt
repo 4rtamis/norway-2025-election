@@ -1,0 +1,239 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-29
+SECTION_NO: Leder & Kommentar Onsdag
+HEADLINE_NO: Nei, man bør ikke gi skattefradrag formigrantoverføringer
+HEADLINE_EN: No, one should not give tax deductions for migrant remittances
+LEAD_EN: The article argues against introducing tax deductions for money transfers from immigrants in Norway to family abroad. It says such a measure would reduce Norwegian tax revenues, be unfairly targeted, and do little to address poverty in Norway.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article’s core focus is whether the tax system should subsidize remittances, making tax policy and redistribution the primary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-29
+SECTION_NO: Leder & Kommentar Onsdag
+HEADLINE_NO: Inflasjonen i toppkarakterer fører til mye dum tidsbruk
+HEADLINE_EN: Inflation in top grades leads to a lot of pointless time use
+LEAD_EN: The article argues that grade inflation in Norwegian upper secondary school creates unfairness and wastes students’ time, but says replacing coursework grades with more exams is not a good solution. It discusses how admissions pressure has intensified as top grades have become far more common.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about schools, grading, and university admission within public education, which fits health/welfare/public services, with a secondary governance aspect about system design and fairness.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-29
+SECTION_NO: Nyheter
+HEADLINE_NO: Frykter at et nei til EU på strøm kan sette helseavtale med EU i fare
+HEADLINE_EN: Fears that a no to the EU on electricity could jeopardize a health agreement with the EU
+LEAD_EN: Norway’s health minister warns that delaying disputed EU energy directives could weaken Norway’s chances of securing a key health preparedness agreement with the EU. The article frames this as a broader question of Norway’s relationship with Europe and access to crisis cooperation.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Norway’s strategic relationship with the EU and how compliance in one policy area affects broader foreign-policy and security-related cooperation, with health as a secondary domain.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-29
+SECTION_NO: Nyheter | Energistrid I Støre-regjeringen
+HEADLINE_NO: MDG: – Trist om Ap lar seg presse
+HEADLINE_EN: MDG: Sad if Labour lets itself be pressured
+LEAD_EN: The Green Party warns that Labour may give in to pressure from the Centre Party and drop the Denmark power cable in talks to save the government. MDG argues that cutting foreign power links would hurt Norway economically, increase vulnerability, and complicate climate policy.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about electricity prices, power cables, and energy-market policy, while secondarily involving coalition bargaining and government survival.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-29
+SECTION_NO: Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: Fortsetter å samle inn milliarder
+HEADLINE_EN: Continues to raise billions
+LEAD_EN: Although the election is over, Donald Trump is still raising huge sums of money. The article explains that this war chest could help him maintain control over the Republican Party and strengthen his influence in Congress during his presidency.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about political fundraising, party control, and Trump’s governing power rather than a specific policy area.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-29
+SECTION_NO: Nyheter Donald Trumps Andre Periode
+HEADLINE_NO: Donald Trump: Hvor mye betyr hans politikk for norsk økonomi? – USA har litt å si for strømregningen her hjemme, sier ekspert.
+HEADLINE_EN: Donald Trump: How much does his policy matter for the Norwegian economy? “The U.S. has some impact on the electricity bill here at home,” says expert.
+LEAD_EN: The article examines how Donald Trump’s trade and energy policies could affect Norway through tariffs, interest rates, inflation, and electricity prices. Norwegian businesses fear the downside risks, though increased U.S. gas exports could eventually lower power prices in Europe and Norway.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article primarily focuses on how Trump’s policies may affect Norway’s economy, including trade, inflation, interest rates, and household costs, with a secondary foreign-policy dimension tied to EU-US relations and energy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-29
+SECTION_NO: Nyheter Økonomi
+HEADLINE_NO: Oljefondet offentliggjør tekstmeldinger
+HEADLINE_EN: The Oil Fund releases text messages
+LEAD_EN: After a new review, Norway’s sovereign wealth fund released Elon Musk’s text messages to Nicolai Tangen. The messages show Musk pressuring Tangen after the fund voted against his Tesla pay package, and the case centers on transparency and the fund’s public accountability.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about governance, transparency, and leadership in the management of Norway’s sovereign wealth fund, with a secondary economic angle through the fund’s role as a major investor.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-29
+SECTION_NO: Nyheter | Rettssikkerhet I Russland
+HEADLINE_NO: Putins menn jaget ham ut av landet
+HEADLINE_EN: Putin’s men drove him out of the country
+LEAD_EN: The article profiles Russian lawyer Ivan Pavlov, who spent decades defending people accused of treason before the authorities turned on him as well. It describes how repression of defense lawyers has intensified in Russia and forced him into exile.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about repression, state security, and Russia’s authoritarian political-legal system, with a Norway link through Pavlov’s past defense of a Bellona-related case.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-29
+SECTION_NO: Nyheter | Kosthold
+HEADLINE_NO: Familie på fem må hver uke spise 25 kilo av dette, ifølge myndighetenes anbefalinger
+HEADLINE_EN: Family of five would have to eat 25 kilos of this each week, according to the authorities’ recommendations
+LEAD_EN: The article illustrates how much fruit and vegetables a Norwegian family of five would need to eat to follow the national dietary guidelines. It uses the family’s experiment to show both the scale of the recommendation and the public-health rationale behind it.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about public health guidance, diet, and preventive health policy, which fits the health/welfare/public services category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-29
+SECTION_NO: Nyheter | Gambling
+HEADLINE_NO: Mangemillionær etter å ha fristet gamere til å gamble
+HEADLINE_EN: Multi-millionaire after luring gamers into gambling
+LEAD_EN: The article examines how a Norwegian influencer made huge sums by promoting unregulated gambling linked to video games. It highlights concerns that such platforms recruit young players and operate without effective safeguards in Norway.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article’s main focus is unregulated online gambling tied to gaming and its social harms, which does not fit the main election issue categories, with a secondary governance angle about weak regulatory oversight.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-29
+SECTION_NO: Nyheter | Folkehelse
+HEADLINE_NO: Kjøpte vaksine i julegave til nevøene
+HEADLINE_EN: Bought a vaccine as a Christmas gift for the nephews
+LEAD_EN: The article examines criticism of Norway’s decision to keep offering the cheaper HPV vaccine in the childhood immunization program instead of a broader but more expensive alternative. Doctors worry this could create health inequality because families who can pay privately may secure wider protection for their children.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: TAX
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about vaccination policy and public health, with a secondary redistribution angle because cost differences may produce unequal access based on families’ ability to pay.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-29
+SECTION_NO: Nyheter | Oslofjorden
+HEADLINE_NO: Byrådet vil sprenge i torskens gyteområde
+HEADLINE_EN: The city government wants to blast in the cod’s spawning area
+LEAD_EN: The article reports that Oslo’s city government wants underwater blasting and dredging in a nationally important cod spawning ground to expand port capacity for a carbon-capture project. Critics call it hypocritical given recent calls to protect marine life in the Oslo Fjord.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about environmental protection versus climate infrastructure, centering on Oslo Fjord ecology, marine habitat damage, and carbon-capture policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-29
+SECTION_NO: Nyheter | Oslofjorden
+HEADLINE_NO: Helsebyråden ber etaten rydde opp på legevakten
+HEADLINE_EN: The health city councillor asks the agency to clean up the emergency clinic
+LEAD_EN: The article reports that Oslo’s new emergency clinic has struggled with long waiting times and overcrowded waiting areas despite promises of a more efficient system. The city’s health councillor is now demanding improvements, including staff training and new AI-supported tools.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about healthcare service delivery and problems at Oslo’s emergency clinic, with a secondary governance aspect related to management failures and administrative fixes.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-29
+SECTION_NO: Nyheter | Velferdsstaten
+HEADLINE_NO: Mener det ligger en «pengenes forbandelse» over Norge
+HEADLINE_EN: Says there is a “curse of money” hanging over Norway
+LEAD_EN: The article reports on a Danish editor’s argument that Norway’s immense oil and gas wealth has made its politics complacent and morally poorer. It ties that critique to Norway’s Ukraine support and to a debate over whether the country uses its resources responsibly.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about political leadership, priorities, and how Norwegian governments manage national wealth, with a secondary foreign-policy angle tied to criticism of Norway’s support for Ukraine.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-29
+SECTION_NO: Børsen I Går
+HEADLINE_NO: Mener det ligger en «pengenes forbandelse» over Norge
+HEADLINE_EN: Says there is a “curse of money” hanging over Norway
+LEAD_EN: The article reports on a Danish editor’s argument that Norway’s immense oil and gas wealth has made its politics complacent and morally poorer. It links that critique to Norway’s Ukraine support and to a debate over whether the country uses its resources responsibly.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about political leadership, priorities, and how Norwegian governments manage national wealth, with a secondary foreign-policy angle tied to criticism of Norway’s support for Ukraine.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-29
+SECTION_NO: Nyheter | Politikk
+HEADLINE_NO: Rødgrønn pionér endte som landssviker
+HEADLINE_EN: Red-green pioneer ended up as a traitor
+LEAD_EN: The article revisits former prime minister Jens Hundseid, portraying him as an early bridge between the agrarian movement and Labour before his later disgrace as a wartime collaborator. It uses his story to reflect on long-term political ties between the Centre Party and Labour.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about party history, leadership, and coalition dynamics between the Centre Party and Labour rather than a substantive policy issue.

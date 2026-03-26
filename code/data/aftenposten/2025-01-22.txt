@@ -1,0 +1,254 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Leder & Kommentar Onsdag
+HEADLINE_NO: Bøllete selvopptatthet gjør ikke Amerika stort
+HEADLINE_EN: Bullying self-absorption does not make America great
+LEAD_EN: Donald Trump’s inauguration speech and first executive orders show, according to the article, a worrying lack of historical understanding and respect for international cooperation. The piece argues that this is troubling for allies such as Norway.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about U.S. foreign policy, NATO, and international cooperation, and explicitly discusses the implications for Norway’s security as a small allied state.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Leder & Kommentar Onsdag
+HEADLINE_NO: Blokkdelingen av Europa kommer tilbake. Verre kan det bli.
+HEADLINE_EN: Europe’s bloc division is returning. It could get worse.
+LEAD_EN: The article argues that Vladimir Putin is expanding Russian influence across Europe by backing autocrats and spreading disinformation more successfully than many in the West realize. It notes that Norway is relatively resilient, but not immune.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Russian influence, European security, and the risk of renewed bloc politics, with a secondary focus on democratic resilience and governance.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Nyheter | Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: 13 ting Trump gjorde på sin første dag som president
+HEADLINE_EN: 13 things Trump did on his first day as president
+LEAD_EN: Donald Trump signed a large number of executive orders on his first day back in office, alongside granting pardons related to the January 6 Capitol attack. The measures covered climate, immigration, inflation, energy, federal staffing, TikTok, and gender policy.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a roundup of Trump’s first-day governing actions and executive decisions, with governance as the dominant frame and foreign/security policy only one part of the package.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: Det Elon Musk gjorde etterpå, er enda farligere
+HEADLINE_EN: What Elon Musk did afterward is even more dangerous
+LEAD_EN: The article argues that while Elon Musk’s apparent Nazi-like salute drew attention, the more important issue is his growing political power inside the Trump administration. It warns that this could affect democratic institutions in the U.S. and beyond, including Europe and Norway.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about political power, democratic governance, and Musk’s influence inside the U.S. state, with a secondary foreign-policy dimension through his impact on Europe and democratic processes.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: – At USA ønsker å trekke seg ut av WHO, skaper utfordringer
+HEADLINE_EN: “The fact that the U.S. wants to withdraw from the WHO creates challenges”
+LEAD_EN: Trump began the process of withdrawing the United States from the World Health Organization, raising fears about weaker global disease control and pandemic preparedness. Norway’s health minister says the move creates challenges for Norway and international health cooperation.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about global health governance and public health preparedness, with Norway’s Labour health minister presented as defending international cooperation and Norwegian health security.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Nyheter | Økonomisk Krigføring
+HEADLINE_NO: Tar første skritt mot global handelskrig
+HEADLINE_EN: Takes the first step toward a global trade war
+LEAD_EN: Donald Trump has ordered his administration to prepare retaliatory measures against countries that impose extra taxes on American multinationals. The move also signals a U.S. withdrawal from the OECD global tax agreement and could trigger wider economic confrontation.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about international corporate taxation and the OECD minimum tax regime, with a secondary economic dimension due to the risk of a broader trade conflict.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Nyheter | Gjengkriminalitet
+HEADLINE_NO: Politiet med storsatsing for å ta kriminelle gjenger og nettverk
+HEADLINE_EN: Police launch major push to take down criminal gangs and networks
+LEAD_EN: Norwegian police have received an extra NOK 600 million to intensify efforts against criminal gangs and networks. The article describes threats from local groups and foreign-based actors, with a focus on drugs, violence, fraud, and cross-border organized crime affecting Oslo.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about gang crime, organized criminal networks, violence, and policing in Norway, which fits the immigration/integration/crime category, with governance as a secondary aspect through police strategy and state response.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Nyheter | Taxibransjen
+HEADLINE_NO: Bompenger er blitt god butikk for taxieiere
+HEADLINE_EN: Toll charges have become good business for taxi owners
+LEAD_EN: Several Oslo taxi companies are charging passengers more in toll fees than taxi owners actually pay, and in some cases they charge even when no toll road is used. The article raises consumer protection concerns about misleading pricing practices.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about consumer costs, pricing practices, and financial burdens in everyday transport, making cost-of-living/economy the best fit.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Nyheter | World Economic Forum
+HEADLINE_NO: Tangen advarermot kortsiktig jag
+HEADLINE_EN: Tangen warns against short-termism
+LEAD_EN: Nicolai Tangen argues that quarterly reporting drives short-term thinking, wastes resources, and pushes companies away from the stock market. He says firms should report results every six months instead to encourage longer-term decisions.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about financial markets, corporate reporting, and broader economic incentives, making economy the dominant issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Nyheter | World Economic Forum
+HEADLINE_NO: Trump gir EU et spark bak
+HEADLINE_EN: Trump gives the EU a kick from behind
+LEAD_EN: The article argues that Trump’s return may push Europe to move faster on overdue changes in trade, defence, and economic policy. It also notes implications for Norway through Europe’s security role and trade relations.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Europe’s strategic response to Trump on security, NATO, and its global role, with a secondary focus on trade and economic reform.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Nyheter | World Economic Forum
+HEADLINE_NO: Les også
+HEADLINE_EN: Read also
+LEAD_EN: Norwegian business leaders in Davos do not appear overly alarmed by Donald Trump’s return to power, though they expect uncertainty around trade, inflation, and interest rates. Several argue that Trump’s policies could also pressure Europe to become more competitive.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about economic expectations among Norwegian business leaders regarding Trump, especially trade, competitiveness, inflation, and interest rates, with a secondary geopolitical dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Nyheter | Olje Og Gass
+HEADLINE_NO: – Oljeboring her er galskap
+HEADLINE_EN: “Oil drilling here is madness”
+LEAD_EN: After the government awarded 53 new exploration licenses on the Norwegian shelf, critics reacted strongly to one license in the environmentally sensitive Træna Reef area. SV and environmental groups argue that the decision breaks both the management plan for Norwegian sea areas and the government’s own platform.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about oil drilling in a vulnerable marine environment and the conflict with environmental protections, while secondarily criticizing the Labour-led government’s handling of the issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Nyheter | Terrorisme
+HEADLINE_NO: Mann fra Skien må for retten etter blodig angrep i Paris i 1982
+HEADLINE_EN: Man from Skien must stand trial after bloody attack in Paris in 1982
+LEAD_EN: A Norwegian citizen from Skien is accused of involvement in the 1982 terrorist attack on the Jewish restaurant Goldenberg in Paris, where six people were killed. The article argues that even after 43 years, it is important that the French justice system delivers a verdict.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about terrorism, political violence, and the state’s response through the justice system, which fits the security category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Nyheter | Krigen I Ukraina
+HEADLINE_NO: Flyktninger var opptatt av mye mer enn penger da de valgte Norge
+HEADLINE_EN: Refugees cared about much more than money when they chose Norway
+LEAD_EN: A survey of Ukrainian refugees in Norway shows that many chose the country not mainly for financial reasons, but because of safety, nature, culture, and trust in Norwegian society. The article suggests these factors may support integration but could also reduce willingness to return to Ukraine.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about refugees’ motivations for choosing Norway and their integration into Norwegian society, which fits the immigration/integration category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Nyheter | Oslo
+HEADLINE_NO: Kommunen smadrer Obos' endring
+HEADLINE_EN: The municipality tears apart Obos’ redesign
+LEAD_EN: Oslo’s planning authorities have rejected Obos’ revised high-rise project at Vollebekk, saying it has too low architectural quality and does not meet legal and planning standards. Neighbors who have opposed the project now have strong backing from the municipality.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about a local urban development and housing project, with governance as a secondary issue because municipal planning authorities are rejecting the proposal on regulatory and quality grounds.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Børsen I Går
+HEADLINE_NO: Ble mistet fra hangarskip
+HEADLINE_EN: Lost from an aircraft carrier
+LEAD_EN: Hundreds of plastic cereal cups washed up along the Norwegian coast after the U.S. Navy admitted losing several supply pallets in the North Sea during a replenishment operation. Environmental groups say the Navy must now take responsibility for cleaning up the pollution.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about marine pollution and environmental cleanup on the Norwegian coast, with a secondary security dimension because the waste came from a U.S. naval operation.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-22
+SECTION_NO: Nyheter | Kunstig Intelligens
+HEADLINE_NO: Hvem er best til å stille diagnose? Vi lot legen prøve seg mot CHATGPT.
+HEADLINE_EN: Who is better at making a diagnosis? We let a doctor compete against ChatGPT.
+LEAD_EN: The article tests whether ChatGPT can diagnose medical cases better than a Norwegian doctor, drawing on new research suggesting AI may outperform physicians on diagnostic tasks. In the head-to-head contest, ChatGPT beats the doctor, though the piece stresses that AI cannot replace human medical judgment.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about medical diagnosis and healthcare, focusing on whether AI can improve or outperform doctors in assessing patient symptoms.

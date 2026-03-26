@@ -1,0 +1,254 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Fylkesordførere skal ikke be statsråder holde kjeft
+HEADLINE_EN: County mayors should not tell cabinet ministers to shut up
+LEAD_EN: An appeal from county politicians asks government ministers to stop speaking disrespectfully about matters outside their mandate. The editorial argues that ministers must be free to speak openly about county politics, even if they should keep a civil tone.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about political conduct, institutional boundaries, and criticism of Labour county politicians’ handling of a conflict with a minister, which fits governance and leadership.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Det er dumt å sove lite. Men hva er lang nok søvn?
+HEADLINE_EN: Sleeping too little is bad. But what counts as enough sleep?
+LEAD_EN: The article discusses how poor sleep harms health and questions the old idea that adults must sleep exactly eight hours. It argues that sleep needs vary and reflects on whether sleep trackers actually help people rest better.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about sleep, health, and public health guidance, which falls under health and welfare rather than electoral or political leadership issues.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Nyheter || Ordbøker
+HEADLINE_NO: Føkk – ny ordliste! Nå kan du gønne på med nyord som ruler.
+HEADLINE_EN: Fuck – a new dictionary! Now you can go all in with new words that rule.
+LEAD_EN: Norway’s updated dictionaries now include hundreds of newer and often English-derived words in normalized Norwegian spelling. The article presents this as a major modernization of Bokmål and Nynorsk to reflect contemporary language use.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about language reform and dictionary updates rather than any of the core political issue categories, so it fits Other.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Nyheter | Verden
+HEADLINE_NO: Har EU en spion i egne rekker?
+HEADLINE_EN: Does the EU have a spy in its own ranks?
+LEAD_EN: EU politicians debated allegations that Hungary spied on EU anti-fraud investigators and other EU visitors. The case has raised concerns about espionage by an EU member state against EU institutions.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about espionage, intelligence threats, and security inside the EU, with a secondary governance angle related to corruption and institutional accountability.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Nyheter | Krigen I Ukraina
+HEADLINE_NO: Elitesoldater skal stoppe russerne fra underjordisk by
+HEADLINE_EN: Elite soldiers are to stop the Russians from an underground city
+LEAD_EN: The article describes Azov’s vast underground headquarters near the front and uses it to explore growing criticism of Ukraine’s military leadership. Its main focus is what must change in the army to halt Russia’s advance.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the war in Ukraine, military capacity, and stopping Russian advances, making security and defence the dominant issue, with a secondary governance angle about leadership failures in the army.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Nyheter | Politikk
+HEADLINE_NO: Energi og EU har kraft til å sprenge regjeringen
+HEADLINE_EN: Energy and the EU have the power to blow up the government
+LEAD_EN: The article explains how the EU’s energy package has reopened deep tensions between Labour and the Centre Party over energy policy and Norway’s relationship with the EU. The dispute is serious enough to trigger talk of a government crisis.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: YES
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The primary focus is on coalition conflict, cabinet stability, and whether the energy dispute could break up the government, which makes governance the dominant issue, with a secondary economic/energy policy dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Nyheter | Politikk
+HEADLINE_NO: Giske mener Sp har feil fokus og støtter Støre
+HEADLINE_EN: Giske says the Centre Party is focusing on the wrong thing and backs Støre
+LEAD_EN: Trond Giske argues that the real battle is over foreign electricity links and ACER, not the less controversial EU energy directives now under discussion. The article centers on how the dispute could split the government and how Labour and the Centre Party are positioning themselves.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about government stability, intra-coalition conflict, and Støre’s leadership in handling the EU energy dispute, with a secondary focus on electricity prices and energy policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Nyheter | Boligmarkedet
+HEADLINE_NO: Sykepleieren tjener ikke nok til å komme inn på boligmarkedet
+HEADLINE_EN: The nurse does not earn enough to enter the housing market
+LEAD_EN: A new housing affordability index shows that a single nurse on an average salary can afford only a tiny share of homes in Oslo and nearby areas. The article highlights how young nurses struggle to save and buy despite steady work and wage growth.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about affordability, wages, and housing market pressure facing ordinary earners, which fits the economy/cost-of-living category, with a secondary link to health because the case centers on a nurse.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Nyheter | Boligmarkedet
+HEADLINE_NO: Venter «svært sterk» boligprisvekst
+HEADLINE_EN: Expects “very strong” housing price growth
+LEAD_EN: Nordea Markets expects Norwegian house prices to rise sharply in 2025, even with only two rate cuts. The forecast is tied to strong wage growth, looser borrowing conditions, and limited housing supply.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about housing prices, interest rates, purchasing power, and the broader Norwegian economy, which fits the economy/cost-of-living category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Nyheter | Klimakrisen
+HEADLINE_NO: Klarer ikke finne nok verktøy til å fikse Norges klimaløfter
+HEADLINE_EN: Unable to find enough tools to fix Norway’s climate pledges
+LEAD_EN: A new analysis from the Norwegian Environment Agency says the government cannot meet Norway’s 2030 climate commitments with currently available measures alone. Even with aggressive action, the state may need costly biofuels or quota purchases to close the gap.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about Norway’s climate policy shortfalls and the difficulty of meeting emissions targets, with a secondary governance angle because it criticizes the government’s implementation capacity.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Nyheter | Helse
+HEADLINE_NO: Joacim Lund: Forfengelighet bør ikke behandles med slankemedisiner. Det kan godt fastlegene notere seg.
+HEADLINE_EN: Joacim Lund: Vanity should not be treated with weight-loss drugs. GPs would do well to note that.
+LEAD_EN: The commentary argues that weight-loss drugs can be important for patients with severe obesity, but they are increasingly being used by people who only want to lose a few kilos. It says doctors should not prescribe them for cosmetic reasons and stresses that medication alone is not a cure.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about medical treatment, prescribing practices, obesity, and public health, which places it in the health category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: Dette lærte vi av Trumps første dag om de neste fire årene
+HEADLINE_EN: What Trump’s first day taught us about the next four years
+LEAD_EN: The article argues that Trump’s first day back in office showed he intends to govern aggressively, provocatively, and on his own terms. It highlights his polarizing rhetoric, sweeping pardons, and strong focus on pleasing core supporters.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the direction of U.S. leadership and international implications under Trump, which fits security/foreign policy, with a secondary governance angle about his governing style and executive power.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: To «kuttministere» ble til én
+HEADLINE_EN: Two “cut ministers” became one
+LEAD_EN: Elon Musk and Vivek Ramaswamy were both supposed to lead Trump’s government-cutting initiative, but a power struggle appears to have left Musk in sole charge. The article focuses on internal competition over influence and priorities in the new administration.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about leadership, power struggles, and the organization of the Trump administration, with a secondary economic angle because the dispute concerns public spending cuts.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: Sparkes for manglende MAGA-visjoner
+HEADLINE_EN: Fired for lacking MAGA visions
+LEAD_EN: Trump is moving quickly to purge officials he sees as disloyal and to tighten political control over the U.S. state apparatus. The article says tens of thousands of federal employees could ultimately be at risk.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about executive control, politicization of the bureaucracy, and leadership over the state apparatus, which fits governance and leadership.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Nyheter | World Economic Forum
+HEADLINE_NO: Aker vil få opp farten i det grønne skiftet igjen
+HEADLINE_EN: Aker wants to speed up the green transition again
+LEAD_EN: After years of limited visible progress, Aker’s green investment vehicle says it expects to present its first project in the first half of the year. The article focuses on renewed efforts to invest in Nordic green industry and emissions cuts.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about green industrial investment and efforts to accelerate emissions reductions, which fits climate policy, with a secondary economic dimension tied to investment strategy and business performance.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Nyheter | Davos
+HEADLINE_NO: Tangen er imponert over en «frue» i Paris
+HEADLINE_EN: Tangen is impressed by a “lady” in Paris
+LEAD_EN: Norway’s sovereign wealth fund chief Nicolai Tangen praised the rapid rebuilding of Notre-Dame as proof that Europe can achieve more with fewer rules. He also noted that climate change matters financially because it can weaken productivity and investment returns.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about economic performance, regulation, and the sovereign wealth fund’s perspective on growth and investment, with a secondary climate angle tied to financial risk.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-23
+SECTION_NO: Nyheter | Davos
+HEADLINE_NO: Schibsted Media kutter rundt 350 årsverk
+HEADLINE_EN: Schibsted Media is cutting around 350 full-time positions
+LEAD_EN: Schibsted Media has announced plans to reduce its workforce by about 350 positions in 2025 after weak growth in advertising and subscription revenues. The company says the cuts are needed to secure high-quality journalism and strengthen its competitiveness.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about company downsizing, revenues, and economic pressure in the media industry, which fits the economy category.

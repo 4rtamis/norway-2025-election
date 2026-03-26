@@ -1,0 +1,254 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Ser utlendinger på høylys dag
+HEADLINE_EN: Seeing foreigners in broad daylight
+LEAD_EN: In Jessheim, skin color has become a heated issue after a parent complained that many pupils with minority backgrounds were placed in the same class. With help from OMOD, the case was brought before the Anti-Discrimination Tribunal.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about immigrant background, discrimination, and integration in school class composition, with a secondary link to education/public services.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Hvordan kan en fred sikres i Ukraina?
+HEADLINE_EN: How can peace be secured in Ukraine?
+LEAD_EN: Jens Stoltenberg argues that the most credible way to secure a future peace in Ukraine is NATO membership once the fighting stops. The article discusses Ukraine’s demand for binding security guarantees after repeated Russian violations of past agreements.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about security guarantees, NATO, and the conditions for a durable peace in Ukraine, while also presenting Stoltenberg in a competent and authoritative role.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Nyheter | Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: Biskopen kom på kant med Trump: – Sier ikke unnskyld
+HEADLINE_EN: The bishop clashed with Trump: “Not apologizing”
+LEAD_EN: Bishop Mariann Edgar Budde says she will not apologize after urging Donald Trump to show mercy toward LGBTQ children and undocumented immigrants during a church service in Washington. Trump responded by attacking her and demanding an apology.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article’s main substantive issue is immigration, as the central conflict concerns Trump’s treatment of undocumented immigrants, with a secondary cultural dimension around LGBTQ rights and public rhetoric.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: Plutselig sto en «norsk» biskop foran Donald Trump
+HEADLINE_EN: Suddenly a “Norwegian” bishop stood before Donald Trump
+LEAD_EN: Bishop Mariann Budde unsettled Donald Trump by urging mercy for immigrants and LGBTQ people, and the article uses the episode to highlight deep divisions within American Christianity. It also draws comparisons to the more liberal tradition of the Church of Norway.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: IMM
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a commentary on religion, political culture, and divisions within U.S. churches, with immigration as a secondary substantive theme.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: Varsler kamp om transrettigheter
+HEADLINE_EN: Battle over trans rights looms
+LEAD_EN: Donald Trump has issued a presidential order declaring that only “man” and “woman” exist in official U.S. policy, stripping rights from trans and non-binary people. LGBTQ organizations are preparing a prolonged legal and political fight against the changes.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about transgender rights and gender policy in the United States, which does not fit the listed election issue categories, with a secondary link to healthcare through gender-affirming treatment.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Nyheter | World Economic Forum
+HEADLINE_NO: Tre ting Europa kan gjøre for å påvirke Trump
+HEADLINE_EN: Three things Europe can do to influence Trump
+LEAD_EN: Jens Stoltenberg argues that Europe should focus on shaping Donald Trump’s choices rather than speculating about them. He highlights higher defence spending, stronger institutions for support to Ukraine, and careful political messaging as the key steps.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: YES
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about European security, NATO, Ukraine, and relations with the United States, while secondarily presenting Stoltenberg as a credible political leader.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Nyheter | Vestbredden
+HEADLINE_NO: Israelsk offensiv i Jenin driver hundrevis av palestinere på flukt
+HEADLINE_EN: Israeli offensive in Jenin drives hundreds of Palestinians to flee
+LEAD_EN: Hundreds of Palestinians are fleeing Jenin in the occupied West Bank after the city’s governor said Israel ordered residents to evacuate. The offensive has intensified fears that Jenin could face destruction similar to parts of Gaza.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Israeli military actions against Palestinians in Jenin within the broader Israel-Palestine conflict, with a secondary security dimension due to the focus on armed operations and militias.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Nyheter | Energistrid I Støre-regjeringen
+HEADLINE_NO: Sp får sprikende råd fra sine egne
+HEADLINE_EN: The Centre Party gets conflicting advice from its own ranks
+LEAD_EN: The Norwegian government is debating whether to incorporate controversial EU energy directives into Norwegian law, a dispute that could trigger a government crisis. The issue has deepened tensions between Labour and the Centre Party, with some in Sp urging the party to leave government rather than give in.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about energy policy and electricity control/prices, with a secondary focus on coalition conflict and potential government instability in the Støre government.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Nyheter | Arkitektur
+HEADLINE_NO: – Redselen for klassisk er i ferd med å slippe taket
+HEADLINE_EN: “The fear of the classical is starting to loosen its grip”
+LEAD_EN: A proposed Tøyen metro entrance has sparked years of debate in Oslo, with many residents favoring a more classical design. The article presents this as part of a broader international trend toward traditional architectural forms.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about architecture and aesthetic preferences in urban development, which does not fit the main political issue categories provided.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Nyheter | Økonomi
+HEADLINE_NO: Norges Bank: – Trolig setter vi renten ned i mars
+HEADLINE_EN: Norges Bank: “We will probably cut the interest rate in March”
+LEAD_EN: Norges Bank kept the policy rate unchanged at 4.5 percent for the ninth meeting in a row, but signaled that a cut is likely in March. The article focuses on inflation, the krone, and economic uncertainty affecting Norwegian rate decisions.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about interest rates, inflation, and household economic conditions in Norway, which fits the cost-of-living and economy category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Nyheter | Oslo
+HEADLINE_NO: Ranet Elkjøp i sentrum: Fikk med seg 35 smarttelefoner
+HEADLINE_EN: Robbed Elkjøp in the city center: Got away with 35 smartphones
+LEAD_EN: A man in his 20s has been charged after allegedly threatening an Elkjøp employee with a knife and escaping with 35 smartphones worth about NOK 400,000. He is also accused of a second knife robbery in Oslo days later.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a local crime report about armed robbery in Oslo and does not fit the main election issue categories provided.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Nyheter | Norske Fond
+HEADLINE_NO: Vil stanse Sverige-flukt med skattelette
+HEADLINE_EN: Wants to stop the flight to Sweden with tax cuts
+LEAD_EN: The government plans to ease tax rules for Norwegian investment funds in order to prevent companies from moving operations to Sweden. Finance Minister Trygve Slagsvold Vedum says the changes should remove tax incentives for relocation.
+ISSUE_CODE: TAX
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about changing tax rules to improve competitiveness and prevent capital flight, with a secondary economic angle related to business conditions and investment.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Nyheter | Kunstig Intelligens
+HEADLINE_NO: Sensor: – Vi må seriøst vurdere å slutte med hjemmeeksamen
+HEADLINE_EN: Examiner: “We must seriously consider ending take-home exams”
+LEAD_EN: A university examiner says take-home exams may no longer be viable because it is often unclear whether students wrote their papers themselves or used artificial intelligence. The article discusses growing concern over AI cheating and how universities should adapt assessment methods.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about higher education and the functioning of public educational institutions, with a secondary technology/AI dimension that falls outside the main issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Nyheter | Oslo
+HEADLINE_NO: Oslo kommune selger stor eiendom på Dikemark i Asker
+HEADLINE_EN: Oslo municipality is selling a large property at Dikemark in Asker
+LEAD_EN: Oslo municipality has put a 70-decare property in Dikemark up for sale and hopes a private buyer will take over and develop the area. The site could become part of a broader housing and local center expansion in Asker.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about public land linked to former hospital property and municipal service assets, with a secondary urban development dimension outside the main issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Nyheter | Psykisk Helse
+HEADLINE_NO: Maud Angelica Behn: – Sorg er med deg hele livet
+HEADLINE_EN: Maud Angelica Behn: “Grief stays with you for life”
+LEAD_EN: Maud Angelica Behn reflects on grief, mental health, and losing her father to suicide five years ago. She describes how sorrow changes form over time and urges people who are struggling to seek help.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about mental health, grief, and help-seeking, which fits the health and welfare category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Nyheter | Kongehuset
+HEADLINE_NO: Prinsen var med på oppdrag i skibakken
+HEADLINE_EN: The prince took part in an assignment on the ski slope
+LEAD_EN: Prince Sverre Magnus joined Crown Prince Haakon and Crown Princess Mette-Marit on a visit to a sports club in Lommedalen. The article focuses on whether the royal household should make greater use of the younger royals in official public duties.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about the Norwegian royal family’s public role and staffing, which does not fit the main election issue categories provided.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-24
+SECTION_NO: Børsen I Gvr
+HEADLINE_NO: Laveste byggeaktivitet siden 1946
+HEADLINE_EN: Lowest level of construction activity since 1946
+LEAD_EN: Norway’s new-home market remains extremely weak, with housing starts in 2024 at their lowest level since 1946 according to industry figures. The article links the slump to high building costs, interest rates, and a severe housing shortfall.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about economic conditions affecting housing construction, interest rates, and affordability, with a secondary public-services/welfare dimension because the housing shortage is framed as a broad social problem.

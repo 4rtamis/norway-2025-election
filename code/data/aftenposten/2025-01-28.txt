@@ -1,0 +1,269 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Vis frem meldingene mellom Tangen og Musk!
+HEADLINE_EN: Show the messages between Tangen and Musk!
+LEAD_EN: Norges Bank and the Finance Ministry have refused access to text messages between Oil Fund chief Nicolai Tangen and Elon Musk, and E24 has appealed the case to the Parliamentary Ombud. The article argues that the messages concern public duties and should be disclosed under Norway’s transparency laws.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about transparency, public access to documents, and trust in public administration, which fits governance rather than a substantive policy area.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Gjør seg høy og mørk i innvandringsdebatten
+HEADLINE_EN: Acting tough in the immigration debate
+LEAD_EN: Germany’s opposition leader Friedrich Merz is moving closer to the far right on immigration after deadly attacks involving asylum seekers. The article says he is not alone, while business leaders warn against the economic costs of anti-immigration politics.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article’s main focus is immigration, asylum, deportations, and crime linked to the German election campaign, with a secondary emphasis on party competition and coalition politics.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Nyheter Nyheter Boligmarkedet
+HEADLINE_NO: Fagarbeidere kan kjøpe 0 prosent av boligene i Oslo
+HEADLINE_EN: Skilled workers can buy 0 percent of the homes in Oslo
+LEAD_EN: New figures from LO show that workers on typical skilled-trade wages are effectively shut out of the housing market in Oslo and face severe barriers in other Norwegian cities. The article highlights how ordinary full-time workers struggle to buy a home even with stable employment.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about housing affordability and economic hardship for ordinary workers, which fits the cost-of-living/economy category.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Nyheter Kriminalitet
+HEADLINE_NO: Mehl vil la politiet ransake folk som ikke er mistenkte
+HEADLINE_EN: Mehl wants to let the police search people who are not suspects
+LEAD_EN: Justice Minister Emilie Enger Mehl wants Norway to introduce police search zones modeled on Sweden and Denmark, allowing people to be stopped and searched without individualized suspicion. The article highlights criticism from legal experts and notes that police authorities themselves say such a measure is not currently needed.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about crime prevention and police powers in response to violence and gang crime, with a secondary governance dimension concerning legal safeguards and ministerial judgment.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Nyheter Energistrid I Støre-regjeringen
+HEADLINE_NO: – Norge har mistet kontrollen
+HEADLINE_EN: “Norway has lost control”
+LEAD_EN: Centre Party leader Trygve Slagsvold Vedum says Norway has lost control over electricity policy and wants to push the limits of national control over foreign power cables. The article centers on the government dispute over EU energy directives and efforts to secure lower, more stable power prices.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about electricity prices, energy market control, and foreign power cables, with a secondary governance dimension because it is tied to coalition conflict inside the government.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Nyheter Energistrid I Støre-regjeringen
+HEADLINE_NO: Kjetil B. Alstadheim: Senterpartiet er på glid. Det som var uaktuelt for partiet i forrige uke, er nå høyst aktuelt.
+HEADLINE_EN: Kjetil B. Alstadheim: The Centre Party is shifting. What was unacceptable for the party last week is now highly relevant.
+LEAD_EN: The article argues that the Centre Party is softening its position in the dispute over the EU clean energy package and is now seeking a political win rather than issuing an ultimatum. It frames the conflict as negotiations over power cables, electricity control, and Norway’s relationship with Europe.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about coalition bargaining, party maneuvering, and government conflict over the EU energy package, with electricity policy as the secondary substantive issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Nyheter Klima
+HEADLINE_NO: Aker Solutions tildelt milliardkontrakt
+HEADLINE_EN: Aker Solutions awarded billion-kroner contract
+LEAD_EN: Aker Solutions and SLB Capturi have been awarded a major contract to build a carbon capture facility at the Klemetsrud waste-to-energy plant in Oslo. The restarted project is framed as a key climate and industrial initiative backed by both the state and Oslo municipality.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about carbon capture, emissions cuts, and climate policy, with a secondary economic dimension due to the large industrial contract and public funding.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Nyheter Donald Trumps Andre Periode
+HEADLINE_NO: Presidenten er misfornøyd. Politiet har fått kvoter for hvor mange de skal arrestere daglig.
+HEADLINE_EN: The president is dissatisfied. The police have been given quotas for how many they must arrest each day.
+LEAD_EN: The Trump administration has ordered immigration authorities to sharply increase daily arrests of undocumented migrants, with local offices given fixed quotas. The article also describes broader aggressive measures to enforce Trump’s immigration and executive agenda.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about immigration enforcement, deportations, and treatment of undocumented migrants, with a secondary focus on executive power and rule-of-law concerns.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Nyheter Donald Trumps Andre Periode
+HEADLINE_NO: Trump får det han vil ha. Det er likevel ikke nok for ham.
+HEADLINE_EN: Trump gets what he wants. Even so, it is not enough for him.
+LEAD_EN: Danes feel doubly threatened: by Donald Trump’s pressure over Greenland and by Greenland’s growing push for independence from Denmark. The article argues that the U.S. can secure greater strategic access without force, yet Trump appears to want more.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about geopolitics, territorial pressure, Arctic strategy, and security relations involving the U.S., Denmark, and Greenland.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Nyheter Donald Trumps Andre Periode
+HEADLINE_NO: Grønlandsk politiker: -Trump skaper frykt
+HEADLINE_EN: Greenlandic politician: “Trump is creating fear”
+LEAD_EN: A Greenlandic member of the Danish parliament says Donald Trump’s rhetoric is making people in Greenland fearful and worried about their children’s future. She rejects the idea of Greenland becoming American and says the island’s future must be decided democratically by Greenlanders themselves.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about security, Arctic geopolitics, and U.S. pressure over Greenland, with a secondary governance dimension concerning self-determination and electoral influence; it also involves Norway through a meeting in Tromsø with Norwegian parliamentarians.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Nyheter Donald Trumps Andre Periode
+HEADLINE_NO: Framaga til Fafo: Trump har en ny forkortelse
+HEADLINE_EN: From MAGA to FAFO: Trump has a new abbreviation
+LEAD_EN: During a standoff with Colombia over deportation flights, Donald Trump posted an image of himself with the slang acronym “FAFO.” The article explains the threat-laden message and links it to Trump’s broader push for mass deportations and pressure on foreign governments to accept returnees.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about deportations and immigration enforcement, with a secondary foreign-policy dimension because it centers on U.S. pressure on Colombia over accepting returned migrants.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Nyheter Politikk
+HEADLINE_NO: Jan Bøhler forlater Sp og stiller på protestliste
+HEADLINE_EN: Jan Bøhler leaves the Centre Party and runs on a protest list
+LEAD_EN: Former MP Jan Bøhler is leaving the Centre Party to run for parliament on the single-issue list Redd Ullevål sykehus. The article frames this as a protest candidacy aimed at influencing the future of hospital policy in Oslo.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about electoral strategy, party switching, and parliamentary positioning around a protest list, with hospital policy as the secondary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Nyheter Politikk
+HEADLINE_NO: Fire dømt etter hotellkonkurs
+HEADLINE_EN: Four convicted after hotel bankruptcy
+LEAD_EN: Four people involved in running the hotel company Maribel have been sentenced to prison for extensive financial crime after the company’s 2020 bankruptcy. The case centers on fictitious agreements, tax fraud, breach of trust, and using company funds for private purposes.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about corporate financial crime and criminal convictions rather than an election-related policy domain, so it fits Other, with a secondary governance angle due to legal enforcement and accountability.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Nyheter Europol Nyheter Oslo
+HEADLINE_NO: 23 pågrepet i ukrainskledet kriminelt nettverk De pågrepne skal ha misbrukt flyktningstatusen fra Ukraina, mener Europol.
+HEADLINE_EN: 23 arrested in a Ukrainian-led criminal network. The suspects are believed to have abused refugee status from Ukraine, according to Europol.
+LEAD_EN: Twenty-three people across several European countries have been arrested in a major police operation against a criminal network led by two Ukrainian brothers. According to Europol, the group exploited the temporary protection status granted to Ukrainian refugees in the EU.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about abuse of refugee protection status and cross-border crime linked to migration, which fits immigration/integration/crime.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Nyheter Europol Nyheter Oslo
+HEADLINE_NO: Falt på glatta og brakk håndleddet. Nå får kommunen gjennomgå.
+HEADLINE_EN: Slipped on the ice and broke her wrist. Now the municipality is being criticized.
+LEAD_EN: Author Erika Fatland broke her wrist after slipping on ice along the Akerselva in Oslo and is now criticizing the municipality for poor gritting. The article links her case to wider concerns about unsafe winter streets, sick leave, and municipal maintenance.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about injury, public safety, and strain on health services from icy streets, with a secondary governance angle because it criticizes municipal service performance.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Nyheter Holocaust
+HEADLINE_NO: 80 år siden Auschwitz. Men hva har verden egentlig lært?
+HEADLINE_EN: 80 years since Auschwitz. But what has the world really learned?
+LEAD_EN: World leaders once again gathered to commemorate the liberation of Auschwitz, but the wars in Ukraine and Gaza overshadow the anniversary. The article reflects on Holocaust memory, antisemitism, and the tension between remembrance and ongoing conflict.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GAZ
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about international conflict, war, and geopolitical tensions surrounding the Auschwitz commemoration, with Gaza as a clear secondary theme.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Nyheter Holocaust
+HEADLINE_NO: Fuglefjær og blod funnet i flymotorene
+HEADLINE_EN: Bird feathers and blood found in the aircraft engines
+LEAD_EN: Bird feathers and blood were found in both engines of the plane that crash-landed in South Korea on 29 December. Investigators are examining possible bird strike involvement, but the cause of the crash remains unclear.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is about an aviation accident investigation in South Korea and does not fit the main election-related policy categories, so it belongs in Other.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-28
+SECTION_NO: Børsen I Går
+HEADLINE_NO: Eu-landene sier ja til å forlenge sanksjoner mot Russland
+HEADLINE_EN: EU countries agree to extend sanctions against Russia
+LEAD_EN: EU foreign ministers unanimously agreed to extend sanctions on Russia for another six months despite earlier resistance from Hungary. The decision keeps Russian assets frozen and preserves economic pressure linked to the war in Ukraine.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about foreign policy and the sanctions regime tied to Russia’s war in Ukraine, with a secondary economic dimension because it concerns energy flows, trade restrictions, and frozen assets.

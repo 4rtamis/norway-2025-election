@@ -1,0 +1,179 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-26
+SECTION_NO: Nyheter | Nyheter | Politikk
+HEADLINE_NO: Det finnes ikke noe Nrkprogram som heter «Da vi ikke styrte landet»
+HEADLINE_EN: There is no NRK program called “When We Didn’t Govern the Country”
+LEAD_EN: If voluntarily giving up government power were such a clever move, Thorbjørn Jagland would be the greatest political tactician of the past 40 years. The article argues that leaving government may offer tactical freedom, but governing power is far more valuable.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The piece is primarily about government stability, coalition breakdown, and the strategic costs and benefits of leaving office, with energy policy and electricity prices as a secondary backdrop.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-26
+SECTION_NO: Nyheter | Politikk
+HEADLINE_NO: Dag-inge Ulstein er ny Krf-leder. Han vil ikke bli en overgangsfigur.
+HEADLINE_EN: Dag-Inge Ulstein is the new KrF leader. He does not want to be a transitional figure.
+LEAD_EN: Dag-Inge Ulstein says he is more motivated than he has been in a long time after being elected KrF leader. At the same time, the party is refreshing its profile with a new slogan, logo, and sharper political priorities.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly about party leadership change, party branding, electoral positioning, and possible coalition implications, which makes governance and political leadership the primary issue.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-26
+SECTION_NO: Nyheter | Fødsel
+HEADLINE_NO: – Det kunne aldri funket for meg å føde hjemme
+HEADLINE_EN: “Giving birth at home could never have worked for me”
+LEAD_EN: Therese Rindal says she had a wonderful hospital birth, but not all women do. A new survey may provide answers about how women experience maternity and childbirth care in Norway.
+ISSUE_CODE: HEA
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about maternity care, hospital births, patient trust, and the quality of public health services, which places it squarely in health and welfare.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-26
+SECTION_NO: Nyheter | Energistrid I Støre-regjeringen
+HEADLINE_NO: Senterpartiet viker ikke: – Stortingsgruppen samlet mot Eu-pakken
+HEADLINE_EN: Centre Party does not budge: “The parliamentary group is united against the EU package”
+LEAD_EN: The Centre Party says there is no room for compromise with Labour over the EU’s fourth energy market package. The dispute could trigger a government crisis and leave Labour governing alone before the autumn election.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article centers on the EU energy package, national control over electricity, and stable power prices, while the risk of a government breakdown is a secondary governance dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-26
+SECTION_NO: Nyheter | Israel Og Hamas I Krig
+HEADLINE_NO: Fire israelske soldater og 200 palestinske fanger løslatt
+HEADLINE_EN: Four Israeli soldiers and 200 Palestinian prisoners released
+LEAD_EN: Four female Israeli soldiers and 200 Palestinian prisoners were freed in a prisoner exchange between Israel and Hamas under the ceasefire agreement. The exchange was the second so far since the truce took effect.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about the Gaza war and a hostage-prisoner exchange between Israel and Hamas, with a secondary broader conflict and security dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-26
+SECTION_NO: Nyheter | Russland
+HEADLINE_NO: Fire israelske soldater og 200 palestinske fanger løslatt
+HEADLINE_EN: Four Israeli soldiers and 200 Palestinian prisoners released
+LEAD_EN: Four female Israeli soldiers and 200 Palestinian prisoners were freed in a prisoner exchange between Israel and Hamas under the ceasefire agreement. The swap was the second carried out since the truce took effect.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: SEC
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: Despite the section mismatch, the article’s headline and main reported event concern the Gaza war and a hostage-prisoner exchange between Israel and Hamas, with a secondary security/conflict dimension.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-26
+SECTION_NO: Nyheter | Russland
+HEADLINE_NO: Gigantisfjell kan true pingviner på Sør-Georgia
+HEADLINE_EN: Giant iceberg could threaten penguins on South Georgia
+LEAD_EN: The world’s largest iceberg is drifting toward South Georgia and may threaten important breeding grounds for penguins and seals. Researchers say it could run aground near the island within weeks.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about an environmental threat to wildlife and ecosystems caused by a massive iceberg, which fits climate and environment.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-26
+SECTION_NO: Nyheter | Økonomi
+HEADLINE_NO: Kontoen var alltid tom lenge før lønning. Da fant hun frem kredittkortet.
+HEADLINE_EN: Her account was always empty long before payday. Then she reached for the credit card.
+LEAD_EN: Ingeborg Bern realized at 29 how high credit-card interest really was and that she had to change course. She now shares advice with others about personal finance after getting control of her debt.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about personal debt, high interest costs, and household financial management, with a secondary element related to family welfare and parental leave.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-26
+SECTION_NO: Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: Hegseth fikk jobben med minst mulig margin
+HEADLINE_EN: Hegseth got the job by the narrowest possible margin
+LEAD_EN: Pete Hegseth was confirmed as U.S. defense secretary only after Vice President J.D. Vance cast the tie-breaking vote. The article highlights the unusually fierce opposition and concerns about his qualifications and views on NATO.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about U.S. defense leadership, NATO, Ukraine, and military policy, with a secondary governance element related to Senate confirmation politics.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-26
+SECTION_NO: Nyheter | Grønland
+HEADLINE_NO: Avis om Trumps samtale med Mette Frederiksen: – Det var forferdelig
+HEADLINE_EN: Newspaper on Trump’s conversation with Mette Frederiksen: “It was terrible”
+LEAD_EN: According to the Financial Times, Donald Trump pressed hard in a phone call with Danish Prime Minister Mette Frederiksen about taking over Greenland. Sources described the exchange as confrontational and potentially dangerous.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about international security, Arctic geopolitics, and U.S. foreign policy pressure over Greenland.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-26
+SECTION_NO: Nyheter | Grønland
+HEADLINE_NO: Kjøpte gullnagle til over 2 millioner
+HEADLINE_EN: Bought a golden spike for more than 2 million
+LEAD_EN: A museum and a city in Alaska paid 201,600 dollars to acquire a ceremonial gold spike linked to the completion of the Alaska Railroad in 1923. It will now return to Alaska for permanent public display.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a cultural-historical news item about an auctioned museum object in Alaska and does not fit the main election-related policy categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-26
+SECTION_NO: Nyheter | Holdbarhet
+HEADLINE_NO: Slik finner du klær som varer lenge
+HEADLINE_EN: How to find clothes that last a long time
+LEAD_EN: Are your clothes wearing out quickly? With a few simple steps, consumers can make better purchases and choose garments that keep their shape and quality for longer.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is mainly a consumer advice piece about clothing quality and durability rather than a core election issue, though it has a secondary sustainability angle.

@@ -1,0 +1,209 @@
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-21
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Forvirret fra Bergstø
+HEADLINE_EN: Confused message from Bergstø
+LEAD_EN: SV leader Kirsti Bergstø debated with Jonas Gahr Støre and Sylvi Listhaug about how Norway should handle Donald Trump’s return to the White House. The commentary argues that her positions on NATO, the U.S., the EU, and trade are contradictory and not in Norway’s interest.
+ISSUE_CODE: SEC
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Norway’s security and foreign-policy orientation toward the U.S., NATO, and Europe under Trump, while secondarily touching on party leadership and political positioning.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-21
+SECTION_NO: Leder & Kommentar
+HEADLINE_NO: Likestilling har handlet mye om likhet. Endrer dette seg?
+HEADLINE_EN: Equality has largely been about sameness. Is that changing?
+LEAD_EN: A new study suggests young women and men in Norway hold more conservative views on gender roles, but the commentator argues this does not mean support for equality is weakening. Instead, she says younger people may be adopting a more nuanced view focused on equal rights rather than identical choices.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily a broader social commentary on gender equality attitudes in Norway rather than on one of the specified election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-21
+SECTION_NO: Nyheter | Nyheter | Våpenhvile På Gazastripen
+HEADLINE_NO: Håper på gledeshistorier fra Gaza
+HEADLINE_EN: Hoping for uplifting stories from Gaza
+LEAD_EN: As the ceasefire between Israel and Hamas begins, Norwegian aid and medical workers hope they can finally enter Gaza under safer conditions and bring in badly needed assistance. The article focuses on the huge humanitarian needs, medical evacuations, and fragile hopes for relief.
+ISSUE_CODE: GAZ
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about Gaza and the humanitarian consequences of the war, with a secondary focus on medical care and emergency health needs.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-21
+SECTION_NO: Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: Tror på bedre økonomi med Trumps politikk
+HEADLINE_EN: Believes Trump’s policies will improve the economy
+LEAD_EN: In heavily pro-Trump West Virginia, several residents who depend on public support still believe Donald Trump’s return will improve the U.S. economy. The article explores poverty, welfare dependence, and expectations that his policies will bring change.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: HEA
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about economic hardship, welfare dependence, and expectations for improvement under Trump’s economic policies, with a secondary connection to health and social support services.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: NO
+PUBLICATION_DATE: 2025-01-21
+SECTION_NO: Nyheter | Donald Trumps Andre Periode
+HEADLINE_NO: Joe Biden delte ut «frikort» mot fremtidig rettsforfølgelse
+HEADLINE_EN: Joe Biden handed out “free passes” against future prosecution
+LEAD_EN: In one of his final acts as president, Joe Biden granted pre-emptive pardons to figures such as Anthony Fauci, Mark Milley, and members of the January 6 committee. The move may complicate Donald Trump’s stated ambitions to pursue political opponents and critics.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about presidential power, political retaliation, and institutional leadership in the U.S., rather than a specific policy domain.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-21
+SECTION_NO: Nyheter | Stortingsvalget 2025
+HEADLINE_NO: Vestre og Brenna slår ring om Støre
+HEADLINE_EN: Vestre and Brenna rally around Støre
+LEAD_EN: Labour deputy leaders Jan Christian Vestre and Tonje Brenna publicly back Jonas Gahr Støre as party leader and prime minister ahead of the election campaign. The article also reports Labour’s new promises on electricity support and lower grid charges as part of its election platform.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: POS
+BRIEF_JUSTIFICATION: The article is primarily about Labour’s leadership, internal party unity, and election positioning around Støre, with a secondary focus on cost-of-living and electricity policy.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-21
+SECTION_NO: Nyheter | Stortingsvalget 2025
+HEADLINE_NO: Enorm Frp-oppslutning i LO
+HEADLINE_EN: Huge support for the Progress Party in LO
+LEAD_EN: A new poll suggests the Progress Party may now be as large as or larger than Labour among LO members, though the sample is small and uncertain. The article centers on Sylvi Listhaug’s attack on the close ties between LO and Labour and on how this could affect the 2025 election.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: YES
+MENTIONS_SOLBERG: NO
+TONE_AP: NEG
+BRIEF_JUSTIFICATION: The article is primarily about party competition, polling, and the political relationship between LO and Labour, while secondarily invoking cost-of-living grievances such as fuel and electricity prices.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-21
+SECTION_NO: Nyheter | Hadeland
+HEADLINE_NO: Mistanken omstraffbart forhold er svekket
+HEADLINE_EN: Suspicion of criminal conduct has weakened
+LEAD_EN: Police say suspicion of a criminal offense has weakened after questioning a woman found severely hypothermic near a dead man in snowy woodland on Hadeland. The case began after both of their mobile phones sent automatic emergency alerts, and investigators are still trying to determine what happened.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: 
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is a domestic crime and police investigation story that does not fit the specified election issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-21
+SECTION_NO: Nyheter | « Landet Som Ble For Rikt»
+HEADLINE_NO: SSB avviser blankt at det er oppblåste tall i statistikken
+HEADLINE_EN: Statistics Norway flatly rejects claims that the figures are inflated
+LEAD_EN: Statistics Norway rejects author and economist Martin Bech Holte’s claim that Norwegian GDP and productivity figures are artificially inflated by oil money and subsidies. SSB argues that Norway uses the same internationally standardized methods as other countries and that the data do not support his conclusions.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about economic measurement, productivity, and the performance of the Norwegian economy, with a secondary governance angle related to public-sector statistics and state spending.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-21
+SECTION_NO: Nyheter | Pressefrihet
+HEADLINE_NO: Flere og flere journalister blir drept eller truet
+HEADLINE_EN: More and more journalists are being killed or threatened
+LEAD_EN: The article describes growing threats, violence, and killings targeting journalists around the world, while also highlighting serious threats against Norwegian VG journalist Rolf J. Widerøe. Editors warn that strong independent media are essential if journalism is not to be silenced by intimidation.
+ISSUE_CODE: OTH
+ISSUE_CODE_2: GOV
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about press freedom and threats against journalists, which falls outside the main election issue categories, with a secondary governance dimension related to democratic institutions and rule of law.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-21
+SECTION_NO: Nyheter | Oslofjorden
+HEADLINE_NO: Fiskere fortviler over nytt forslag
+HEADLINE_EN: Fishermen despair over new proposal
+LEAD_EN: The Norwegian government has proposed unusually strict fishing restrictions in the Oslo Fjord to restore marine life, including total fishing bans in three large areas. Shrimp trawler operators warn that the measures could destroy their livelihoods and shut down key local fishing activity.
+ISSUE_CODE: CLI
+ISSUE_CODE_2: ECON
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about environmental protection and ecosystem recovery in the Oslo Fjord, with a secondary economic dimension because the proposed fishing bans threaten jobs and livelihoods.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-21
+SECTION_NO: Nyheter | Politikk
+HEADLINE_NO: Sonet 30 dager for sivil ulydighet. Nå vil han bli Sv-nestleder.
+HEADLINE_EN: Served 30 days for civil disobedience. Now he wants to become SV deputy leader.
+LEAD_EN: Lars Haltbrekken, SV’s most prominent climate and environment profile, says he wants to join the party leadership as deputy leader. The article focuses on his candidacy, his position inside the party, and how he could strengthen SV’s green voice at the top.
+ISSUE_CODE: GOV
+ISSUE_CODE_2: CLI
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about an internal leadership contest and positioning within SV, with a secondary climate-policy dimension because Haltbrekken is framed mainly through his environmental profile.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-21
+SECTION_NO: Nyheter | Dagligvarehandel
+HEADLINE_NO: Kunder føler seg lurt av Kiwi-kampanje
+HEADLINE_EN: Customers feel misled by Kiwi campaign
+LEAD_EN: Aftenposten found that many of Kiwi’s advertised “discounted” healthy products had previous prices higher than the current prices of the same items at Meny. Customers and the Consumer Council say this makes the campaign look misleading, even though Kiwi says it follows the rules.
+ISSUE_CODE: ECON
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about grocery prices, consumer purchasing power, and potentially misleading discount practices, with a secondary consumer-protection angle outside the main issue categories.
+
+NEWSPAPER: Aftenposten
+CONCERNS_NORWAY: YES
+PUBLICATION_DATE: 2025-01-21
+SECTION_NO: Nyheter | Bærsen I Gvr Lillestræm
+HEADLINE_NO: Fikk melding om at en person var skutt
+HEADLINE_EN: Received a report that a person had been shot
+LEAD_EN: Police in Lillestrøm responded to a report that someone had been shot and cordoned off part of the town center. They later found the alleged victim unharmed, arrested one person, and said the incident appears linked to a criminal milieu and likely involved a gas weapon.
+ISSUE_CODE: IMM
+ISSUE_CODE_2: OTH
+MENTIONS_STOLTENBERG: NO
+MENTIONS_LISTHAUG: NO
+MENTIONS_SOLBERG: NO
+TONE_AP: NEU
+BRIEF_JUSTIFICATION: The article is primarily about violent crime and public safety, which fits the crime dimension of the immigration/integration/crime category, with a secondary general domestic-news aspect.
