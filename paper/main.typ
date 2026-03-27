@@ -1,5 +1,6 @@
 #import "./ilm/lib.typ": *
-#import "@preview/wordometer:0.1.5": total-words, word-count
+
+#set text(lang: "en")
 
 #show: ilm.with(
   title: [
@@ -89,8 +90,6 @@
 )
 
 #set text(lang: "en")
-
-#show: word-count
 
 = Introduction
 
